@@ -57,7 +57,7 @@ button, input, select { font: inherit; color: inherit; }
 .kicker { font-size: .75rem; letter-spacing: .3em; text-transform: uppercase; color: var(--gold-dark); margin: 0; }
 .hero h1 { font-family: var(--serif); font-weight: 500; font-size: clamp(2.8rem, 6vw, 3.75rem); line-height: 1.1; margin: 1.25rem 0; }
 .hero p.lead { color: var(--taupe); font-size: 1.1rem; max-width: 28rem; margin: 0 0 1.5rem; }
-.hero__logo { width: min(20rem, 70%); margin: 0 auto; }
+.hero__logo { width: min(20rem, 70%); height: auto; margin: 0 auto; }
 .btns { display: flex; flex-wrap: wrap; gap: .75rem; }
 .btn { display: inline-flex; align-items: center; justify-content: center; gap: .5rem; border-radius: 999px; padding: .75rem 1.75rem; font-size: .85rem; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; text-decoration: none; border: 1px solid transparent; cursor: pointer; }
 .btn--gold { background: var(--gold); color: var(--ink); }

@@ -5,9 +5,8 @@
  */
 "use strict";
 
-// Número de WhatsApp de la tienda en formato internacional (p. ej. "573001234567").
-// Vacío: WhatsApp se abre con el mensaje listo y la persona elige el chat.
-const WHATSAPP_NUMBER = "";
+// Número de WhatsApp de Vella Perfumería en formato internacional (+57 300 552 9515).
+const WHATSAPP_NUMBER = "573005529515";
 
 const PRICE_RANGES = [
   { key: "hasta-150000", label: "Hasta $ 150.000", min: null, max: 150000 },
@@ -108,7 +107,7 @@ function card(p, eager) {
   </a></li>`;
 }
 function crumbs(items) {
-  return `<nav aria-label="Migas de pan"><ol class="crumbs">${items
+  return `<nav class="crumbs-nav" aria-label="Migas de pan"><ol class="crumbs">${items
     .map((it, i) => (i ? '<li aria-hidden="true">›</li>' : "") + (it.href ? `<li><a href="${it.href}">${esc(it.label)}</a></li>` : `<li class="here" aria-current="page">${esc(it.label)}</li>`))
     .join("")}</ol></nav>`;
 }
@@ -122,7 +121,7 @@ function renderHome() {
   return {
     html: `
     <section class="hero bg-vella"><div class="container hero__grid">
-      <div>
+      <div class="hero__text">
         <p class="kicker">Perfumería original importada</p>
         <h1>Fragancias que dejan huella</h1>
         <p class="lead">Lo más lindo de la perfumería de diseñador y árabe, seleccionado con mucho amor. Fragancias originales, al detal y por mayor, con envíos en Colombia.</p>
@@ -135,8 +134,10 @@ function renderHome() {
     </div></section>
     <div class="container">
       <ul class="cats">${cats}</ul>
-      <div class="section-head"><h2>Novedades</h2><a href="#/catalogo">Ver todo</a></div>
-      <ul class="grid grid--wide">${latest}</ul>
+      <div class="home-latest">
+        <div class="section-head"><h2>Novedades</h2><a href="#/catalogo">Ver todo</a></div>
+        <ul class="grid grid--wide">${latest}</ul>
+      </div>
     </div>
     <section class="story">
       <p class="kicker">Nuestra historia</p>
@@ -296,7 +297,7 @@ function renderProduct(slug) {
     : "";
   return {
     title: p.title,
-    html: `<div class="container">
+    html: `<div class="container product-page">
       ${crumbs([{ label: "Inicio", href: "#/" }, { label: "Perfumes", href: "#/catalogo" }, ...(category ? [{ label: category.name, href: `#/catalogo/${category.slug}` }] : [])])}
       <div class="product">
         <div>

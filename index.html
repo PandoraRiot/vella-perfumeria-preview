@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="es-CO">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Vella Perfumería — Vista previa</title>
+  <meta name="description" content="Vista previa de la tienda en línea de Vella Perfumería: perfumería original importada de diseñador y árabe." />
+  <!-- Vista previa para revisión: que los buscadores no la indexen antes del lanzamiento. -->
+  <meta name="robots" content="noindex, nofollow" />
+  <meta property="og:title" content="Vella Perfumería — Vista previa" />
+  <meta property="og:description" content="Perfumería original importada de diseñador y árabe." />
+  <meta property="og:image" content="brand/og.png" />
+  <link rel="icon" href="brand/icon.png" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600&family=Jost:wght@300;400;500;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css?v=1" />
+</head>
+<body>
+  <a class="skip" href="#main">Saltar al contenido</a>
+  <div class="preview-bar" role="note">
+    Vista previa de la tienda · Los pedidos se hacen por WhatsApp
+  </div>
+
+  <header class="header">
+    <div class="header__top bg-vella">
+      <div class="container header__row">
+        <a href="#/" class="brand" aria-label="Vella Perfumería, inicio">
+          <img src="brand/vella-monogram.png" alt="" width="346" height="299" />
+          <span>VELLA</span>
+        </a>
+        <form class="search" role="search" id="searchForm">
+          <label for="q" class="sr-only">Buscar perfumes</label>
+          <input id="q" type="search" maxlength="100" placeholder="Busca un perfume o una marca" autocomplete="off" />
+          <button type="submit" aria-label="Buscar">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7" /><path d="m20 20-3.5-3.5" /></svg>
+          </button>
+        </form>
+      </div>
+    </div>
+    <nav class="catnav" aria-label="Categorías">
+      <ul class="container" id="catnav"></ul>
+    </nav>
+  </header>
+
+  <main id="main" tabindex="-1"></main>
+
+  <footer class="footer bg-vella">
+    <div class="container footer__grid">
+      <div>
+        <img src="brand/vella-lockup-dark.png" alt="Vella Perfumería" class="footer__logo" width="627" height="502" />
+        <p class="taupe">Perfumes originales, especiales y cuidadosamente seleccionados, al detal y por mayor.</p>
+      </div>
+      <div>
+        <p class="footer__title">Categorías</p>
+        <ul id="footcats"></ul>
+      </div>
+      <div>
+        <p class="footer__title">¿Buscas un perfume?</p>
+        <p class="taupe">Si no lo encuentras en el catálogo, pregúntanos: haremos lo posible por conseguirlo y traerlo para ti.</p>
+      </div>
+    </div>
+    <p class="footer__copy">© 2026 Vella Perfumería · Vista previa, precios sujetos a cambios</p>
+  </footer>
+
+  <a class="wa-float" id="waFloat" target="_blank" rel="noopener noreferrer" aria-label="Escríbenos por WhatsApp"></a>
+
+  <script src="app.js?v=1" defer></script>
+</body>
+</html>

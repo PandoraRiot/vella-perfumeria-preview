@@ -1,0 +1,1101 @@
+{
+ "exportado": "2026-09-27T17:50:53.865Z",
+ "categories": [
+  {
+   "slug": "sets-de-regalo",
+   "name": "Sets de regalo",
+   "description": "Sets seleccionados con amor: el regalo perfecto para esa persona especial."
+  },
+  {
+   "slug": "disenador-hombre",
+   "name": "Diseñador para hombre",
+   "description": "Perfumería de diseñador para hombre. Elegancia, carácter y distinción en cada fragancia."
+  },
+  {
+   "slug": "disenador-dama",
+   "name": "Diseñador para dama",
+   "description": "Perfumes de diseñador para dama. Feminidad en cada aroma, elegancia que deja huella."
+  },
+  {
+   "slug": "perfumeria-arabe",
+   "name": "Perfumería árabe",
+   "description": "Aromas intensos, elegantes y únicos que dejan huella, para quienes aman las fragancias con personalidad y sofisticación."
+  }
+ ],
+ "products": [
+  {
+   "slug": "lattafa-badee-al-oud-sublime-100ml",
+   "title": "Lattafa Badee Al Oud Sublime",
+   "description": "Lattafa Badee Al Oud Sublime, de Lattafa. Eau de Parfum · 100 ml · unisex. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Lattafa",
+   "gender": "Unisex",
+   "size": "100 ml",
+   "category": "perfumeria-arabe",
+   "priceCents": 17000000,
+   "inStock": false,
+   "images": [
+    {
+     "src": "img/lattafa-badee-al-oud-sublime-100ml-1.webp",
+     "alt": "Lattafa Badee Al Oud Sublime"
+    }
+   ]
+  },
+  {
+   "slug": "lattafa-badee-al-oud-oud-for-glory-edp",
+   "title": "Lattafa Badee Al Oud – Oud for Glory",
+   "description": "Lattafa Badee Al Oud – Oud for Glory, de Lattafa. Eau de Parfum · unisex. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Lattafa",
+   "gender": "Unisex",
+   "size": null,
+   "category": "perfumeria-arabe",
+   "priceCents": 17000000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/lattafa-badee-al-oud-oud-for-glory-edp-1.webp",
+     "alt": "Lattafa Badee Al Oud – Oud for Glory"
+    }
+   ]
+  },
+  {
+   "slug": "rasasi-hawas-viper-edp-100ml",
+   "title": "Rasasi Hawas Viper",
+   "description": "Rasasi Hawas Viper, de Rasasi. Eau de Parfum · 100 ml · para hombre. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Rasasi",
+   "gender": "Hombre",
+   "size": "100 ml",
+   "category": "perfumeria-arabe",
+   "priceCents": 23000000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/rasasi-hawas-viper-edp-100ml-1.webp",
+     "alt": "Rasasi Hawas Viper"
+    }
+   ]
+  },
+  {
+   "slug": "rasasi-hawas-black-edp-100ml",
+   "title": "Rasasi Hawas Black",
+   "description": "Rasasi Hawas Black, de Rasasi. Eau de Parfum · 100 ml · para hombre. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Rasasi",
+   "gender": "Hombre",
+   "size": "100 ml",
+   "category": "perfumeria-arabe",
+   "priceCents": 21500000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/rasasi-hawas-black-edp-100ml-1.webp",
+     "alt": "Rasasi Hawas Black"
+    }
+   ]
+  },
+  {
+   "slug": "rasasi-hawas-atlantis-edp-100ml",
+   "title": "Rasasi Hawas Atlantis",
+   "description": "Rasasi Hawas Atlantis, de Rasasi. Eau de Parfum · 100 ml · para hombre. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Rasasi",
+   "gender": "Hombre",
+   "size": "100 ml",
+   "category": "perfumeria-arabe",
+   "priceCents": 23000000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/rasasi-hawas-atlantis-edp-100ml-1.webp",
+     "alt": "Rasasi Hawas Atlantis"
+    }
+   ]
+  },
+  {
+   "slug": "rasasi-hawas-ice-edp-100ml",
+   "title": "Rasasi Hawas Ice",
+   "description": "Rasasi Hawas Ice, de Rasasi. Eau de Parfum · 100 ml · para hombre. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Rasasi",
+   "gender": "Hombre",
+   "size": "100 ml",
+   "category": "perfumeria-arabe",
+   "priceCents": 23500000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/rasasi-hawas-ice-edp-100ml-1.webp",
+     "alt": "Rasasi Hawas Ice"
+    }
+   ]
+  },
+  {
+   "slug": "rasasi-hawas-fire-for-him-edp-100ml",
+   "title": "Rasasi Hawas Fire for Him",
+   "description": "Rasasi Hawas Fire for Him, de Rasasi. Eau de Parfum · 100 ml · para hombre. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Rasasi",
+   "gender": "Hombre",
+   "size": "100 ml",
+   "category": "perfumeria-arabe",
+   "priceCents": 24500000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/rasasi-hawas-fire-for-him-edp-100ml-1.webp",
+     "alt": "Rasasi Hawas Fire for Him"
+    }
+   ]
+  },
+  {
+   "slug": "armaf-club-de-nuit-intense-woman-edp-100ml",
+   "title": "Armaf Club de Nuit Intense Woman",
+   "description": "Armaf Club de Nuit Intense Woman, de Armaf. Eau de Parfum · 100 ml · para dama. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Armaf",
+   "gender": "Dama",
+   "size": "100 ml",
+   "category": "perfumeria-arabe",
+   "priceCents": 18000000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/armaf-club-de-nuit-intense-woman-edp-100ml-1.webp",
+     "alt": "Armaf Club de Nuit Intense Woman"
+    }
+   ]
+  },
+  {
+   "slug": "armaf-club-de-nuit-woman-edp-100ml",
+   "title": "Armaf Club de Nuit Woman",
+   "description": "Armaf Club de Nuit Woman, de Armaf. Eau de Parfum · 100 ml · para dama. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Armaf",
+   "gender": "Dama",
+   "size": "100 ml",
+   "category": "perfumeria-arabe",
+   "priceCents": 18000000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/armaf-club-de-nuit-woman-edp-100ml-1.webp",
+     "alt": "Armaf Club de Nuit Woman"
+    }
+   ]
+  },
+  {
+   "slug": "armaf-club-de-nuit-sillage-edp-100ml",
+   "title": "Armaf Club de Nuit Sillage",
+   "description": "Armaf Club de Nuit Sillage, de Armaf. Eau de Parfum · 100 ml · para hombre. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Armaf",
+   "gender": "Hombre",
+   "size": "100 ml",
+   "category": "perfumeria-arabe",
+   "priceCents": 20500000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/armaf-club-de-nuit-sillage-edp-100ml-1.webp",
+     "alt": "Armaf Club de Nuit Sillage"
+    }
+   ]
+  },
+  {
+   "slug": "armaf-club-de-nuit-milestone-edp-100ml",
+   "title": "Armaf Club de Nuit Milestone",
+   "description": "Armaf Club de Nuit Milestone, de Armaf. Eau de Parfum · 100 ml · unisex. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Armaf",
+   "gender": "Unisex",
+   "size": "100 ml",
+   "category": "perfumeria-arabe",
+   "priceCents": 19200000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/armaf-club-de-nuit-milestone-edp-100ml-1.webp",
+     "alt": "Armaf Club de Nuit Milestone"
+    }
+   ]
+  },
+  {
+   "slug": "armaf-club-de-nuit-intense-man-100ml",
+   "title": "Armaf Club de Nuit Intense Man",
+   "description": "Armaf Club de Nuit Intense Man, de Armaf. Eau de Toilette · 100 ml · para hombre. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Armaf",
+   "gender": "Hombre",
+   "size": "100 ml",
+   "category": "perfumeria-arabe",
+   "priceCents": 19200000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/armaf-club-de-nuit-intense-man-100ml-1.webp",
+     "alt": "Armaf Club de Nuit Intense Man"
+    }
+   ]
+  },
+  {
+   "slug": "lattafa-eclaire-pistache",
+   "title": "Lattafa Eclaire Pistache",
+   "description": "Lattafa Eclaire Pistache, de Lattafa. Eau de Parfum · unisex. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Lattafa",
+   "gender": "Unisex",
+   "size": null,
+   "category": "perfumeria-arabe",
+   "priceCents": 14500000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/lattafa-eclaire-pistache-1.webp",
+     "alt": "Lattafa Eclaire Pistache"
+    }
+   ]
+  },
+  {
+   "slug": "afnan-9pm-elixir-parfum-intense-100ml",
+   "title": "Afnan 9PM Elixir Parfum Intense",
+   "description": "Afnan 9PM Elixir Parfum Intense, de Afnan. Parfum · 100 ml · unisex. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Afnan",
+   "gender": "Unisex",
+   "size": "100 ml",
+   "category": "perfumeria-arabe",
+   "priceCents": 20500000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/afnan-9pm-elixir-parfum-intense-100ml-1.webp",
+     "alt": "Afnan 9PM Elixir Parfum Intense"
+    }
+   ]
+  },
+  {
+   "slug": "lattafa-khamrah-waha-100ml",
+   "title": "Lattafa Khamrah Waha",
+   "description": "Lattafa Khamrah Waha, de Lattafa. Eau de Parfum · 100 ml · unisex. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Lattafa",
+   "gender": "Unisex",
+   "size": "100 ml",
+   "category": "perfumeria-arabe",
+   "priceCents": 21500000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/lattafa-khamrah-waha-100ml-1.webp",
+     "alt": "Lattafa Khamrah Waha"
+    }
+   ]
+  },
+  {
+   "slug": "armaf-odyssey-mandarin-sky-vintage-edp-100ml",
+   "title": "Armaf Odyssey Mandarin Sky Vintage Edition",
+   "description": "Armaf Odyssey Mandarin Sky Vintage Edition, de Armaf. Eau de Parfum · 100 ml · para hombre. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Armaf",
+   "gender": "Hombre",
+   "size": "100 ml",
+   "category": "perfumeria-arabe",
+   "priceCents": 19500000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/armaf-odyssey-mandarin-sky-vintage-edp-100ml-1.webp",
+     "alt": "Armaf Odyssey Mandarin Sky Vintage Edition"
+    }
+   ]
+  },
+  {
+   "slug": "armaf-odyssey-go-mango-edp",
+   "title": "Armaf Odyssey Go Mango Tropical Collection",
+   "description": "Armaf Odyssey Go Mango Tropical Collection, de Armaf. Eau de Parfum · unisex. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Armaf",
+   "gender": "Unisex",
+   "size": null,
+   "category": "perfumeria-arabe",
+   "priceCents": 19000000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/armaf-odyssey-go-mango-edp-1.webp",
+     "alt": "Armaf Odyssey Go Mango Tropical Collection"
+    }
+   ]
+  },
+  {
+   "slug": "lattafa-yara-edp-100ml",
+   "title": "Lattafa Yara",
+   "description": "Lattafa Yara, de Lattafa. Eau de Parfum · 100 ml · para dama. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Lattafa",
+   "gender": "Dama",
+   "size": "100 ml",
+   "category": "perfumeria-arabe",
+   "priceCents": 15000000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/lattafa-yara-edp-100ml-1.webp",
+     "alt": "Lattafa Yara"
+    }
+   ]
+  },
+  {
+   "slug": "lattafa-asad-elixir-edp-100ml",
+   "title": "Lattafa Asad Elixir",
+   "description": "Lattafa Asad Elixir, de Lattafa. Eau de Parfum · 100 ml · para hombre. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Lattafa",
+   "gender": "Hombre",
+   "size": "100 ml",
+   "category": "perfumeria-arabe",
+   "priceCents": 19000000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/lattafa-asad-elixir-edp-100ml-1.webp",
+     "alt": "Lattafa Asad Elixir"
+    }
+   ]
+  },
+  {
+   "slug": "lattafa-asad-edp-100ml",
+   "title": "Lattafa Asad",
+   "description": "Lattafa Asad, de Lattafa. Eau de Parfum · 100 ml · para hombre. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Lattafa",
+   "gender": "Hombre",
+   "size": "100 ml",
+   "category": "perfumeria-arabe",
+   "priceCents": 15000000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/lattafa-asad-edp-100ml-1.webp",
+     "alt": "Lattafa Asad"
+    }
+   ]
+  },
+  {
+   "slug": "armaf-yum-yum-100ml",
+   "title": "Armaf Yum Yum",
+   "description": "Armaf Yum Yum, de Armaf. Eau de Parfum · 100 ml · para dama. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Armaf",
+   "gender": "Dama",
+   "size": "100 ml",
+   "category": "perfumeria-arabe",
+   "priceCents": 20500000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/armaf-yum-yum-100ml-1.webp",
+     "alt": "Armaf Yum Yum"
+    }
+   ]
+  },
+  {
+   "slug": "lattafa-mayar-edp-100ml",
+   "title": "Lattafa Mayar",
+   "description": "Lattafa Mayar, de Lattafa. Eau de Parfum · 100 ml · para dama. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Lattafa",
+   "gender": "Dama",
+   "size": "100 ml",
+   "category": "perfumeria-arabe",
+   "priceCents": 16000000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/lattafa-mayar-edp-100ml-1.webp",
+     "alt": "Lattafa Mayar"
+    }
+   ]
+  },
+  {
+   "slug": "lattafa-set-miniaturas-badee-al-oud",
+   "title": "Lattafa Set Miniaturas Badee Al Oud Collection",
+   "description": "Lattafa Set Miniaturas Badee Al Oud Collection, de Lattafa. Eau de Parfum · 5 piezas de 5 ml · unisex. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Lattafa",
+   "gender": "Unisex",
+   "size": "5 piezas de 5 ml",
+   "category": "sets-de-regalo",
+   "priceCents": 15500000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/lattafa-set-miniaturas-badee-al-oud-1.webp",
+     "alt": "Lattafa Set Miniaturas Badee Al Oud Collection"
+    }
+   ]
+  },
+  {
+   "slug": "rayhaan-elixir-men-edp-100ml",
+   "title": "Rayhaan Elixir Men",
+   "description": "Rayhaan Elixir Men, de Rayhaan. Eau de Parfum · 100 ml · para hombre. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Rayhaan",
+   "gender": "Hombre",
+   "size": "100 ml",
+   "category": "perfumeria-arabe",
+   "priceCents": 20000000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/rayhaan-elixir-men-edp-100ml-1.webp",
+     "alt": "Rayhaan Elixir Men"
+    }
+   ]
+  },
+  {
+   "slug": "al-haramain-amber-oud-rouge-120ml",
+   "title": "Al Haramain Amber Oud Rouge",
+   "description": "Al Haramain Amber Oud Rouge, de Al Haramain. Eau de Parfum · 120 ml · unisex. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Al Haramain",
+   "gender": "Unisex",
+   "size": "120 ml",
+   "category": "perfumeria-arabe",
+   "priceCents": 29000000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/al-haramain-amber-oud-rouge-120ml-1.webp",
+     "alt": "Al Haramain Amber Oud Rouge"
+    }
+   ]
+  },
+  {
+   "slug": "al-haramain-amber-oud-ruby-120ml",
+   "title": "Al Haramain Amber Oud Ruby",
+   "description": "Al Haramain Amber Oud Ruby, de Al Haramain. Eau de Parfum · 120 ml · unisex. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Al Haramain",
+   "gender": "Unisex",
+   "size": "120 ml",
+   "category": "perfumeria-arabe",
+   "priceCents": 24500000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/al-haramain-amber-oud-ruby-120ml-1.webp",
+     "alt": "Al Haramain Amber Oud Ruby"
+    }
+   ]
+  },
+  {
+   "slug": "al-haramain-amber-oud-gold-edition-60ml",
+   "title": "Al Haramain Amber Oud Gold Edition",
+   "description": "Al Haramain Amber Oud Gold Edition, de Al Haramain. Eau de Parfum · 60 ml · unisex. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Al Haramain",
+   "gender": "Unisex",
+   "size": "60 ml",
+   "category": "perfumeria-arabe",
+   "priceCents": 22000000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/al-haramain-amber-oud-gold-edition-60ml-1.webp",
+     "alt": "Al Haramain Amber Oud Gold Edition"
+    }
+   ]
+  },
+  {
+   "slug": "the-scent-of-karol-edp",
+   "title": "The Scent of Karol",
+   "description": "The Scent of Karol, de The Scent of Karol. Eau de Parfum · para dama. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "The Scent of Karol",
+   "gender": "Dama",
+   "size": null,
+   "category": "disenador-dama",
+   "priceCents": 17000000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/the-scent-of-karol-edp-1.webp",
+     "alt": "The Scent of Karol"
+    }
+   ]
+  },
+  {
+   "slug": "intenso-stallion-53-emper-edp-100ml",
+   "title": "Intenso Stallion 53 Emper",
+   "description": "Intenso Stallion 53 Emper, de Emper. Eau de Parfum · 100 ml · unisex. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Emper",
+   "gender": "Unisex",
+   "size": "100 ml",
+   "category": "disenador-dama",
+   "priceCents": 17500000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/intenso-stallion-53-emper-edp-100ml-1.webp",
+     "alt": "Intenso Stallion 53 Emper"
+    }
+   ]
+  },
+  {
+   "slug": "perry-ellis-360-edt-dama-100ml",
+   "title": "Perry Ellis 360°",
+   "description": "Perry Ellis 360°, de Perry Ellis. Eau de Toilette · 100 ml · para dama. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Perry Ellis",
+   "gender": "Dama",
+   "size": "100 ml",
+   "category": "disenador-dama",
+   "priceCents": 17000000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/perry-ellis-360-edt-dama-100ml-1.webp",
+     "alt": "Perry Ellis 360°"
+    }
+   ]
+  },
+  {
+   "slug": "paris-hilton-edp-100ml",
+   "title": "Paris Hilton by Paris Hilton",
+   "description": "Paris Hilton by Paris Hilton, de Paris Hilton. Eau de Parfum · 100 ml · para dama. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Paris Hilton",
+   "gender": "Dama",
+   "size": "100 ml",
+   "category": "disenador-dama",
+   "priceCents": 15000000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/paris-hilton-edp-100ml-1.webp",
+     "alt": "Paris Hilton by Paris Hilton"
+    }
+   ]
+  },
+  {
+   "slug": "zakat-z40-edp-100ml",
+   "title": "Z40 Zakat Parfum",
+   "description": "Z40 Zakat Parfum, de Zakat. Eau de Parfum · 100 ml · para dama. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Zakat",
+   "gender": "Dama",
+   "size": "100 ml",
+   "category": "disenador-dama",
+   "priceCents": 16000000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/zakat-z40-edp-100ml-1.webp",
+     "alt": "Z40 Zakat Parfum"
+    }
+   ]
+  },
+  {
+   "slug": "tommy-hilfiger-tommy-girl-edt-100ml",
+   "title": "Tommy Hilfiger Tommy Girl",
+   "description": "Tommy Hilfiger Tommy Girl, de Tommy Hilfiger. Eau de Toilette · 100 ml · para dama. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Tommy Hilfiger",
+   "gender": "Dama",
+   "size": "100 ml",
+   "category": "disenador-dama",
+   "priceCents": 15500000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/tommy-hilfiger-tommy-girl-edt-100ml-1.webp",
+     "alt": "Tommy Hilfiger Tommy Girl"
+    }
+   ]
+  },
+  {
+   "slug": "calvin-klein-ck-in2u-dama-100ml",
+   "title": "CK IN2U de Calvin Klein",
+   "description": "CK IN2U de Calvin Klein, de Calvin Klein. Eau de Toilette · 100 ml · para dama. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Calvin Klein",
+   "gender": "Dama",
+   "size": "100 ml",
+   "category": "disenador-dama",
+   "priceCents": 15500000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/calvin-klein-ck-in2u-dama-100ml-1.webp",
+     "alt": "CK IN2U de Calvin Klein"
+    }
+   ]
+  },
+  {
+   "slug": "guess-seductive-edt-75ml",
+   "title": "Guess Seductive",
+   "description": "Guess Seductive, de Guess. Eau de Toilette · 75 ml · para dama. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Guess",
+   "gender": "Dama",
+   "size": "75 ml",
+   "category": "disenador-dama",
+   "priceCents": 17000000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/guess-seductive-edt-75ml-1.webp",
+     "alt": "Guess Seductive"
+    }
+   ]
+  },
+  {
+   "slug": "lacoste-l-12-12-rose-sparkling-100ml",
+   "title": "Lacoste L.12.12 Rose Sparkling",
+   "description": "Lacoste L.12.12 Rose Sparkling, de Lacoste. Eau de Toilette · 100 ml · para dama. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Lacoste",
+   "gender": "Dama",
+   "size": "100 ml",
+   "category": "disenador-dama",
+   "priceCents": 23500000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/lacoste-l-12-12-rose-sparkling-100ml-1.webp",
+     "alt": "Lacoste L.12.12 Rose Sparkling"
+    }
+   ]
+  },
+  {
+   "slug": "guess-seductive-blue-edt-75ml",
+   "title": "Guess Seductive Blue",
+   "description": "Guess Seductive Blue, de Guess. Eau de Toilette · 75 ml · para dama. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Guess",
+   "gender": "Dama",
+   "size": "75 ml",
+   "category": "disenador-dama",
+   "priceCents": 17000000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/guess-seductive-blue-edt-75ml-1.webp",
+     "alt": "Guess Seductive Blue"
+    }
+   ]
+  },
+  {
+   "slug": "dolce-gabbana-light-blue-dama-edt",
+   "title": "Dolce & Gabbana Light Blue",
+   "description": "Dolce & Gabbana Light Blue, de Dolce & Gabbana. Eau de Toilette · para dama. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Dolce & Gabbana",
+   "gender": "Dama",
+   "size": null,
+   "category": "disenador-dama",
+   "priceCents": 29000000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/dolce-gabbana-light-blue-dama-edt-1.webp",
+     "alt": "Dolce & Gabbana Light Blue"
+    }
+   ]
+  },
+  {
+   "slug": "ariana-grande-thank-u-next-edp-100ml",
+   "title": "Ariana Grande Thank U, Next",
+   "description": "Ariana Grande Thank U, Next, de Ariana Grande. Eau de Parfum · 100 ml · para dama. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Ariana Grande",
+   "gender": "Dama",
+   "size": "100 ml",
+   "category": "disenador-dama",
+   "priceCents": 24500000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/ariana-grande-thank-u-next-edp-100ml-1.webp",
+     "alt": "Ariana Grande Thank U, Next"
+    }
+   ]
+  },
+  {
+   "slug": "bvlgari-omnia-crystalline-edp-100ml",
+   "title": "Bvlgari Omnia Crystalline",
+   "description": "Bvlgari Omnia Crystalline, de Bvlgari. Eau de Parfum · 100 ml · para dama. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Bvlgari",
+   "gender": "Dama",
+   "size": "100 ml",
+   "category": "disenador-dama",
+   "priceCents": 38500000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/bvlgari-omnia-crystalline-edp-100ml-1.webp",
+     "alt": "Bvlgari Omnia Crystalline"
+    }
+   ]
+  },
+  {
+   "slug": "carolina-herrera-good-girl-edp-80ml",
+   "title": "Carolina Herrera Good Girl New York",
+   "description": "Carolina Herrera Good Girl New York, de Carolina Herrera. Eau de Parfum · 80 ml · para dama. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Carolina Herrera",
+   "gender": "Dama",
+   "size": "80 ml",
+   "category": "disenador-dama",
+   "priceCents": 39500000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/carolina-herrera-good-girl-edp-80ml-1.webp",
+     "alt": "Carolina Herrera Good Girl New York"
+    }
+   ]
+  },
+  {
+   "slug": "prada-paradoxe-intense-edp-90ml",
+   "title": "Prada Paradoxe Intense",
+   "description": "Prada Paradoxe Intense, de Prada. Eau de Parfum · 90 ml · para dama. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Prada",
+   "gender": "Dama",
+   "size": "90 ml",
+   "category": "disenador-dama",
+   "priceCents": 47500000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/prada-paradoxe-intense-edp-90ml-1.webp",
+     "alt": "Prada Paradoxe Intense"
+    }
+   ]
+  },
+  {
+   "slug": "hugo-boss-bottled-unlimited-edt-100ml",
+   "title": "Hugo Boss Bottled Unlimited",
+   "description": "Hugo Boss Bottled Unlimited, de Hugo Boss. Eau de Toilette · 100 ml · para hombre. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Hugo Boss",
+   "gender": "Hombre",
+   "size": "100 ml",
+   "category": "disenador-hombre",
+   "priceCents": 21500000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/hugo-boss-bottled-unlimited-edt-100ml-1.webp",
+     "alt": "Hugo Boss Bottled Unlimited"
+    }
+   ]
+  },
+  {
+   "slug": "nautica-voyage-100ml",
+   "title": "Nautica Voyage",
+   "description": "Nautica Voyage, de Nautica. Eau de Toilette · 100 ml · para hombre. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Nautica",
+   "gender": "Hombre",
+   "size": "100 ml",
+   "category": "disenador-hombre",
+   "priceCents": 14500000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/nautica-voyage-100ml-1.webp",
+     "alt": "Nautica Voyage"
+    }
+   ]
+  },
+  {
+   "slug": "guess-dare-edt-100ml",
+   "title": "Guess Dare",
+   "description": "Guess Dare, de Guess. Eau de Toilette · 100 ml · para hombre. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Guess",
+   "gender": "Hombre",
+   "size": "100 ml",
+   "category": "disenador-hombre",
+   "priceCents": 16000000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/guess-dare-edt-100ml-1.webp",
+     "alt": "Guess Dare"
+    }
+   ]
+  },
+  {
+   "slug": "lacoste-l-12-12-blanc-edt-100ml",
+   "title": "Lacoste L.12.12 Blanc",
+   "description": "Lacoste L.12.12 Blanc, de Lacoste. Eau de Toilette · 100 ml · para hombre. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Lacoste",
+   "gender": "Hombre",
+   "size": "100 ml",
+   "category": "disenador-hombre",
+   "priceCents": 23500000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/lacoste-l-12-12-blanc-edt-100ml-1.webp",
+     "alt": "Lacoste L.12.12 Blanc"
+    }
+   ]
+  },
+  {
+   "slug": "calvin-klein-ck-be-100ml",
+   "title": "CK Be Calvin Klein",
+   "description": "CK Be Calvin Klein, de Calvin Klein. Eau de Toilette · 100 ml · unisex. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Calvin Klein",
+   "gender": "Unisex",
+   "size": "100 ml",
+   "category": "disenador-hombre",
+   "priceCents": 17500000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/calvin-klein-ck-be-100ml-1.webp",
+     "alt": "CK Be Calvin Klein"
+    }
+   ]
+  },
+  {
+   "slug": "calvin-klein-euphoria-edp-100ml",
+   "title": "Calvin Klein Euphoria",
+   "description": "Calvin Klein Euphoria, de Calvin Klein. Eau de Parfum · 100 ml · para hombre. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Calvin Klein",
+   "gender": "Hombre",
+   "size": "100 ml",
+   "category": "disenador-hombre",
+   "priceCents": 19500000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/calvin-klein-euphoria-edp-100ml-1.webp",
+     "alt": "Calvin Klein Euphoria"
+    }
+   ]
+  },
+  {
+   "slug": "dolce-gabbana-light-blue-hombre-100ml",
+   "title": "Dolce & Gabbana Light Blue Pour Homme",
+   "description": "Dolce & Gabbana Light Blue Pour Homme, de Dolce & Gabbana. Eau de Toilette · 100 ml · para hombre. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Dolce & Gabbana",
+   "gender": "Hombre",
+   "size": "100 ml",
+   "category": "disenador-hombre",
+   "priceCents": 26000000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/dolce-gabbana-light-blue-hombre-100ml-1.webp",
+     "alt": "Dolce & Gabbana Light Blue Pour Homme"
+    }
+   ]
+  },
+  {
+   "slug": "valentino-born-in-roma-set-travel",
+   "title": "Valentino Born in Roma Set Travel",
+   "description": "Valentino Born in Roma Set Travel, de Valentino. Eau de Toilette · 100 ml + 10 ml · para hombre. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Valentino",
+   "gender": "Hombre",
+   "size": "100 ml + 10 ml",
+   "category": "disenador-hombre",
+   "priceCents": 43000000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/valentino-born-in-roma-set-travel-1.webp",
+     "alt": "Valentino Born in Roma Set Travel"
+    }
+   ]
+  },
+  {
+   "slug": "carolina-herrera-212-vip-black-nyc-elixir-100ml",
+   "title": "Carolina Herrera 212 VIP Black NYC Elixir",
+   "description": "Carolina Herrera 212 VIP Black NYC Elixir, de Carolina Herrera. Elixir · 100 ml · para hombre. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Carolina Herrera",
+   "gender": "Hombre",
+   "size": "100 ml",
+   "category": "disenador-hombre",
+   "priceCents": 37000000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/carolina-herrera-212-vip-black-nyc-elixir-100ml-1.webp",
+     "alt": "Carolina Herrera 212 VIP Black NYC Elixir"
+    }
+   ]
+  },
+  {
+   "slug": "rabanne-1-million-edt-100ml",
+   "title": "Rabanne 1 Million",
+   "description": "Rabanne 1 Million, de Rabanne. Eau de Toilette · 100 ml · para hombre. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Rabanne",
+   "gender": "Hombre",
+   "size": "100 ml",
+   "category": "disenador-hombre",
+   "priceCents": 32000000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/rabanne-1-million-edt-100ml-1.webp",
+     "alt": "Rabanne 1 Million"
+    }
+   ]
+  },
+  {
+   "slug": "giorgio-armani-acqua-di-gio-edp-50ml",
+   "title": "Giorgio Armani Acqua di Giò",
+   "description": "Giorgio Armani Acqua di Giò, de Giorgio Armani. Eau de Parfum · 50 ml · para hombre. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Giorgio Armani",
+   "gender": "Hombre",
+   "size": "50 ml",
+   "category": "disenador-hombre",
+   "priceCents": 30000000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/giorgio-armani-acqua-di-gio-edp-50ml-1.webp",
+     "alt": "Giorgio Armani Acqua di Giò"
+    }
+   ]
+  },
+  {
+   "slug": "jean-paul-gaultier-scandal-travel-set",
+   "title": "Jean Paul Gaultier Scandal Travel Exclusive Set",
+   "description": "Jean Paul Gaultier Scandal Travel Exclusive Set, de Jean Paul Gaultier. Eau de Toilette · Set de viaje · para hombre. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Jean Paul Gaultier",
+   "gender": "Hombre",
+   "size": "Set de viaje",
+   "category": "disenador-hombre",
+   "priceCents": 37500000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/jean-paul-gaultier-scandal-travel-set-1.webp",
+     "alt": "Jean Paul Gaultier Scandal Travel Exclusive Set"
+    }
+   ]
+  },
+  {
+   "slug": "jean-paul-gaultier-le-male-75ml",
+   "title": "Jean Paul Gaultier Le Male",
+   "description": "Jean Paul Gaultier Le Male, de Jean Paul Gaultier. Eau de Toilette · 75 ml · para hombre. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Jean Paul Gaultier",
+   "gender": "Hombre",
+   "size": "75 ml",
+   "category": "disenador-hombre",
+   "priceCents": 27500000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/jean-paul-gaultier-le-male-75ml-1.webp",
+     "alt": "Jean Paul Gaultier Le Male"
+    }
+   ]
+  },
+  {
+   "slug": "jean-paul-gaultier-le-male-elixir-75ml",
+   "title": "Jean Paul Gaultier Le Male Elixir",
+   "description": "Jean Paul Gaultier Le Male Elixir, de Jean Paul Gaultier. Eau de Parfum · 75 ml · para hombre. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Jean Paul Gaultier",
+   "gender": "Hombre",
+   "size": "75 ml",
+   "category": "disenador-hombre",
+   "priceCents": 35000000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/jean-paul-gaultier-le-male-elixir-75ml-1.webp",
+     "alt": "Jean Paul Gaultier Le Male Elixir"
+    }
+   ]
+  },
+  {
+   "slug": "set-khamrah-fragrance-gift-set",
+   "title": "Fragrance Gift Set Khamrah",
+   "description": "Fragrance Gift Set Khamrah, de Lattafa. Eau de Parfum · Set de regalo · unisex. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Lattafa",
+   "gender": "Unisex",
+   "size": "Set de regalo",
+   "category": "sets-de-regalo",
+   "priceCents": 20500000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/set-khamrah-fragrance-gift-set-1.webp",
+     "alt": "Fragrance Gift Set Khamrah"
+    },
+    {
+     "src": "img/set-khamrah-fragrance-gift-set-2.webp",
+     "alt": "Fragrance Gift Set Khamrah — foto 2"
+    }
+   ]
+  },
+  {
+   "slug": "set-odyssey-mandarin-sky-4-piezas",
+   "title": "Set Odyssey Mandarin Sky (4 piezas)",
+   "description": "Set Odyssey Mandarin Sky (4 piezas), de Armaf. Eau de Parfum · Set de 4 piezas · para hombre. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Armaf",
+   "gender": "Hombre",
+   "size": "Set de 4 piezas",
+   "category": "sets-de-regalo",
+   "priceCents": 23500000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/set-odyssey-mandarin-sky-4-piezas-1.webp",
+     "alt": "Set Odyssey Mandarin Sky (4 piezas)"
+    },
+    {
+     "src": "img/set-odyssey-mandarin-sky-4-piezas-2.webp",
+     "alt": "Set Odyssey Mandarin Sky (4 piezas) — foto 2"
+    }
+   ]
+  },
+  {
+   "slug": "set-invictus-eau-de-toilette",
+   "title": "Set Invictus Eau de Toilette",
+   "description": "Set Invictus Eau de Toilette, de Rabanne. Eau de Toilette · 100 ml + desodorante 150 ml + travel spray 10 ml · para hombre. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Rabanne",
+   "gender": "Hombre",
+   "size": "100 ml + desodorante 150 ml + travel spray 10 ml",
+   "category": "sets-de-regalo",
+   "priceCents": 37000000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/set-invictus-eau-de-toilette-1.webp",
+     "alt": "Set Invictus Eau de Toilette"
+    },
+    {
+     "src": "img/set-invictus-eau-de-toilette-2.webp",
+     "alt": "Set Invictus Eau de Toilette — foto 2"
+    }
+   ]
+  },
+  {
+   "slug": "set-ck-one-calvin-klein",
+   "title": "Set CK One Calvin Klein",
+   "description": "Set CK One Calvin Klein, de Calvin Klein. Eau de Toilette · Set de regalo · unisex. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Calvin Klein",
+   "gender": "Unisex",
+   "size": "Set de regalo",
+   "category": "sets-de-regalo",
+   "priceCents": 25000000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/set-ck-one-calvin-klein-1.webp",
+     "alt": "Set CK One Calvin Klein"
+    },
+    {
+     "src": "img/set-ck-one-calvin-klein-2.webp",
+     "alt": "Set CK One Calvin Klein — foto 2"
+    }
+   ]
+  },
+  {
+   "slug": "set-moschino-toy-2-pearl",
+   "title": "Set Moschino Toy 2 Pearl",
+   "description": "Set Moschino Toy 2 Pearl, de Moschino. Eau de Parfum · Set de regalo · para dama. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Moschino",
+   "gender": "Dama",
+   "size": "Set de regalo",
+   "category": "sets-de-regalo",
+   "priceCents": 29000000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/set-moschino-toy-2-pearl-1.webp",
+     "alt": "Set Moschino Toy 2 Pearl"
+    },
+    {
+     "src": "img/set-moschino-toy-2-pearl-2.webp",
+     "alt": "Set Moschino Toy 2 Pearl — foto 2"
+    }
+   ]
+  },
+  {
+   "slug": "set-sweet-like-candy-ariana-grande",
+   "title": "Set Sweet Like Candy by Ariana Grande",
+   "description": "Set Sweet Like Candy by Ariana Grande, de Ariana Grande. Eau de Parfum · 100 ml + gel 100 ml + body soufflé 100 ml · para dama. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Ariana Grande",
+   "gender": "Dama",
+   "size": "100 ml + gel 100 ml + body soufflé 100 ml",
+   "category": "sets-de-regalo",
+   "priceCents": 24500000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/set-sweet-like-candy-ariana-grande-1.webp",
+     "alt": "Set Sweet Like Candy by Ariana Grande"
+    }
+   ]
+  }
+ ]
+}

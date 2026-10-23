@@ -1,20 +1,20 @@
 {
- "exportado": "2026-09-27T17:50:53.865Z",
+ "exportado": "2026-10-23T00:37:59.387Z",
  "categories": [
   {
    "slug": "sets-de-regalo",
    "name": "Sets de regalo",
-   "description": "Sets seleccionados con amor: el regalo perfecto para esa persona especial."
+   "description": "Set seleccionados con amor: el regalo perfecto para SORPRENDER a esa persona especial."
   },
   {
    "slug": "disenador-hombre",
    "name": "Diseñador para hombre",
-   "description": "Perfumería de diseñador para hombre. Elegancia, carácter y distinción en cada fragancia."
+   "description": "Una selección de fragancias masculinas que combinan sofisticación, personalidad y distinción para acompañarte en cada ocasión."
   },
   {
    "slug": "disenador-dama",
    "name": "Diseñador para dama",
-   "description": "Perfumes de diseñador para dama. Feminidad en cada aroma, elegancia que deja huella."
+   "description": "Fragancias que celebran la feminidad, la elegancia y la sofisticación. Aromas cuidadosamente seleccionados para la mujer que desea cautivar y dejar huella."
   },
   {
    "slug": "perfumeria-arabe",
@@ -24,15 +24,723 @@
  ],
  "products": [
   {
-   "slug": "lattafa-badee-al-oud-sublime-100ml",
-   "title": "Lattafa Badee Al Oud Sublime",
-   "description": "Lattafa Badee Al Oud Sublime, de Lattafa. Eau de Parfum · 100 ml · unisex. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "slug": "rasasi-hawas-pink-edp-100ml",
+   "title": "Rasasi Hawas Pink",
+   "description": "Hawas Pink es dulce y juguetona, como una golosina elegante: la calidez de la canela, flores blancas y un fondo de algodón de azúcar y vainilla.\n\nSe siente suave y cremosa, con un dulzor protagonista que no resulta pesado.\n\nPara quien ama la perfumería árabe y disfruta de los aromas dulces y coquetos, para salidas, citas y días frescos. Su carácter dulce y cálido la hace perfecta para regalar, y su estela envolvente combina con ropa de salida, chaquetas y ropa de entretiempo. Una pequeña dosis es suficiente. Su dulzor es abrigador, por lo que luce mejor en tardes y noches.\n\nIdeal para: Citas, salidas, clima fresco.\n\nEau de Parfum · 100 ml · para dama.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Rasasi",
+   "gender": "Dama",
+   "size": "100 ml",
+   "category": "perfumeria-arabe",
+   "priceCents": 23000000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/rasasi-hawas-pink-edp-100ml-1.webp",
+     "alt": "Rasasi Hawas Pink"
+    }
+   ]
+  },
+  {
+   "slug": "rasasi-hawas-malibu-edp-100ml",
+   "title": "Rasasi Hawas Malibu",
+   "description": "Hawas Malibu tiene el espíritu de una tarde de playa: frutal, brillante y con un fondo suave que lo hace muy fácil de usar.\n\nLos cítricos tropicales abren con alegría, un corazón limpio y ligeramente empolvado lo suaviza, y la base cremosa y almizclada le da calidez.\n\nEs una opción para el día, el calor y las vacaciones, y para quienes buscan algo dulce pero fresco. Su dulzor tropical es amable y veraniego, y combina con ropa clara, camisas de lino y sandalias. Se siente actual y es una buena puerta de entrada a la perfumería árabe.\n\nIdeal para: Verano, vacaciones, día.\n\nEau de Parfum · 100 ml · para hombre.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Rasasi",
+   "gender": "Hombre",
+   "size": "100 ml",
+   "category": "perfumeria-arabe",
+   "priceCents": 23000000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/rasasi-hawas-malibu-edp-100ml-1.webp",
+     "alt": "Rasasi Hawas Malibu"
+    }
+   ]
+  },
+  {
+   "slug": "versace-bright-crystal-90ml",
+   "title": "Versace Bright Crystal",
+   "description": "Bright Crystal es luz y frescura en un frasco: cristalina, floral y delicada, ideal para quien disfruta de lo femenino sin exceso.\n\nSe abre con un destello helado y frutal, florece con suavidad y se cierra con una base cálida de maderas y almizcle.\n\nPerfecta para el día, el trabajo y el clima cálido, y un regalo clásico que siempre es bien recibido. Su concentración EDT la hace ligera y fácil de llevar de la mañana a la tarde, con un estilo que gusta a casi todas las edades. Es una elección clásica de la perfumería de diseñador para quien busca un floral cristalino y femenino.\n\nIdeal para: Día, oficina, clima cálido.\n\nEau de Toilette · 90 ml · para dama.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Versace",
+   "gender": "Dama",
+   "size": "90 ml",
+   "category": "disenador-dama",
+   "priceCents": 32000000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/versace-bright-crystal-90ml-1.webp",
+     "alt": "Versace Bright Crystal"
+    }
+   ]
+  },
+  {
+   "slug": "set-rasasi-hawas-for-him",
+   "title": "Set Rasasi Hawas for Him",
+   "description": "Hawas for Him es fresco, acuático y con un dulzor frutal que lo hace inconfundible: un aroma que huele a verano y a energía.\n\nEn este set encuentras el perfume de 100 ml, ideal para tu día a día, y un mini de 8 ml para llevar en el bolso o el bolsillo y retocarte donde sea.\n\nUn regalo práctico y muy querido para quien disfruta de lo fresco con carácter, en clima cálido o en cualquier época del año. El mini de 8 ml es perfecto para llevar a la oficina o al gimnasio, y el set viene listo para entregar como detalle de cumpleaños.\n\nIdeal para: Clima cálido, regalo, uso diario.\n\nEau de Parfum · Perfume 100 ml + mini 8 ml · para hombre.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Rasasi",
+   "gender": "Hombre",
+   "size": "Perfume 100 ml + mini 8 ml",
+   "category": "sets-de-regalo",
+   "priceCents": 23000000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/set-rasasi-hawas-for-him-1.webp",
+     "alt": "Set Rasasi Hawas for Him"
+    },
+    {
+     "src": "img/set-rasasi-hawas-for-him-2.webp",
+     "alt": "Set Rasasi Hawas for Him — contenido del set"
+    }
+   ]
+  },
+  {
+   "slug": "orientica-amber-rouge-edp-150ml",
+   "title": "Orientica Amber Rouge",
+   "description": "Amber Rouge es lujo en tonos de rojo: un aroma cálido, profundo y resinoso, con la luz dorada del azafrán sobre un fondo de maderas.\n\nSe siente envolvente y sofisticado, con un rastro que permanece cerca de la piel.\n\nEs un perfume para noches especiales, cenas y clima fresco, y una pieza atractiva, con un formato generoso, para quien disfruta de los aromas ambarinos. Su formato de 150 ml invita a usarlo con generosidad, y su carácter unisex lo hace una opción para compartir. Combina con ropa oscura, abrigos y planes de noche. Su carácter unisex y su aire cálido invitan a compartirlo.\n\nIdeal para: Noches especiales, otoño e invierno.\n\nEau de Parfum · 150 ml · unisex.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Orientica",
+   "gender": "Unisex",
+   "size": "150 ml",
+   "category": "perfumeria-arabe",
+   "priceCents": 31000000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/orientica-amber-rouge-edp-150ml-1.webp",
+     "alt": "Orientica Amber Rouge"
+    }
+   ]
+  },
+  {
+   "slug": "moschino-toy-2-bubble-gum-edt-100ml",
+   "title": "Moschino Toy 2 Bubble Gum",
+   "description": "Toy 2 Bubble Gum es juguetón y divertido: la alegría de una tarde de dulces con un toque atrevido de frutas y flores.\n\nSe siente fresco y burbujeante al principio, luego algo travieso y cremoso, y al final se suaviza en maderas limpias con almizcle.\n\nEs una fragancia joven y desenfadada para salidas de día, planes con amigas y fiestas, y un regalo ideal para quien prefiere lo lúdico y colorido. Su versión EDT es ligera y ayuda a usarlo con libertad durante el día. Su espíritu optimista lo hace ideal para vestirse de colores y salir sin prisa.\n\nIdeal para: Salidas, fiestas, regalos jóvenes.\n\nEau de Toilette · 100 ml · para dama.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Moschino",
+   "gender": "Dama",
+   "size": "100 ml",
+   "category": "disenador-dama",
+   "priceCents": 22900000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/moschino-toy-2-bubble-gum-edt-100ml-1.webp",
+     "alt": "Moschino Toy 2 Bubble Gum"
+    }
+   ]
+  },
+  {
+   "slug": "set-lattafa-asad-3-piezas",
+   "title": "Set Lattafa Asad (3 piezas)",
+   "description": "Asad es un aroma masculino de carácter: especiado, ahumado y cálido, con un aire intenso que no pasa desapercibido.\n\nEste set trae tres piezas para vestirte con la misma fragancia de principio a fin: el perfume de 100 ml, un spray perfumado de 200 ml para el uso diario y una bruma para el cabello de 50 ml que deja una estela suave.\n\nUn regalo completo para quien disfruta de los aromas orientales y con personalidad. El spray perfumado de 200 ml te permite aplicarlo con generosidad a diario, mientras el perfume queda para las ocasiones en las que quieres mayor intensidad.\n\nIdeal para: Regalo, noches, clima fresco.\n\nEau de Parfum · Perfume 100 ml + spray perfumado 200 ml + bruma para el cabello 50 ml · para hombre.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Lattafa",
+   "gender": "Hombre",
+   "size": "Perfume 100 ml + spray perfumado 200 ml + bruma para el cabello 50 ml",
+   "category": "sets-de-regalo",
+   "priceCents": 18900000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/set-lattafa-asad-3-piezas-1.webp",
+     "alt": "Set Lattafa Asad (3 piezas)"
+    },
+    {
+     "src": "img/set-lattafa-asad-3-piezas-2.webp",
+     "alt": "Set Lattafa Asad (3 piezas) — contenido del set"
+    }
+   ]
+  },
+  {
+   "slug": "lattafa-musamam-white-intense-edp-100ml",
+   "title": "Lattafa Musamam White Intense",
+   "description": "Musamam White Intense es luminoso y cremoso: una mezcla de cítricos con un corazón suave y tropical que se siente limpio y elegante.\n\nCon el tiempo se vuelve más cálido, con maderas y resinas que le dan profundidad sin perder esa claridad que lo caracteriza.\n\nUna fragancia versátil para el día y la noche, la oficina y las salidas, que se adapta bien a casi cualquier clima. Su estilo limpio y cremoso lo hace una buena opción unisex, sin exceso de dulzor. Combina con ropa clara, camisas y vestidos, y se siente agradable lo mismo en un día caluroso que en una cena.\n\nIdeal para: Día y noche, oficina, salidas.\n\nEau de Parfum · 100 ml · unisex.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Lattafa",
+   "gender": "Unisex",
+   "size": "100 ml",
+   "category": "perfumeria-arabe",
+   "priceCents": 23500000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/lattafa-musamam-white-intense-edp-100ml-1.webp",
+     "alt": "Lattafa Musamam White Intense"
+    }
+   ]
+  },
+  {
+   "slug": "lattafa-khamrah-edp-100ml",
+   "title": "Lattafa Khamrah",
+   "description": "Khamrah es una de las fragancias árabes más queridas: cálida, golosa y especiada, con un aire festivo que la hace inolvidable.\n\nAbre con especias brillantes, se vuelve cremosa con matices de dátil y praliné, y termina en una base resinosa y suave que se queda en la ropa.\n\nSe luce mucho en clima frío, en noches, en cenas y en temporada de fiestas, y es un buen regalo para quien disfruta de lo dulce y envolvente. Es unisex y muy versátil, y su carácter goloso lo ha vuelto un favorito entre quienes aman los aromas especiados. Una aplicación moderada es suficiente para que se note.\n\nIdeal para: Otoño e invierno, fiestas, noches.\n\nEau de Parfum · 100 ml · unisex.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
    "brand": "Lattafa",
    "gender": "Unisex",
    "size": "100 ml",
    "category": "perfumeria-arabe",
    "priceCents": 17000000,
-   "inStock": false,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/lattafa-khamrah-edp-100ml-1.webp",
+     "alt": "Lattafa Khamrah"
+    }
+   ]
+  },
+  {
+   "slug": "lattafa-khamrah-qahwa-edp-100ml",
+   "title": "Lattafa Khamrah Qahwa",
+   "description": "Qahwa es una invitación a la sobremesa: la calidez del café recién hecho con especias, dulces y flores en una mezcla muy acogedora.\n\nEl comienzo es especiado y brillante, el corazón se vuelve cremoso y goloso, y la base deja un rastro cálido que se queda cerca de la piel.\n\nIdeal para clima fresco, noches, cenas y planes de otoño e invierno. Es una variación más cafetera y especiada del universo Khamrah, ideal para quienes disfrutan del olor a café y repostería. Una pequeña dosis basta, y su dulzor se agradece en el frío.\n\nIdeal para: Otoño e invierno, noches, cenas.\n\nEau de Parfum · 100 ml · unisex.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Lattafa",
+   "gender": "Unisex",
+   "size": "100 ml",
+   "category": "perfumeria-arabe",
+   "priceCents": 17200000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/lattafa-khamrah-qahwa-edp-100ml-1.webp",
+     "alt": "Lattafa Khamrah Qahwa"
+    }
+   ]
+  },
+  {
+   "slug": "lattafa-her-confession-edp-100ml",
+   "title": "Lattafa Her Confession",
+   "description": "Her Confession es sensual y cálida, como un secreto contado en voz baja: flores blancas cremosas envueltas en especias suaves y vainilla.\n\nSe siente femenina y sofisticada, con una estela dulce que acompaña sin abrumar.\n\nEs un perfume para noches de cita, cenas y celebraciones, y también un detalle muy bonito para regalar a quien disfruta de lo floral con un toque envolvente. Es un aroma con personalidad, pensado para quienes no temen a lo dulce con carácter. Combina con vestidos elegantes y ropa de noche, y su estela cálida se agradece en clima fresco.\n\nIdeal para: Citas, noches, regalos.\n\nEau de Parfum · 100 ml · para dama.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Lattafa",
+   "gender": "Dama",
+   "size": "100 ml",
+   "category": "perfumeria-arabe",
+   "priceCents": 18500000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/lattafa-her-confession-edp-100ml-1.webp",
+     "alt": "Lattafa Her Confession"
+    }
+   ]
+  },
+  {
+   "slug": "lattafa-his-confession-edp-100ml",
+   "title": "Lattafa His Confession",
+   "description": "His Confession es una declaración cálida y segura: un aroma masculino que combina especias, lavanda y dulzura con un aire de elegancia aterciopelada.\n\nAbre vibrante y aromático, se vuelve cremoso y resinoso, y termina en una estela envolvente de vainilla y maderas.\n\nPensado para noches y días frescos, citas, cenas y ocasiones donde quieres un aroma con presencia. Es un perfume de presencia agradable, que se siente cuidado y seguro. Combina con camisas, chaquetas y ropa de entretiempo, y es una opción acertada para quien disfruta de la perfumería árabe.\n\nIdeal para: Noches, otoño e invierno, citas.\n\nEau de Parfum · 100 ml · para hombre.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Lattafa",
+   "gender": "Hombre",
+   "size": "100 ml",
+   "category": "perfumeria-arabe",
+   "priceCents": 17000000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/lattafa-his-confession-edp-100ml-1.webp",
+     "alt": "Lattafa His Confession"
+    }
+   ]
+  },
+  {
+   "slug": "lattafa-badee-al-oud-honor-glory-edp-100ml",
+   "title": "Lattafa Badee Al Oud Honor & Glory",
+   "description": "Un perfume que sorprende: abre con un dulzor frutal y cremoso, casi como un postre, y luego se tiñe de especias cálidas y resinas.\n\nHonor & Glory tiene un carácter envolvente y lujoso que se siente mucho más sofisticado que dulce, y se vuelve cercano a la piel con las horas.\n\nLo disfrutan quienes aman los aromas gourmand y orientales: noches frescas, cenas y planes de otoño e invierno. Es una fragancia para quienes quieren probar un perfil árabe cremoso y diferente. Una o dos aplicaciones son suficientes, y combina con ropa oscura y con planes nocturnos.\n\nIdeal para: Noches, otoño e invierno, cenas.\n\nEau de Parfum · 100 ml · unisex.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Lattafa",
+   "gender": "Unisex",
+   "size": "100 ml",
+   "category": "perfumeria-arabe",
+   "priceCents": 16500000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/lattafa-badee-al-oud-honor-glory-edp-100ml-1.webp",
+     "alt": "Lattafa Badee Al Oud Honor & Glory"
+    }
+   ]
+  },
+  {
+   "slug": "lancome-la-vie-est-belle-edp-100ml",
+   "title": "Lancôme La Vie Est Belle",
+   "description": "La vida es bella es una declaración de felicidad: dulce, luminosa y profundamente femenina, con ese toque de iris que la hace elegante y reconocible.\n\nSe abre jugosa, florece con delicadeza y se asienta en un fondo cremoso y envolvente que se queda en la memoria.\n\nEs un perfume para el día y para la noche: citas, reuniones y celebraciones, y un regalo que casi nunca falla para quien disfruta de los aromas dulces y sofisticados. Es un clásico moderno que combina con casi todo, desde un vestido de fiesta hasta unos jeans. Su dulzor elegante la hace una apuesta segura para regalar en cumpleaños y fechas especiales.\n\nIdeal para: Día y noche, regalos, celebraciones.\n\nEau de Parfum · 100 ml · para dama.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Lancôme",
+   "gender": "Dama",
+   "size": "100 ml",
+   "category": "disenador-dama",
+   "priceCents": 44000000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/lancome-la-vie-est-belle-edp-100ml-1.webp",
+     "alt": "Lancôme La Vie Est Belle"
+    }
+   ]
+  },
+  {
+   "slug": "jo-milano-game-of-spades-wildcard-edp-100ml",
+   "title": "Jo Milano Game of Spades Wildcard",
+   "description": "Una fragancia unisex de aire misterioso y elegante, inspirada en el mundo de las cartas: pensada para quien le gusta jugar con la intriga y dejar huella.\n\nTiene un fondo cálido y envolvente, con un carácter amaderado y ambarino que se siente sofisticado y cercano a la piel.\n\nEs una elección para noches especiales, cenas y ocasiones donde quieres un aroma que hable de ti sin necesidad de gritar. Su concepto es lúdico y su carácter, elegante, así que gusta a quienes prefieren perfumes con historia y presencia, sin extremos. Pide una aplicación moderada y ropa de noche.\n\nIdeal para: Noches, cenas, ocasiones especiales.\n\nEau de Parfum · 100 ml · unisex.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Jo Milano",
+   "gender": "Unisex",
+   "size": "100 ml",
+   "category": "perfumeria-arabe",
+   "priceCents": 32500000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/jo-milano-game-of-spades-wildcard-edp-100ml-1.webp",
+     "alt": "Jo Milano Game of Spades Wildcard"
+    }
+   ]
+  },
+  {
+   "slug": "set-jean-paul-gaultier-mini-4-piezas",
+   "title": "Set Mini Jean Paul Gaultier: Le Male, Scandal, Le Male Elixir y Le Beau",
+   "description": "Cuatro iconos de Jean Paul Gaultier en miniaturas de 7 ml, ideales para conocerlos o llevarlos contigo a todas partes. El set trae Le Male, el clásico de lavanda y vainilla; Scandal Pour Homme, dulce y magnético; Le Male Elixir, más profundo y envolvente; y Le Beau, cálido y cremoso.\n\nCada uno tiene su propio carácter y sirve para distintos momentos, de la oficina a la noche.\n\nUn regalo muy completo para quien disfruta de la perfumería de diseñador y de poder elegir según el día. Las miniaturas caben en un bolso o una maleta y permiten alternar aromas según el plan; son además una forma amable de conocer la línea antes de decidirte por un frasco grande.\n\nIdeal para: Regalo, viaje, probar varios.\n\nEau de Toilette · 4 miniaturas de 7 ml · para hombre.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Jean Paul Gaultier",
+   "gender": "Hombre",
+   "size": "4 miniaturas de 7 ml",
+   "category": "sets-de-regalo",
+   "priceCents": 35000000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/set-jean-paul-gaultier-mini-4-piezas-1.webp",
+     "alt": "Set Mini Jean Paul Gaultier: Le Male, Scandal, Le Male Elixir y Le Beau"
+    }
+   ]
+  },
+  {
+   "slug": "hugo-boss-hugo-man-edt-75ml",
+   "title": "Hugo Boss Hugo Man (cantimplora)",
+   "description": "Hugo Man es verde, crujiente y sorprendentemente elegante: un aroma que recuerda a un bosque después de la lluvia.\n\nSe siente fresco y limpio desde el primer instante, y con las horas deja una estela seca y amaderada que lo hace sofisticado.\n\nSu frasco en forma de cantimplora le da un aire original. Es ideal para el día a día, el trabajo y las salidas al aire libre, y un clásico para quien ama los aromas frescos y verdes. Es un perfume honesto y directo, que no necesita adornos para destacar. Combina con ropa casual, camisas y chaquetas, y es un favorito entre quienes aman un aroma limpio y reconocible.\n\nIdeal para: Día a día, oficina, clima templado.\n\nEau de Toilette · 75 ml · para hombre.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Hugo Boss",
+   "gender": "Hombre",
+   "size": "75 ml",
+   "category": "disenador-hombre",
+   "priceCents": 19700000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/hugo-boss-hugo-man-edt-75ml-1.webp",
+     "alt": "Hugo Boss Hugo Man (cantimplora)"
+    }
+   ]
+  },
+  {
+   "slug": "hugo-boss-xy-edt-100ml",
+   "title": "Hugo Boss Boss XY",
+   "description": "Una fragancia fresca y vigorosa, de las que se sienten como aire frío en una mañana despejada.\n\nEl inicio es limpio y verde, con un aire casi helado, y poco a poco se asienta en maderas secas con un toque de almizcle.\n\nEs un perfume sencillo y moderno para el día a día, la universidad, el gimnasio y la oficina, y una opción amable para clima cálido. Es un aroma sin complicaciones, pensado para quienes quieren oler fresco y cuidado. Combina con camisetas, camisas y ropa deportiva, y su ligereza EDT es cómoda para usar a diario.\n\nIdeal para: Uso diario, deporte, clima cálido.\n\nEau de Toilette · 100 ml · para hombre.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Hugo Boss",
+   "gender": "Hombre",
+   "size": "100 ml",
+   "category": "disenador-hombre",
+   "priceCents": 17000000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/hugo-boss-xy-edt-100ml-1.webp",
+     "alt": "Hugo Boss Boss XY"
+    }
+   ]
+  },
+  {
+   "slug": "hugo-boss-alive-edp-80ml",
+   "title": "Hugo Boss Boss Alive",
+   "description": "Alive es optimismo hecho aroma: una fragancia femenina, luminosa y segura, que se siente como caminar con energía y buen ánimo.\n\nEmpieza fresca y jugosa, florece con una nota blanca limpia y se asienta sobre una base de maderas cálidas con un toque suave de vainilla.\n\nUna elección para la mujer que vive el día a día con determinación: trabajo, reuniones y planes de fin de semana. Su elegancia es moderna y discreta, ideal para quien prefiere un perfume que acompañe sin invadir. Combina con trajes, blusas y ropa casual, y es un regalo práctico para ella.\n\nIdeal para: Oficina, día a día, primavera.\n\nEau de Parfum · 80 ml · para dama.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Hugo Boss",
+   "gender": "Dama",
+   "size": "80 ml",
+   "category": "disenador-dama",
+   "priceCents": 29000000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/hugo-boss-alive-edp-80ml-1.webp",
+     "alt": "Hugo Boss Boss Alive"
+    }
+   ]
+  },
+  {
+   "slug": "hugo-boss-bottled-edt-100ml",
+   "title": "Hugo Boss Boss Bottled",
+   "description": "Un clásico masculino que ha acompañado a generaciones: pulcro, seguro y con una elegancia clásica que nunca pasa de moda.\n\nComienza fresco y frutal, se vuelve especiado y cálido, y termina en maderas suaves y envolventes.\n\nEs el aroma ideal para la oficina, reuniones importantes, entrevistas y ocasiones donde quieras proyectar confianza y buen gusto, y un regalo muy seguro. Es un aroma que genera buena impresión de inmediato y que se adapta a distintas edades y estilos. Combina con camisas y trajes, y su versión EDT es ligera para el día completo.\n\nIdeal para: Oficina, reuniones, regalos.\n\nEau de Toilette · 100 ml · para hombre.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Hugo Boss",
+   "gender": "Hombre",
+   "size": "100 ml",
+   "category": "disenador-hombre",
+   "priceCents": 25800000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/hugo-boss-bottled-edt-100ml-1.webp",
+     "alt": "Hugo Boss Boss Bottled"
+    }
+   ]
+  },
+  {
+   "slug": "guess-seductive-red-edt-75ml",
+   "title": "Guess Seductive Red",
+   "description": "Seductive Red es dulce y coqueta, con un carácter juvenil que se siente como un guiño: cereza jugosa, flores suaves y una estela cálida que dura en la memoria.\n\nSu inicio es alegre y su final, envolvente y cremoso.\n\nEs una fragancia para quien disfruta de los aromas femeninos con un punto atrevido, perfecta para salidas, planes con amigas y citas informales. Es un perfume para sentirte atractiva sin esfuerzo, con un dulzor floral que se lleva bien con vestidos y ropa de salida. Su concentración EDT la hace ligera y fácil de repetir.\n\nIdeal para: Salidas, citas, uso diario.\n\nEau de Toilette · 75 ml · para dama.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Guess",
+   "gender": "Dama",
+   "size": "75 ml",
+   "category": "disenador-dama",
+   "priceCents": 20000000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/guess-seductive-red-edt-75ml-1.webp",
+     "alt": "Guess Seductive Red"
+    }
+   ]
+  },
+  {
+   "slug": "set-french-avenue-dusk-till-dawn",
+   "title": "Set French Avenue Dusk Till Dawn: Liquid Brun y Vulcan Feu",
+   "description": "Un dúo pensado para jugar con la hora del día y con tu estado de ánimo. El set trae dos perfumes de 100 ml: Liquid Brun, cálido y gourmand, con canela y vainilla; y Vulcan Feu, que mezcla frutas, flores y maderas con un fondo ambarado.\n\nCada uno funciona por separado y juntos pueden combinarse para crear tu propia firma.\n\nUn regalo con carácter para quien disfruta de los aromas intensos, dulces y nocturnos. Presentados en un mismo estuche, son un regalo con mucha presencia, que además permite al afortunado alternar un aroma de día y otro de noche.\n\nIdeal para: Regalo, noche, clima fresco.\n\nEau de Parfum · 2 perfumes de 100 ml · unisex.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "French Avenue",
+   "gender": "Unisex",
+   "size": "2 perfumes de 100 ml",
+   "category": "sets-de-regalo",
+   "priceCents": 31500000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/set-french-avenue-dusk-till-dawn-1.webp",
+     "alt": "Set French Avenue Dusk Till Dawn: Liquid Brun y Vulcan Feu"
+    },
+    {
+     "src": "img/set-french-avenue-dusk-till-dawn-2.webp",
+     "alt": "Set French Avenue Dusk Till Dawn: Liquid Brun y Vulcan Feu — contenido del set"
+    }
+   ]
+  },
+  {
+   "slug": "set-emper-discovery-4-piezas",
+   "title": "Set Discovery Emper: Stallion 53, The Black 92, Captcha 36 e Illang 62",
+   "description": "Un set de descubrimiento para explorar cuatro personalidades distintas sin comprometerte con un frasco grande. Trae cuatro perfumes de 30 ml, cada uno con su propio carácter.\n\nStallion 53 es amaderado, con cuero y un corazón cremoso de iris; The Black 92 es seco y ahumado, con higo y tabaco; Captcha 36 es luminoso y floral, con una base suave de vainilla; e Illang 62 es floral y terroso, con ylang-ylang y maderas.\n\nPerfecto para elegir tu favorito o para regalar a quien disfruta de probar. Al ser frascos de 30 ml, son fáciles de llevar y de combinar según el día; una forma económica y elegante de descubrir qué estilo de perfume te representa antes de elegir uno grande.\n\nIdeal para: Regalo, descubrir aromas, viaje.\n\nEau de Parfum · 4 perfumes de 30 ml · unisex.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Emper",
+   "gender": "Unisex",
+   "size": "4 perfumes de 30 ml",
+   "category": "sets-de-regalo",
+   "priceCents": 17000000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/set-emper-discovery-4-piezas-1.webp",
+     "alt": "Set Discovery Emper: Stallion 53, The Black 92, Captcha 36 e Illang 62"
+    },
+    {
+     "src": "img/set-emper-discovery-4-piezas-2.webp",
+     "alt": "Set Discovery Emper: Stallion 53, The Black 92, Captcha 36 e Illang 62 — contenido del set"
+    }
+   ]
+  },
+  {
+   "slug": "dumont-nitro-red-edp-100ml",
+   "title": "Dumont Nitro Red",
+   "description": "Nitro Red tiene la energía de un día con las ventanillas abajo: fresca, jugosa y con un punto deportivo que inmediatamente se siente cómodo.\n\nLa frescura frutal se mezcla con lavanda y maderas, y poco a poco se vuelve más cálida y envolvente.\n\nEs un aroma desenfadado y moderno para el día a día, el gimnasio, la universidad y salidas de fin de semana. Su frescura frutal es de las que se agradecen en clima cálido y se siente moderna y fácil. Combina con ropa deportiva, camisetas y looks casuales, y no necesita ocasiones especiales para lucir.\n\nIdeal para: Uso diario, deporte, salidas casuales.\n\nEau de Parfum · 100 ml · para hombre.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Dumont",
+   "gender": "Hombre",
+   "size": "100 ml",
+   "category": "perfumeria-arabe",
+   "priceCents": 18000000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/dumont-nitro-red-edp-100ml-1.webp",
+     "alt": "Dumont Nitro Red"
+    }
+   ]
+  },
+  {
+   "slug": "carolina-herrera-la-bomba-edp-80ml",
+   "title": "Carolina Herrera La Bomba",
+   "description": "La Bomba es puro colorido y atrevimiento: una fragancia que celebra la alegría con un aire tropical, dulce y llamativo.\n\nEl inicio es exótico y jugoso; luego aparecen flores cremosas con un toque de postre, y todo se asienta sobre un fondo cálido y luminoso.\n\nEs un perfume para quien quiere llamar la atención con sensualidad y desparpajo: fiestas, vacaciones y noches de verano. Es un perfume pensado para quien quiere salir de lo común: colorido, expresivo y con la seguridad de quien sabe lo que le gusta. Combina con vestidos, sandalias y planes al aire libre.\n\nIdeal para: Fiestas, vacaciones, verano.\n\nEau de Parfum · 80 ml · para dama.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Carolina Herrera",
+   "gender": "Dama",
+   "size": "80 ml",
+   "category": "disenador-dama",
+   "priceCents": 51000000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/carolina-herrera-la-bomba-edp-80ml-1.webp",
+     "alt": "Carolina Herrera La Bomba"
+    }
+   ]
+  },
+  {
+   "slug": "coach-floral-edp-90ml",
+   "title": "Coach Floral",
+   "description": "Coach Floral es un ramillete moderno: un destello frutal y burbujeante que da paso a flores blancas con un carácter limpio y luminoso.\n\nSe siente fresca y femenina, con un fondo suave y ligeramente cremoso que le da calidez al final.\n\nEs una fragancia amable para el trabajo, los planes de día y las ocasiones románticas, y una gran opción de regalo para quien disfruta de los florales dulces y alegres. Es un perfume amable y ordenado, que invita a sentirse arreglada sin esfuerzo. Combina con ropa clara, vestidos de flores y planes tranquilos, y su estela suave se agradece de cerca.\n\nIdeal para: Primavera, día, citas.\n\nEau de Parfum · 90 ml · para dama.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Coach",
+   "gender": "Dama",
+   "size": "90 ml",
+   "category": "disenador-dama",
+   "priceCents": 27000000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/coach-floral-edp-90ml-1.webp",
+     "alt": "Coach Floral"
+    }
+   ]
+  },
+  {
+   "slug": "carolina-herrera-ch-men-sport-edt-100ml",
+   "title": "Carolina Herrera CH Men Sport",
+   "description": "Una fragancia deportiva con la elegancia sobria de la casa: fresca, limpia y con un aire marino que se siente muy masculino.\n\nSe abre con cítricos vivos, pasa a un corazón especiado y seco, y se cierra con maderas serenas que le dan sofisticación.\n\nEs un aroma pensado para el día a día, la oficina y las actividades al aire libre, y un acompañante cómodo para clima cálido. Va bien después del gimnasio, en un plan de fin de semana o en una jornada larga de trabajo. Su frescura tranquila lo hace fácil de llevar sin llamar demasiado la atención.\n\nIdeal para: Día a día, deporte, clima cálido.\n\nEau de Toilette · 100 ml · para hombre.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Carolina Herrera",
+   "gender": "Hombre",
+   "size": "100 ml",
+   "category": "disenador-hombre",
+   "priceCents": 26500000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/carolina-herrera-ch-men-sport-edt-100ml-1.webp",
+     "alt": "Carolina Herrera CH Men Sport"
+    }
+   ]
+  },
+  {
+   "slug": "carolina-herrera-212-vip-rose-edp",
+   "title": "Carolina Herrera 212 VIP Rosé",
+   "description": "Es la fragancia del brindis y la fiesta: chispeante como una copa de champán rosado y femenina como un ramo de flores recién cortadas.\n\nEl inicio es burbujeante y festivo, y con el paso de los minutos se suaviza hasta quedar en una piel cálida y ligeramente amaderada.\n\nHecha para las noches de celebración, los eventos y los planes en los que quieres sentirte glamurosa. Su frasco rosado también la hace un regalo muy atractivo. Su estela es alegre y glamurosa, de las que se asocian con música, risas y buena compañía. Combina con vestidos, tacones y ocasiones en las que quieras lucir radiante.\n\nIdeal para: Fiestas, noches, regalos.\n\nEau de Parfum · 125 ml · para dama.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Carolina Herrera",
+   "gender": "Dama",
+   "size": "125 ml",
+   "category": "disenador-dama",
+   "priceCents": 36700000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/carolina-herrera-212-vip-rose-edp-1.webp",
+     "alt": "Carolina Herrera 212 VIP Rosé"
+    }
+   ]
+  },
+  {
+   "slug": "burberry-her-edp-100ml",
+   "title": "Burberry Her",
+   "description": "Her captura la energía londinense: jugosa, luminosa y con un punto travieso, como una caminata entre frutos rojos por una tarde fresca.\n\nLa dulzura frutal se mezcla con flores suaves y se apoya en una base cálida que acompaña toda la jornada.\n\nEs un perfume expresivo y juvenil para el día a día, el trabajo y las salidas, y también un regalo con mucha personalidad para quien disfruta de lo dulce sin que resulte empalagoso. Su aroma tiene un aire londinense y despreocupado que gusta mucho a quienes buscan algo moderno. Funciona igual de bien con jeans y con vestidos, de mañana a tarde.\n\nIdeal para: Uso diario, salidas, regalos.\n\nEau de Parfum · 100 ml · para dama.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Burberry",
+   "gender": "Dama",
+   "size": "100 ml",
+   "category": "disenador-dama",
+   "priceCents": 33000000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/burberry-her-edp-100ml-1.webp",
+     "alt": "Burberry Her"
+    }
+   ]
+  },
+  {
+   "slug": "bharara-king-edp-100ml",
+   "title": "Bharara King",
+   "description": "King es una fragancia masculina de presencia marcada: abre con una frescura cítrica brillante y se transforma en una estela dulce y cálida que invita a acercarse.\n\nSu carácter es seductor y moderno, con un fondo suave y envolvente que se queda en la ropa y en la piel.\n\nEs una buena elección para citas, cenas y noches de salida, y también para quien disfruta de aromas dulces y algo empolvados en clima fresco. Es un aroma que se siente cuidado y con un dulzor limpio, de los que dejan buena impresión cuando alguien se acerca. Combina con camisas, chaquetas y ropa elegante casual.\n\nIdeal para: Citas, noches, clima fresco.\n\nEau de Parfum · 100 ml · para hombre.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Bharara",
+   "gender": "Hombre",
+   "size": "100 ml",
+   "category": "disenador-hombre",
+   "priceCents": 24500000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/bharara-king-edp-100ml-1.webp",
+     "alt": "Bharara King"
+    }
+   ]
+  },
+  {
+   "slug": "set-armaf-yum-yum-delights-lux",
+   "title": "Set Armaf Yum Yum Delights Lux",
+   "description": "Dulce, coqueto y alegre: una fragancia que recuerda a una tarde de postres y flores, con un toque frutal que se siente fresco y juvenil.\n\nEn este set encuentras tres piezas para vestirte de principio a fin: el perfume de 100 ml, un atomizador de viaje de 10 ml para retocar durante el día y una bruma corporal de 250 ml para perfumarte con suavidad.\n\nUn regalo lleno de encanto para quien ama los aromas suaves y dulces. Los tres formatos te permiten vestir tu piel con capas de perfume, y el atomizador de 10 ml es perfecto para llevar en el bolso y repetir cuando quieras.\n\nIdeal para: Regalo, uso diario, planes casuales.\n\nEau de Parfum · Perfume 100 ml + atomizador de viaje 10 ml + bruma corporal 250 ml · para dama.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Armaf",
+   "gender": "Dama",
+   "size": "Perfume 100 ml + atomizador de viaje 10 ml + bruma corporal 250 ml",
+   "category": "sets-de-regalo",
+   "priceCents": 22900000,
+   "inStock": true,
+   "images": []
+  },
+  {
+   "slug": "armaf-odyssey-mandarin-sky-elixir-edp-100ml",
+   "title": "Armaf Odyssey Mandarin Sky Elixir",
+   "description": "La versión más profunda y envolvente de Mandarin Sky: mantiene su chispa cítrica, pero aquí gana densidad, calidez y un toque de resina que la vuelve más nocturna.\n\nEl dulzor se siente cremoso y elegante, acompañado de una sombra especiada y amaderada que se queda cerca de la piel.\n\nEs una opción pensada para quien prefiere aromas con más presencia: citas, cenas y salidas de noche, y también para el clima fresco, donde estas notas cálidas lucen mejor. Aplícalo con moderación, porque su concentración le da cuerpo y presencia, y verás cómo evoluciona durante la jornada con una calidez cada vez más cercana.\n\nIdeal para: Noche, citas, clima fresco.\n\nEau de Parfum · 100 ml · para hombre.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Armaf",
+   "gender": "Hombre",
+   "size": "100 ml",
+   "category": "perfumeria-arabe",
+   "priceCents": 21000000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/armaf-odyssey-mandarin-sky-elixir-edp-100ml-1.webp",
+     "alt": "Armaf Odyssey Mandarin Sky Elixir"
+    }
+   ]
+  },
+  {
+   "slug": "armaf-odyssey-mandarin-sky-edp-100ml",
+   "title": "Armaf Odyssey Mandarin Sky",
+   "description": "Una fragancia de contrastes: la frescura soleada de los cítricos junto a una dulzura cálida que se siente casi como caramelo recién hecho.\n\nCon las horas, el aroma se asienta en una base cremosa y amaderada, que le da cuerpo sin volverse pesado.\n\nEs un perfume vibrante y alegre, ideal para quien busca destacar con un toque dulce y moderno. Funciona muy bien en el día, en reuniones, y en esas noches frescas en las que quieres algo que se note. Su personalidad dulce y cítrica llama la atención sin ser pesada, y se siente actual y juvenil. Es una buena puerta de entrada a la perfumería árabe para quien quiere probar algo diferente.\n\nIdeal para: Día, noches frescas, reuniones.\n\nEau de Parfum · 100 ml · para hombre.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Armaf",
+   "gender": "Hombre",
+   "size": "100 ml",
+   "category": "perfumeria-arabe",
+   "priceCents": 17500000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/armaf-odyssey-mandarin-sky-edp-100ml-1.webp",
+     "alt": "Armaf Odyssey Mandarin Sky"
+    }
+   ]
+  },
+  {
+   "slug": "ariana-grande-cloud-edp-100ml",
+   "title": "Ariana Grande Cloud",
+   "description": "Cloud se siente como un abrazo suave: una fragancia dulce, cremosa y soñadora que parece flotar alrededor de quien la lleva.\n\nEmpieza con un toque fresco y frutal que enseguida da paso a un corazón de postre delicado, y termina en una estela cálida y acolchada.\n\nEs ideal para quien disfruta de los aromas dulces y reconfortantes, para el día a día, los planes con amigas y las noches tranquilas. También es un regalo muy bien recibido para quienes aman lo gourmand. Su dulzor suave la hace muy fácil de usar en cualquier momento del año. Combina con ropa cómoda y también con vestidos ligeros, y es un detalle perfecto para quienes se están iniciando en la perfumería.\n\nIdeal para: Uso diario, planes con amigas, regalos.\n\nEau de Parfum · 100 ml · para dama.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Ariana Grande",
+   "gender": "Dama",
+   "size": "100 ml",
+   "category": "disenador-dama",
+   "priceCents": 25500000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/ariana-grande-cloud-edp-100ml-1.webp",
+     "alt": "Ariana Grande Cloud"
+    }
+   ]
+  },
+  {
+   "slug": "afnan-9am-dive-edp-100ml",
+   "title": "Afnan 9 AM Dive",
+   "description": "Pensado para el primer plan del día, 9 AM Dive tiene la energía de una zambullida: un arranque vibrante y helado que despierta de inmediato.\n\nCon las horas se vuelve más amaderado y envolvente, sin perder esa limpieza que lo hace tan agradable.\n\nEs un perfume versátil para quien quiere un aroma moderno y fresco, tanto para la oficina como para salidas informales, y se siente especialmente cómodo en climas cálidos y en el día. Al rociarlo sientes un aire de mar y de campo a la vez, y esa sensación de limpieza te acompaña mucho rato. Funciona con camisas de lino, jeans y también con ropa de oficina.\n\nIdeal para: Día, oficina, clima cálido.\n\nEau de Parfum · 100 ml · unisex.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Afnan",
+   "gender": "Unisex",
+   "size": "100 ml",
+   "category": "perfumeria-arabe",
+   "priceCents": 19500000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/afnan-9am-dive-edp-100ml-1.webp",
+     "alt": "Afnan 9 AM Dive"
+    }
+   ]
+  },
+  {
+   "slug": "antonio-banderas-blue-seduction-edt-200ml",
+   "title": "Antonio Banderas Blue Seduction",
+   "description": "Una fragancia fresca y juvenil, de las que se sienten como una brisa de verano: chispeante al comienzo y con un fondo cálido que le da carácter.\n\nTiene ese toque seductor y desenfadado que la hace fácil de llevar, tanto en plan casual como en una cita sin demasiada formalidad.\n\nEl formato de 200 ml es práctico para quien disfruta rociarse sin medirse: ideal para la rutina diaria, el gimnasio, la playa o cualquier plan relajado. Su concentración EDT lo hace ligero y refrescante, perfecto para repetir a lo largo del día sin cansarte, y el frasco de 200 ml rinde para toda la temporada.\n\nIdeal para: Uso diario, verano, planes casuales.\n\nEau de Toilette · 200 ml · para hombre.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Antonio Banderas",
+   "gender": "Hombre",
+   "size": "200 ml",
+   "category": "disenador-hombre",
+   "priceCents": 17500000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/antonio-banderas-blue-seduction-edt-200ml-1.webp",
+     "alt": "Antonio Banderas Blue Seduction"
+    }
+   ]
+  },
+  {
+   "slug": "riiffs-freeze-extrait-de-parfum-100ml",
+   "title": "Riiffs Freeze Extrait de Parfum",
+   "description": "Freeze es la sensación de abrir una ventana en una mañana helada: aire frío, cítricos crujientes y una limpieza que se nota desde el primer rocío.\n\nCon el paso de las horas el frescor se vuelve más suave y amaderado, sin perder su carácter pulcro.\n\nEn concentración Extrait, tiene la presencia de un perfume pensado para destacar con elegancia. Es una elección para quien busca algo fresco y moderno, para el trabajo, el gimnasio o una salida casual, y para días calurosos en los que un aroma pesado cansaría. Su concentración Extrait lo hace más persistente en la piel que un fresco común, así que unas pocas aplicaciones bastan. Es unisex, y combina con ropa deportiva y con ropa de oficina.\n\nIdeal para: Clima cálido, oficina, uso diario.\n\nExtrait de Parfum · 100 ml · unisex.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Riiffs",
+   "gender": "Unisex",
+   "size": "100 ml",
+   "category": "perfumeria-arabe",
+   "priceCents": 22000000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/riiffs-freeze-extrait-de-parfum-100ml-1.webp",
+     "alt": "Riiffs Freeze Extrait de Parfum"
+    }
+   ]
+  },
+  {
+   "slug": "rayhaan-obsidian-edp-100ml",
+   "title": "Rayhaan Obsidian",
+   "description": "Obsidian tiene el carácter sereno y oscuro de la piedra que le da nombre: una fragancia de elegancia contenida, con un aire de ante suave y maderas tibias.\n\nSe abre con un destello cítrico y ligeramente especiado, y luego se asienta en un corazón seco y aterciopelado que se vuelve cada vez más cercano a la piel.\n\nEs una opción para el hombre que prefiere un aroma sofisticado y discreto, ideal para la oficina, reuniones y noches tranquilas en clima templado o fresco. Su estilo es sobrio y masculino, de los que combinan con camisas oscuras, chaquetas y ocasiones donde la sutileza vale más que el volumen.\n\nIdeal para: Oficina, noches, clima fresco.\n\nEau de Parfum · 100 ml · para hombre.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Rayhaan",
+   "gender": "Hombre",
+   "size": "100 ml",
+   "category": "perfumeria-arabe",
+   "priceCents": 20000000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/rayhaan-obsidian-edp-100ml-1.webp",
+     "alt": "Rayhaan Obsidian"
+    }
+   ]
+  },
+  {
+   "slug": "set-perry-ellis-360-dama",
+   "title": "Set Perry Ellis 360° para Dama",
+   "description": "Un clásico fresco y femenino que se siente limpio, alegre y fácil de querer, de los que acompañan sin pedir permiso.\n\nEste set te permite vestirte de principio a fin con la misma fragancia: el perfume de 100 ml como protagonista, una bruma corporal de 118 ml para refrescarte durante el día, un gel de ducha de 89 ml para empezar el ritual desde el baño y un mini perfume de 7 ml que cabe en cualquier bolso.\n\nUna idea de regalo completa para quien disfruta de lo suave y luminoso. Las cuatro piezas te permiten construir una rutina aromática completa, con el mini en el bolso para retocar durante el día, y el set viene listo para regalar.\n\nIdeal para: Regalo, uso diario, primavera y verano.\n\nEau de Toilette · Perfume 100 ml + bruma corporal 118 ml + gel de ducha 89 ml + mini perfume 7 ml · para dama.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Perry Ellis",
+   "gender": "Dama",
+   "size": "Perfume 100 ml + bruma corporal 118 ml + gel de ducha 89 ml + mini perfume 7 ml",
+   "category": "sets-de-regalo",
+   "priceCents": 21300000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/set-perry-ellis-360-dama-1.webp",
+     "alt": "Set Perry Ellis 360° para Dama"
+    }
+   ]
+  },
+  {
+   "slug": "rabanne-lady-million-edp",
+   "title": "Rabanne Lady Million",
+   "description": "Lady Million es brillo puro: una fragancia pensada para quien disfruta de sentirse espléndida y deja que su presencia hable primero.\n\nEl comienzo es jugoso y luminoso, el corazón florece con una dulzura blanca y envolvente, y al final queda un fondo cálido y sensual que se queda cerca de la piel.\n\nEs un aroma de noche y de celebración: cenas, eventos y esos días en que quieres sentirte especial. Es también un regalo muy querido. Es un perfume de fiesta que además se lleva con naturalidad en el día cuando quieres sentirte especial. Combina con vestidos, joyas y tacones, y una aplicación basta para que se note.\n\nIdeal para: Noches, celebraciones, regalos.\n\nEau de Parfum · para dama.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Rabanne",
+   "gender": "Dama",
+   "size": null,
+   "category": "disenador-dama",
+   "priceCents": 33000000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/rabanne-lady-million-edp-1.webp",
+     "alt": "Rabanne Lady Million"
+    }
+   ]
+  },
+  {
+   "slug": "lattafa-pride-art-of-universe-edp-100ml",
+   "title": "Lattafa Pride Art of Universe",
+   "description": "Abre con una frescura chispeante, de esas que despiertan apenas la rocías, y poco a poco se va suavizando hasta quedar sobre la piel como una calidez limpia y amaderada.\n\nEs una fragancia luminosa y versátil, pensada para quien quiere oler bien sin complicarse: se siente moderna, ligera de llevar y fácil de combinar con el día a día.\n\nSe luce en la oficina, en paseos y en reuniones informales, y también en climas cálidos donde un aroma fresco se agradece. Es un perfume de uso diario con buena relación calidad-precio dentro de la perfumería árabe, apto para ambos géneros, y una opción para quienes quieren estrenar un aroma fresco sin complicarse.\n\nIdeal para: Día a día, oficina, clima cálido.\n\nEau de Parfum · 100 ml · unisex.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Lattafa",
+   "gender": "Unisex",
+   "size": "100 ml",
+   "category": "perfumeria-arabe",
+   "priceCents": 22000000,
+   "inStock": true,
+   "images": [
+    {
+     "src": "img/lattafa-pride-art-of-universe-edp-100ml-1.webp",
+     "alt": "Lattafa Pride Art of Universe"
+    }
+   ]
+  },
+  {
+   "slug": "lattafa-badee-al-oud-sublime-100ml",
+   "title": "Lattafa Badee Al Oud Sublime",
+   "description": "Una fragancia suave y elegante que combina frutas dulces con un fondo terroso: abre jugosa y floral, con una rosa delicada.\n\nEn la piel se va oscureciendo poco a poco hacia un fondo cremoso y de bosque húmedo, muy agradable y envolvente. Tiene un aire refinado, ni demasiado dulce ni demasiado seco.\n\nSe adapta bien a la tarde, a una cena tranquila o a clima fresco, y es una buena opción para quien quiere acercarse al oud de forma más amable. Es una pieza amable de la colección Badee Al Oud, perfecta como primer acercamiento a las maderas sin que resulten pesadas.\n\nIdeal para: Tardes, cenas, clima fresco, uso unisex.\n\nEau de Parfum · 100 ml · unisex.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "brand": "Lattafa",
+   "gender": "Unisex",
+   "size": "100 ml",
+   "category": "perfumeria-arabe",
+   "priceCents": 17000000,
+   "inStock": true,
    "images": [
     {
      "src": "img/lattafa-badee-al-oud-sublime-100ml-1.webp",
@@ -43,7 +751,7 @@
   {
    "slug": "lattafa-badee-al-oud-oud-for-glory-edp",
    "title": "Lattafa Badee Al Oud – Oud for Glory",
-   "description": "Lattafa Badee Al Oud – Oud for Glory, de Lattafa. Eau de Parfum · unisex. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "description": "Una fragancia oscura, ahumada y de gran carácter: abre con azafrán y lavanda, y enseguida revela un oud profundo y resinoso.\n\nEn la piel se siente envolvente, cálida y lujosa, con una estela marcada que se queda en el ambiente. Es intensa, de esas que se reconocen a la primera.\n\nLa disfrutarás en noches de invierno, eventos especiales, cenas y reuniones formales, y es perfecta si te gusta la perfumería árabe de carácter. Unos pocos disparos bastan: su concentración y su estela hacen que un frasco rinda y que el aroma acompañe toda la velada.\n\nIdeal para: Noches de invierno, eventos, ocasiones formales, uso unisex.\n\nEau de Parfum · unisex.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
    "brand": "Lattafa",
    "gender": "Unisex",
    "size": null,
@@ -60,7 +768,7 @@
   {
    "slug": "rasasi-hawas-viper-edp-100ml",
    "title": "Rasasi Hawas Viper",
-   "description": "Rasasi Hawas Viper, de Rasasi. Eau de Parfum · 100 ml · para hombre. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "description": "Una fragancia atrevida y oscura, con una apertura herbal y especiada poco común que se siente misteriosa y seductora.\n\nEn la piel evoluciona hacia un corazón de tabaco, café y fruta roja, y se cierra con un fondo cálido, dulce y envolvente. Tiene mucha presencia y una estela que se queda.\n\nEs una buena elección para noches de fiesta, citas y clima frío, cuando quieres un aroma distinto que llame la atención. Es una fragancia para quienes se atreven con algo diferente y disfrutan de los perfumes con una historia que contar en la piel.\n\nIdeal para: Noches de fiesta, citas, clima frío.\n\nEau de Parfum · 100 ml · para hombre.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
    "brand": "Rasasi",
    "gender": "Hombre",
    "size": "100 ml",
@@ -77,7 +785,7 @@
   {
    "slug": "rasasi-hawas-black-edp-100ml",
    "title": "Rasasi Hawas Black",
-   "description": "Rasasi Hawas Black, de Rasasi. Eau de Parfum · 100 ml · para hombre. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "description": "Un aroma masculino que mezcla frescura y madera: abre jugoso y cítrico, con una piña brillante, y rápidamente se vuelve más terroso y profundo.\n\nEn la piel termina seco, verde y amaderado, con una elegancia sobria y duradera. Tiene carácter, pero resulta cómodo y versátil.\n\nEs ideal para la oficina, reuniones, planes de noche o clima templado, y es una buena opción para quienes buscan un perfume potente con aire clásico y a la vez actual. Es un perfume de mucha duración que se aprecia con pocos disparos, ideal para quien prefiere lo clásico con un toque fresco.\n\nIdeal para: Oficina, noches, clima templado.\n\nEau de Parfum · 100 ml · para hombre.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
    "brand": "Rasasi",
    "gender": "Hombre",
    "size": "100 ml",
@@ -94,7 +802,7 @@
   {
    "slug": "rasasi-hawas-atlantis-edp-100ml",
    "title": "Rasasi Hawas Atlantis",
-   "description": "Rasasi Hawas Atlantis, de Rasasi. Eau de Parfum · 100 ml · para hombre. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "description": "Una fragancia marina, fresca y chispeante: abre jugosa y cítrica, con un toque dulce de manzana, y evoca el aire del mar.\n\nEn la piel se vuelve más especiada y floral antes de caer en un fondo ambarado y amaderado que le da profundidad. Es limpia, moderna y con mucha energía.\n\nLa disfrutarás en climas cálidos, planes de playa, vacaciones, días de oficina o salidas casuales. Su carácter marino y jugoso lo convierte en un compañero alegre para quienes disfrutan de los aromas luminosos y de verano, sin esfuerzo y sin pesadez.\n\nIdeal para: Playa, verano, oficina, clima cálido.\n\nEau de Parfum · 100 ml · para hombre.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
    "brand": "Rasasi",
    "gender": "Hombre",
    "size": "100 ml",
@@ -111,7 +819,7 @@
   {
    "slug": "rasasi-hawas-ice-edp-100ml",
    "title": "Rasasi Hawas Ice",
-   "description": "Rasasi Hawas Ice, de Rasasi. Eau de Parfum · 100 ml · para hombre. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "description": "El Hawas más fresco y refrescante: arranca con un frío frutal y cítrico que parece una brisa helada, ideal para días calurosos.\n\nEn la piel se va suavizando hacia un corazón dulce y floral, y termina en un fondo amaderado con un toque marino. Tiene una proyección muy llamativa y una personalidad deportiva y juvenil.\n\nResulta perfecto para el verano, el gimnasio, salidas al aire libre y planes diurnos, y también cuando quieras sentirte fresco todo el día. Guárdalo en la nevera si quieres un efecto aún más refrescante al rociarlo en los días de más calor.\n\nIdeal para: Verano, clima cálido, deporte, planes de día.\n\nEau de Parfum · 100 ml · para hombre.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
    "brand": "Rasasi",
    "gender": "Hombre",
    "size": "100 ml",
@@ -128,7 +836,7 @@
   {
    "slug": "rasasi-hawas-fire-for-him-edp-100ml",
    "title": "Rasasi Hawas Fire for Him",
-   "description": "Rasasi Hawas Fire for Him, de Rasasi. Eau de Parfum · 100 ml · para hombre. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "description": "Una fragancia fresca y vibrante, con un inicio aromático que despierta los sentidos y un corazón acuático que se siente limpio y ligero.\n\nEn la piel se asienta con un fondo ambarado y mineral, con buena proyección y estela sin llegar a ser pesada. Tiene el aire deportivo y seguro que caracteriza a la familia Hawas.\n\nLa puedes usar en la oficina, el gimnasio, planes de día o salidas de calor, y es una buena opción para quien quiere algo moderno y con presencia. Un compañero ligero y actual para quienes prefieren los aromas limpios que se perciben a lo largo del día.\n\nIdeal para: Clima cálido, oficina, planes de día.\n\nEau de Parfum · 100 ml · para hombre.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
    "brand": "Rasasi",
    "gender": "Hombre",
    "size": "100 ml",
@@ -145,7 +853,7 @@
   {
    "slug": "armaf-club-de-nuit-intense-woman-edp-100ml",
    "title": "Armaf Club de Nuit Intense Woman",
-   "description": "Armaf Club de Nuit Intense Woman, de Armaf. Eau de Parfum · 100 ml · para dama. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "description": "Una versión profunda y envolvente, hecha para la noche: abre con rosa y un toque especiado que enseguida se vuelve cálido y misterioso.\n\nEn la piel termina resinoso, ambarado y ligeramente dulce, con un fondo amaderado de gran presencia. Tiene un carácter sensual y seguro, de esos que se notan al llegar.\n\nSe luce mejor en noches, eventos y clima fresco, y es una buena elección si buscas un aroma intenso con personalidad. Aplícalo con moderación en la piel y deja que su profundidad se vaya mostrando con el paso de las horas.\n\nIdeal para: Noches, eventos, clima fresco.\n\nEau de Parfum · 100 ml · para dama.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
    "brand": "Armaf",
    "gender": "Dama",
    "size": "100 ml",
@@ -162,7 +870,7 @@
   {
    "slug": "armaf-club-de-nuit-woman-edp-100ml",
    "title": "Armaf Club de Nuit Woman",
-   "description": "Armaf Club de Nuit Woman, de Armaf. Eau de Parfum · 100 ml · para dama. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "description": "Elegante, femenino y fácil de llevar: abre fresco y frutal, con un dulzor jugoso que enseguida se vuelve floral y refinado.\n\nEn la piel termina cálido, suave y ligeramente amaderado, con una vainilla discreta que lo hace muy cómodo. Tiene presencia, pero sin exceso, y su estela es amable.\n\nLo puedes usar en el trabajo, en una cena, una cita o un evento, y se adapta bien a casi cualquier época del año. Es una fragancia pensada para quienes quieren verse y sentirse arregladas sin tener que pensar demasiado en qué ponerse.\n\nIdeal para: Oficina, cenas, citas, uso todo el año.\n\nEau de Parfum · 100 ml · para dama.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
    "brand": "Armaf",
    "gender": "Dama",
    "size": "100 ml",
@@ -179,7 +887,7 @@
   {
    "slug": "armaf-club-de-nuit-sillage-edp-100ml",
    "title": "Armaf Club de Nuit Sillage",
-   "description": "Armaf Club de Nuit Sillage, de Armaf. Eau de Parfum · 100 ml · para hombre. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "description": "Una apertura cítrica muy luminosa, con un toque de jengibre que da vida, y un corazón floral elegante que se siente pulido y refinado.\n\nEn la piel termina limpio, amaderado y ligeramente mineral, con una estela elegante que se nota sin invadir. Se siente sofisticado y versátil.\n\nEs una buena elección para reuniones, la oficina, eventos o cenas, y se luce en casi cualquier clima, aunque se aprecia especialmente en días templados. Su perfil limpio y luminoso lo hace fácil de recomendar para quienes buscan algo refinado que no abrume en espacios cerrados.\n\nIdeal para: Oficina, eventos, cenas, clima templado.\n\nEau de Parfum · 100 ml · para hombre.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
    "brand": "Armaf",
    "gender": "Hombre",
    "size": "100 ml",
@@ -196,7 +904,7 @@
   {
    "slug": "armaf-club-de-nuit-milestone-edp-100ml",
    "title": "Armaf Club de Nuit Milestone",
-   "description": "Armaf Club de Nuit Milestone, de Armaf. Eau de Parfum · 100 ml · unisex. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "description": "Una fragancia fresca y moderna, con un inicio marino y afrutado que se siente limpio y vibrante, casi como brisa cerca del mar.\n\nEn la piel se transforma en un fondo amaderado y suave, con una presencia sobria y fácil de llevar. Es fresca sin ser infantil y tiene una estela agradable.\n\nSe adapta muy bien a la oficina, el día a día, el gimnasio o los planes de verano, y también a quien busca un aroma actual y versátil. Es una opción práctica para el calor, pues su frescura marina se mantiene agradable sin cansar a quienes están cerca.\n\nIdeal para: Oficina, verano, día a día, uso unisex.\n\nEau de Parfum · 100 ml · unisex.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
    "brand": "Armaf",
    "gender": "Unisex",
    "size": "100 ml",
@@ -213,7 +921,7 @@
   {
    "slug": "armaf-club-de-nuit-intense-man-100ml",
    "title": "Armaf Club de Nuit Intense Man",
-   "description": "Armaf Club de Nuit Intense Man, de Armaf. Eau de Toilette · 100 ml · para hombre. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "description": "Un clásico moderno de la perfumería árabe: abre con una frescura frutal muy reconocible y un toque ahumado que le da carácter masculino.\n\nEn la piel se asienta en un fondo amaderado, seco y ligeramente dulce, con una estela marcada. Es elegante, seguro y muy versátil.\n\nLo puedes llevar a la oficina, a una cita, a una reunión o a una salida de noche, y se luce especialmente en clima templado o fresco. Es una de esas fragancias que se ganan un lugar fijo en tu colección. Su carácter clásico de la línea Club de Nuit hace que sea una apuesta segura para quien quiere un perfume reconocible.\n\nIdeal para: Oficina, citas, noches, clima templado o fresco.\n\nEau de Toilette · 100 ml · para hombre.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
    "brand": "Armaf",
    "gender": "Hombre",
    "size": "100 ml",
@@ -230,7 +938,7 @@
   {
    "slug": "lattafa-eclaire-pistache",
    "title": "Lattafa Eclaire Pistache",
-   "description": "Lattafa Eclaire Pistache, de Lattafa. Eau de Parfum · unisex. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "description": "Un postre convertido en perfume: arranca con pistacho cremoso y tostado, tan apetitoso que da hambre, y se va suavizando con matices de coco y cacao.\n\nEn la piel se siente cálido, lácteo y muy reconfortante, con un fondo suave que se queda cerca y acaricia. Es dulce, pero con una textura cremosa más que azucarada.\n\nSi te encantan los aromas golosos, lo vas a querer para tardes frescas, noches tranquilas, citas o como un detalle para quien ama lo dulce. Es un perfume que se disfruta mejor en piel limpia, donde su dulzura cremosa se desarrolla con suavidad y se queda cerca.\n\nIdeal para: Tardes frescas, noches tranquilas, quienes aman lo gourmand, uso unisex.\n\nEau de Parfum · unisex.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
    "brand": "Lattafa",
    "gender": "Unisex",
    "size": null,
@@ -247,7 +955,7 @@
   {
    "slug": "afnan-9pm-elixir-parfum-intense-100ml",
    "title": "Afnan 9PM Elixir Parfum Intense",
-   "description": "Afnan 9PM Elixir Parfum Intense, de Afnan. Parfum · 100 ml · unisex. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "description": "Una versión más intensa y oscura de 9PM, hecha para las noches largas: abre con especias cálidas y un toque de resina, y enseguida se vuelve cuero y lavanda.\n\nEn la piel termina dulce, profunda y envolvente, con una vainilla cremosa que se mezcla con maderas y resinas. Tiene mucha presencia y una estela que se queda en el ambiente.\n\nEs ideal para citas, fiestas, noches de fin de semana y clima fresco, cuando quieres un perfume que se note y deje huella. Con pocos disparos es suficiente, pues su concentración hace que la estela se mantenga presente durante la velada.\n\nIdeal para: Noches, fiestas, citas, clima fresco, uso unisex.\n\nParfum · 100 ml · unisex.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
    "brand": "Afnan",
    "gender": "Unisex",
    "size": "100 ml",
@@ -264,7 +972,7 @@
   {
    "slug": "lattafa-khamrah-waha-100ml",
    "title": "Lattafa Khamrah Waha",
-   "description": "Lattafa Khamrah Waha, de Lattafa. Eau de Parfum · 100 ml · unisex. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "description": "Aquí Khamrah se reinventa en clave fresca: una apertura cítrica y chispeante que recuerda al mar y a las hierbas, muy distinta a la versión dulce de la línea.\n\nEn la piel evoluciona hacia un corazón limpio y mineral, y se cierra con un fondo cremoso y suave que le da suavidad sin pesadez. Se siente moderno y ligero, perfecto para días de calor.\n\nLo disfrutarás en la oficina, en planes al aire libre, en la playa o cuando simplemente quieras un aroma fresco que te acompañe. Es una buena elección si te gustaba el universo Khamrah pero buscas algo más ligero y con aire de verano.\n\nIdeal para: Clima cálido, oficina, planes al aire libre, uso unisex.\n\nEau de Parfum · 100 ml · unisex.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
    "brand": "Lattafa",
    "gender": "Unisex",
    "size": "100 ml",
@@ -281,7 +989,7 @@
   {
    "slug": "armaf-odyssey-mandarin-sky-vintage-edp-100ml",
    "title": "Armaf Odyssey Mandarin Sky Vintage Edition",
-   "description": "Armaf Odyssey Mandarin Sky Vintage Edition, de Armaf. Eau de Parfum · 100 ml · para hombre. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "description": "Una edición que apuesta por lo cítrico y lo cálido: abre brillante y energético, con una mandarina luminosa, y se transforma en un corazón floral con pinceladas de especias.\n\nEn la piel termina ambarado, suave y ligeramente dulce, con un fondo amaderado cómodo y elegante. Se siente moderno, fresco y con buena proyección.\n\nEs una buena elección para el día a día, la oficina o salidas casuales, y se luce especialmente en clima templado o primaveral. Pruébalo en la piel antes de decidir: así podrás apreciar cómo se abre la mandarina y cómo se funde con el ámbar.\n\nIdeal para: Oficina, día a día, clima templado.\n\nEau de Parfum · 100 ml · para hombre.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
    "brand": "Armaf",
    "gender": "Hombre",
    "size": "100 ml",
@@ -298,7 +1006,7 @@
   {
    "slug": "armaf-odyssey-go-mango-edp",
    "title": "Armaf Odyssey Go Mango Tropical Collection",
-   "description": "Armaf Odyssey Go Mango Tropical Collection, de Armaf. Eau de Parfum · unisex. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "description": "Un mango jugoso y brillante que arranca con un toque fresco y chispeante, y poco a poco se vuelve más cremoso y cálido.\n\nEn la piel mezcla lo tropical con un fondo suave y ligeramente amaderado, con una dulzura agradable que no se siente pesada. Es veraniego, divertido y con buena personalidad.\n\nLo vas a disfrutar en climas cálidos, en planes de día, escapadas o tardes con amigos, y también cuando quieras un aroma distinto y llamativo. Rocíalo con confianza en días de sol: su carácter tropical se siente más vivo cuando el ambiente está cálido.\n\nIdeal para: Clima cálido, planes de día, verano, uso unisex.\n\nEau de Parfum · unisex.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
    "brand": "Armaf",
    "gender": "Unisex",
    "size": null,
@@ -315,7 +1023,7 @@
   {
    "slug": "lattafa-yara-edp-100ml",
    "title": "Lattafa Yara",
-   "description": "Lattafa Yara, de Lattafa. Eau de Parfum · 100 ml · para dama. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "description": "Dulce, cremoso y muy suave, Yara se siente como una caricia: un inicio afrutado y floral que enseguida se vuelve polvoso y acogedor.\n\nEn la piel deja una sensación delicada y reconfortante, con un fondo de vainilla y almizcle que persiste de forma amable. Tiene un aire romántico y juvenil, muy fácil de querer.\n\nEs perfecto para el día a día, para tardes tranquilas, citas y salidas informales, y también como regalo para quien disfruta de los aromas dulces y delicados. Es una fragancia muy amable con la piel, ideal si prefieres aromas suaves que se sienten cercanos y reconfortantes.\n\nIdeal para: Día a día, citas, tardes, regalo.\n\nEau de Parfum · 100 ml · para dama.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
    "brand": "Lattafa",
    "gender": "Dama",
    "size": "100 ml",
@@ -332,7 +1040,7 @@
   {
    "slug": "lattafa-asad-elixir-edp-100ml",
    "title": "Lattafa Asad Elixir",
-   "description": "Lattafa Asad Elixir, de Lattafa. Eau de Parfum · 100 ml · para hombre. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "description": "La versión más profunda y concentrada de Asad: abre con un toque especiado y cítrico, y rápidamente se vuelve ahumado, cálido y envolvente.\n\nEn la piel se siente seco, resinoso y elegante, con un fondo amaderado que se queda contigo durante horas. Tiene una presencia seria y sofisticada, sin dejar de ser cómodo.\n\nResulta ideal para noches de otoño o invierno, cenas, eventos y ocasiones donde quieres que tu aroma hable por ti. Una pieza para quienes disfrutan de los perfumes con cuerpo, de los que se perciben mejor en la noche y las temporadas frías.\n\nIdeal para: Noches, eventos, otoño e invierno.\n\nEau de Parfum · 100 ml · para hombre.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
    "brand": "Lattafa",
    "gender": "Hombre",
    "size": "100 ml",
@@ -349,7 +1057,7 @@
   {
    "slug": "lattafa-asad-edp-100ml",
    "title": "Lattafa Asad",
-   "description": "Lattafa Asad, de Lattafa. Eau de Parfum · 100 ml · para hombre. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "description": "Un perfume masculino con mucha presencia: abre con un golpe especiado y un destello frutal poco común, y enseguida se oscurece con matices de café y tabaco suave.\n\nEn la piel se va asentando en un fondo cálido, cremoso y ligeramente resinoso, con una estela que se nota. Tiene carácter, pero resulta elegante y bien equilibrado.\n\nFunciona muy bien en las noches, en salidas, en citas o en clima fresco, y es una buena opción para quien busca un aroma intenso sin ser excesivo. Un perfume que se luce más con unos pocos disparos bien puestos, dejando que su calidez se desarrolle poco a poco en la piel.\n\nIdeal para: Noches, citas, clima fresco.\n\nEau de Parfum · 100 ml · para hombre.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
    "brand": "Lattafa",
    "gender": "Hombre",
    "size": "100 ml",
@@ -366,7 +1074,7 @@
   {
    "slug": "armaf-yum-yum-100ml",
    "title": "Armaf Yum Yum",
-   "description": "Armaf Yum Yum, de Armaf. Eau de Parfum · 100 ml · para dama. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "description": "Divertido, goloso y lleno de energía: abre con un golpe de fruta brillante que recuerda a un postre de frutos rojos, y luego se suaviza con flores y vainilla.\n\nEn la piel termina polvoso, cremoso y muy acogedor, con una dulzura que no se vuelve empalagosa. Se siente joven, coqueto y con buena presencia.\n\nLo vas a disfrutar si te gustan los perfumes dulces y juguetones, para salidas con amigas, citas, tardes calurosas o cuando quieras animar el día con algo alegre. Es un perfume pensado para quien disfruta de oler rico y sentirse alegre, sin complicarse demasiado con la ocasión.\n\nIdeal para: Salidas, citas, tardes calurosas, quienes aman lo dulce.\n\nEau de Parfum · 100 ml · para dama.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
    "brand": "Armaf",
    "gender": "Dama",
    "size": "100 ml",
@@ -383,7 +1091,7 @@
   {
    "slug": "lattafa-mayar-edp-100ml",
    "title": "Lattafa Mayar",
-   "description": "Lattafa Mayar, de Lattafa. Eau de Parfum · 100 ml · para dama. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "description": "Una fragancia dulce, luminosa y muy femenina: abre jugosa y frutal, con un aire romántico que enseguida se vuelve floral y delicado.\n\nEn la piel se siente suave, limpia y cremosa, con un fondo de vainilla y almizcle que la hace acogedora y fácil de querer. No es pesada, y por eso se adapta bien a muchos momentos del día.\n\nEs ideal si te gustan los aromas alegres y coquetos, para usar en la universidad, en el trabajo, en una salida de día o en una cita ligera. Es un perfume amable y luminoso que te acompaña sin esfuerzo, de esos que se sienten bien desde la primera puesta.\n\nIdeal para: Día a día, citas, clima templado o cálido.\n\nEau de Parfum · 100 ml · para dama.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
    "brand": "Lattafa",
    "gender": "Dama",
    "size": "100 ml",
@@ -400,7 +1108,7 @@
   {
    "slug": "lattafa-set-miniaturas-badee-al-oud",
    "title": "Lattafa Set Miniaturas Badee Al Oud Collection",
-   "description": "Lattafa Set Miniaturas Badee Al Oud Collection, de Lattafa. Eau de Parfum · 5 piezas de 5 ml · unisex. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "description": "Un set pensado para descubrir la colección Badee Al Oud de Lattafa sin comprometerte con un frasco grande. Trae cinco miniaturas de 5 ml: Amethyst, Honor & Glory, Sublime, Oud for Glory y Noble Blush, cada una con su propio carácter, desde lo oscuro y amaderado hasta lo frutal y floral.\n\nLas notas de arriba corresponden a Oud for Glory, la pieza más intensa del conjunto, de aire ahumado y profundo. Las otras te llevan por rosas especiadas, maderas con vainilla, un toque cítrico y una nota floral ambarada.\n\nEs un regalo muy bonito y práctico: se lleva en el bolso, se alterna según el día y sirve para elegir tu favorita.\n\nIdeal para: Regalo, descubrir la colección, viajes, uso unisex.\n\nEau de Parfum · 5 piezas de 5 ml · unisex.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
    "brand": "Lattafa",
    "gender": "Unisex",
    "size": "5 piezas de 5 ml",
@@ -417,7 +1125,7 @@
   {
    "slug": "rayhaan-elixir-men-edp-100ml",
    "title": "Rayhaan Elixir Men",
-   "description": "Rayhaan Elixir Men, de Rayhaan. Eau de Parfum · 100 ml · para hombre. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "description": "Un aroma masculino que combina frescura aromática con una base cálida y golosa. Abre limpio y herbal, y poco a poco se vuelve más suave y envolvente.\n\nEn la piel deja un fondo cremoso y dulce, con un toque amaderado que lo hace muy fácil de llevar. Tiene buena presencia y un carácter seguro, sin llegar a ser agresivo.\n\nResulta muy cómodo para la oficina, para salir en la noche o para clima fresco, y es una buena puerta de entrada a la perfumería árabe si te gustan los aromas con estela marcada.\n\nIdeal para: Oficina, noches, clima fresco.\n\nEau de Parfum · 100 ml · para hombre.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
    "brand": "Rayhaan",
    "gender": "Hombre",
    "size": "100 ml",
@@ -434,7 +1142,7 @@
   {
    "slug": "al-haramain-amber-oud-rouge-120ml",
    "title": "Al Haramain Amber Oud Rouge",
-   "description": "Al Haramain Amber Oud Rouge, de Al Haramain. Eau de Parfum · 120 ml · unisex. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "description": "Rouge tiene un aire cálido y sofisticado: el azafrán le da un brillo especiado desde el inicio, y el corazón floral lo suaviza antes de dejar paso a un fondo profundo y envolvente.\n\nEn la piel se siente sedoso, ámbar y ligeramente animal, con una estela elegante que se percibe sin esfuerzo. Es una fragancia de carácter, pero con un fondo muy cómodo y limpio.\n\nLa disfrutarás en noches de otoño e invierno, cenas, eventos o en cualquier momento en que quieras un aroma distinguido y memorable. Con unos pocos disparos es suficiente para sentirte acompañada por su estela durante buena parte de la jornada.\n\nIdeal para: Noches, eventos, otoño e invierno, uso unisex.\n\nEau de Parfum · 120 ml · unisex.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
    "brand": "Al Haramain",
    "gender": "Unisex",
    "size": "120 ml",
@@ -451,7 +1159,7 @@
   {
    "slug": "al-haramain-amber-oud-ruby-120ml",
    "title": "Al Haramain Amber Oud Ruby",
-   "description": "Al Haramain Amber Oud Ruby, de Al Haramain. Eau de Parfum · 120 ml · unisex. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "description": "Ruby es una fragancia envolvente y sensual, con un comienzo especiado y ligeramente cremoso que se siente cálido desde el primer momento.\n\nEn la piel se redondea con un fondo suave, íntimo y un poco animal, de esos que se quedan cerca y se descubren poco a poco. Tiene carácter, pero también una elegancia serena que la hace muy versátil.\n\nPuedes usarla en la noche, en reuniones especiales o cuando quieras un aroma distinto y sofisticado. Funciona muy bien en clima fresco, donde sus matices cálidos se aprecian mejor. Rocíala sobre la ropa o la piel tibia y deja que se abra con calma.\n\nIdeal para: Noches, ocasiones especiales, clima fresco, uso unisex.\n\nEau de Parfum · 120 ml · unisex.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
    "brand": "Al Haramain",
    "gender": "Unisex",
    "size": "120 ml",
@@ -468,7 +1176,7 @@
   {
    "slug": "al-haramain-amber-oud-gold-edition-60ml",
    "title": "Al Haramain Amber Oud Gold Edition",
-   "description": "Al Haramain Amber Oud Gold Edition, de Al Haramain. Eau de Parfum · 60 ml · unisex. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "description": "Un aroma dulce y vibrante, con un arranque fresco y jugoso que enseguida se vuelve cálido y goloso. Es de esos perfumes que invitan a acercarse.\n\nEn la piel evoluciona hacia un fondo cremoso, suave y envolvente, con un carácter ambarado que se siente lujoso sin ser pesado. Tiene una presencia amable y muy llamativa, de las que dejan una estela agradable.\n\nLa edición Gold es una de las favoritas de la perfumería árabe por su equilibrio entre frutal y gourmand. Va muy bien en noches, citas o salidas especiales, y también en tardes frescas.\n\nIdeal para: Citas, noches, clima fresco, uso unisex.\n\nEau de Parfum · 60 ml · unisex.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
    "brand": "Al Haramain",
    "gender": "Unisex",
    "size": "60 ml",
@@ -485,7 +1193,7 @@
   {
    "slug": "the-scent-of-karol-edp",
    "title": "The Scent of Karol",
-   "description": "The Scent of Karol, de The Scent of Karol. Eau de Parfum · para dama. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "description": "Una fragancia con mucha personalidad: arranca fresca y afrutada, con un matiz verde y aromático, y se transforma en un corazón floral con un toque cálido que le da profundidad.\n\nEn la piel termina suave, cremosa y ligeramente dulce, con un fondo que recuerda al ante y a la madera. Es de esas fragancias que se perciben pulidas, elegantes y con un aire urbano, ideales para quien disfruta destacar sin exagerar.\n\nLa puedes llevar a una cena, una reunión con amigos o a la oficina, y se siente especialmente bien en clima fresco o en la noche.\n\nIdeal para: Salidas nocturnas, reuniones, clima fresco, uso unisex.\n\nEau de Parfum · para dama.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
    "brand": "The Scent of Karol",
    "gender": "Dama",
    "size": null,
@@ -502,7 +1210,7 @@
   {
    "slug": "intenso-stallion-53-emper-edp-100ml",
    "title": "Intenso Stallion 53 Emper",
-   "description": "Intenso Stallion 53 Emper, de Emper. Eau de Parfum · 100 ml · unisex. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "description": "Una fragancia de aire sofisticado y muy contemporáneo: arranca con un toque verde y especiado, y poco a poco se vuelve cremosa, seca y envolvente, con ese carácter de madera suave que tanto gusta.\n\nEs unisex y se siente elegante, casi como una prenda de buena calidad: limpia, algo minimalista y con un trasfondo de cuero muy sutil. No grita, pero se nota cuando alguien se acerca.\n\nFunciona muy bien para la oficina, reuniones, cenas tranquilas o climas templados y frescos, y es una buena alternativa si disfrutas los aromas amaderados con personalidad.\n\nIdeal para: Oficina, cenas, clima templado o fresco, uso unisex.\n\nEau de Parfum · 100 ml · unisex.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
    "brand": "Emper",
    "gender": "Unisex",
    "size": "100 ml",
@@ -519,7 +1227,7 @@
   {
    "slug": "perry-ellis-360-edt-dama-100ml",
    "title": "Perry Ellis 360°",
-   "description": "Perry Ellis 360°, de Perry Ellis. Eau de Toilette · 100 ml · para dama. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "description": "Fresco, limpio y sin complicaciones: abre con un toque frutal que se siente casi como brisa, y enseguida se asienta en un corazón floral y acuático muy delicado.\n\nEn la piel deja una sensación de ropa recién lavada y de piel cuidada, con un fondo suave y ligeramente cremoso que redondea todo sin volverlo dulce en exceso. Es una fragancia discreta, pensada para acompañarte sin llamar demasiado la atención.\n\nLa vas a disfrutar en jornadas largas, en la oficina o en climas cálidos, y también si buscas un aroma cómodo y fácil de combinar con cualquier outfit.\n\nIdeal para: Oficina, día a día, clima cálido, aroma fresco y discreto.\n\nEau de Toilette · 100 ml · para dama.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
    "brand": "Perry Ellis",
    "gender": "Dama",
    "size": "100 ml",
@@ -536,7 +1244,7 @@
   {
    "slug": "paris-hilton-edp-100ml",
    "title": "Paris Hilton by Paris Hilton",
-   "description": "Paris Hilton by Paris Hilton, de Paris Hilton. Eau de Parfum · 100 ml · para dama. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "description": "Un clásico de los años 2000 que sigue teniendo su encanto: abre jugoso y luminoso, como morder una fruta fría en un día soleado, y poco a poco se vuelve más floral, suave y coqueto.\n\nSobre la piel se siente femenino, limpio y juvenil, con un fondo cremoso que lo hace muy fácil de llevar. No es un aroma pesado; acompaña sin imponerse y deja una estela dulce y amable.\n\nEs una buena opción si te gustan las fragancias alegres y románticas, para el día a día, la universidad, una salida de tarde o un regalo con sabor a nostalgia.\n\nIdeal para: Día a día, salidas de tarde, clima cálido, regalo.\n\nEau de Parfum · 100 ml · para dama.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
    "brand": "Paris Hilton",
    "gender": "Dama",
    "size": "100 ml",
@@ -553,7 +1261,7 @@
   {
    "slug": "zakat-z40-edp-100ml",
    "title": "Z40 Zakat Parfum",
-   "description": "Z40 Zakat Parfum, de Zakat. Eau de Parfum · 100 ml · para dama. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "description": "Z40 de Zakat es una fragancia dulce, tropical y femenina. Un inicio floral y cítrico da paso a un corazón goloso con frutas, y se asienta en una base cálida de vainilla y almizcle.\n\nEs un perfume agradable y envolvente, pensado para quien disfruta de lo dulce sin ir demasiado lejos.\n\nSe adapta bien al día a día, a reuniones y a salidas casuales. Una opción accesible dentro de la perfumería de inspiración árabe, para quien quiere un aroma que acompañe con calidez. Es un perfume cálido y agradable que se siente cómodo sobre la piel.\n\nIdeal para: Día a día, reuniones, salidas casuales.\n\nEau de Parfum · 100 ml · para dama.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
    "brand": "Zakat",
    "gender": "Dama",
    "size": "100 ml",
@@ -570,7 +1278,7 @@
   {
    "slug": "tommy-hilfiger-tommy-girl-edt-100ml",
    "title": "Tommy Hilfiger Tommy Girl",
-   "description": "Tommy Hilfiger Tommy Girl, de Tommy Hilfiger. Eau de Toilette · 100 ml · para dama. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "description": "Tommy Girl es un clásico fresco, juvenil y con espíritu americano. Es de esos aromas que se sienten limpios, alegres y fáciles de usar todos los días.\n\nSu carácter ligero la hace ideal para la universidad, la oficina informal y las salidas casuales, sobre todo en clima cálido.\n\nUna fragancia atemporal y accesible para quien busca un perfume sencillo, luminoso y con mucho estilo. Es un clásico que muchas mujeres han llevado por años. Su frasco con el lazo azul y su espíritu casual lo hacen un regalo sencillo, fresco y fácil de acertar para cualquier edad.\n\nIdeal para: Día a día, universidad, clima cálido.\n\nEau de Toilette · 100 ml · para dama.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
    "brand": "Tommy Hilfiger",
    "gender": "Dama",
    "size": "100 ml",
@@ -587,7 +1295,7 @@
   {
    "slug": "calvin-klein-ck-in2u-dama-100ml",
    "title": "CK IN2U de Calvin Klein",
-   "description": "CK IN2U de Calvin Klein, de Calvin Klein. Eau de Toilette · 100 ml · para dama. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "description": "CK IN2U para ella es juvenil, divertido y muy de ahora. Empieza con cítricos burbujeantes y se vuelve un corazón floral dulce y novedoso.\n\nSu fondo de cedro, ámbar y vainilla le da calidez y una estela agradable que no cansa.\n\nIdeal para salidas con amigos, universidad y planes de fin de semana. Una fragancia atrevida y accesible para quien quiere un aroma fresco con un guiño dulce. Es un aroma ligero y alegre que combina bien con looks casuales. Una opción dulce y juvenil, perfecta como regalo para quien empieza a descubrir los perfumes y busca algo moderno y fácil de llevar.\n\nIdeal para: Salidas con amigos, universidad, fines de semana.\n\nEau de Toilette · 100 ml · para dama.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
    "brand": "Calvin Klein",
    "gender": "Dama",
    "size": "100 ml",
@@ -604,7 +1312,7 @@
   {
    "slug": "guess-seductive-edt-75ml",
    "title": "Guess Seductive",
-   "description": "Guess Seductive, de Guess. Eau de Toilette · 75 ml · para dama. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "description": "Guess Seductive es femenina y coqueta. Abre frutal y alegre, y se transforma en un corazón floral suave y empolvado que se siente delicado en la piel.\n\nEl fondo de vainilla e incienso aporta un toque cálido y sensual que se queda cerca, sin ser invasivo.\n\nEs ideal para el día a día, la oficina y las salidas casuales o románticas. Una opción accesible y bonita para quien busca un aroma dulce y floral sin exagerar. Es un perfume sencillo y bonito que se siente cómodo desde la primera vez que lo usas. Una opción dulce y accesible, ideal también como regalo para quien ama los aromas florales y frutales.\n\nIdeal para: Día a día, oficina, citas casuales.\n\nEau de Toilette · 75 ml · para dama.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
    "brand": "Guess",
    "gender": "Dama",
    "size": "75 ml",
@@ -621,7 +1329,7 @@
   {
    "slug": "lacoste-l-12-12-rose-sparkling-100ml",
    "title": "Lacoste L.12.12 Rose Sparkling",
-   "description": "Lacoste L.12.12 Rose Sparkling, de Lacoste. Eau de Toilette · 100 ml · para dama. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "description": "L.12.12 Rose Sparkling es juguetón y chispeante, como una burbuja de frutas y azúcar. Abre con una frescura frutal y se suaviza con un corazón dulce que recuerda a una pastelería.\n\nSu fondo de pachulí y vetiver le da un toque moderno y evita que se vuelva empalagoso.\n\nLa vas a disfrutar en el día a día, en la universidad y en planes casuales con amigas. Una opción alegre y diferente para quien quiere sentirse fresca y un poco golosa. Es una fragancia pensada para sonreír, con un carácter ligero y optimista que se nota al instante.\n\nIdeal para: Día a día, universidad, planes casuales.\n\nEau de Toilette · 100 ml · para dama.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
    "brand": "Lacoste",
    "gender": "Dama",
    "size": "100 ml",
@@ -638,7 +1346,7 @@
   {
    "slug": "guess-seductive-blue-edt-75ml",
    "title": "Guess Seductive Blue",
-   "description": "Guess Seductive Blue, de Guess. Eau de Toilette · 75 ml · para dama. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "description": "Seductive Blue es fresco, coqueto y luminoso. La pera y la bergamota abren con jugosidad, y el corazón floral de rosa y peonía lo vuelve suave y romántico.\n\nSu fondo de ámbar y almizcle deja una sensación limpia y ligeramente dulce en la piel.\n\nEs perfecto para el día a día, la universidad y las salidas casuales. Una opción alegre y accesible para quien busca un aroma floral fresco y fácil de usar. Su aroma ligero se siente femenino y agradable, ideal para quien no quiere un perfume pesado. Un regalo bonito para cualquier ocasión, desde cumpleaños hasta detalles sin motivo.\n\nIdeal para: Día a día, universidad, salidas casuales, clima cálido.\n\nEau de Toilette · 75 ml · para dama.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
    "brand": "Guess",
    "gender": "Dama",
    "size": "75 ml",
@@ -655,7 +1363,7 @@
   {
    "slug": "dolce-gabbana-light-blue-dama-edt",
    "title": "Dolce & Gabbana Light Blue",
-   "description": "Dolce & Gabbana Light Blue, de Dolce & Gabbana. Eau de Toilette · para dama. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "description": "Light Blue es el verano mediterráneo hecho perfume. Cítricos brillantes y manzana verde se mezclan con flores blancas suaves, y todo termina en un fondo limpio de cedro y almizcle.\n\nHa sido un clásico por su frescura y su ligereza: es alegre, luminoso y fácil de llevar.\n\nFunciona de maravilla en clima caluroso, vacaciones, oficina y días de sol. Un regalo muy acertado para quien prefiere lo fresco, limpio y sin complicaciones. Es un perfume luminoso y femenino que se siente fácil, bonito y ligero. Un clásico moderno que funciona en cualquier armario de fragancias, desde las primeras citas hasta los planes diarios.\n\nIdeal para: Verano, vacaciones, oficina, clima cálido.\n\nEau de Toilette · para dama.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
    "brand": "Dolce & Gabbana",
    "gender": "Dama",
    "size": null,
@@ -672,7 +1380,7 @@
   {
    "slug": "ariana-grande-thank-u-next-edp-100ml",
    "title": "Ariana Grande Thank U, Next",
-   "description": "Ariana Grande Thank U, Next, de Ariana Grande. Eau de Parfum · 100 ml · para dama. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "description": "Thank U, Next es dulce, optimista y muy juvenil. Un inicio frutal y fresco da paso a un corazón cremoso y floral, y termina en un fondo suave de almizcle que te acompaña con ternura.\n\nEs una fragancia para quien disfruta de lo dulce sin que sea pesado. Se siente alegre, cómoda y fácil de usar.\n\nPerfecta para el día a día, la universidad y planes con amigas. Un regalo ideal para una fan de Ariana o para quien ama los perfumes golosos. Su aroma cremoso y suave te acompañará con un toque de dulzura durante el día.\n\nIdeal para: Día a día, universidad, planes con amigas, regalo juvenil.\n\nEau de Parfum · 100 ml · para dama.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
    "brand": "Ariana Grande",
    "gender": "Dama",
    "size": "100 ml",
@@ -689,7 +1397,7 @@
   {
    "slug": "bvlgari-omnia-crystalline-edp-100ml",
    "title": "Bvlgari Omnia Crystalline",
-   "description": "Bvlgari Omnia Crystalline, de Bvlgari. Eau de Parfum · 100 ml · para dama. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "description": "Omnia Crystalline Eau de Parfum es transparente y luminosa, como una gema recién pulida. La pera nashi y el loto le dan una frescura acuosa, y el jazmín y el sándalo añaden suavidad y calidez.\n\nEs una fragancia delicada pero con presencia, ideal para quien prefiere lo limpio y refinado sobre lo dulce.\n\nVa muy bien en la oficina, en eventos de día y en climas cálidos. Un regalo de lujo discreto para una mujer elegante. Su perfil cristalino la hace una fragancia versátil que se siente fina en cualquier momento del día. Una elección elegante para quien disfruta de lo sutil y bien hecho.\n\nIdeal para: Oficina, eventos de día, clima cálido, regalo.\n\nEau de Parfum · 100 ml · para dama.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
    "brand": "Bvlgari",
    "gender": "Dama",
    "size": "100 ml",
@@ -706,7 +1414,7 @@
   {
    "slug": "carolina-herrera-good-girl-edp-80ml",
    "title": "Carolina Herrera Good Girl New York",
-   "description": "Carolina Herrera Good Girl New York, de Carolina Herrera. Eau de Parfum · 80 ml · para dama. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "description": "Good Girl es la dualidad hecha perfume: dulce y misteriosa, femenina y atrevida. Su corazón floral blanco se encuentra con un fondo cálido y goloso que deja una estela seductora.\n\nPuesta en la piel se siente sensual, elegante y con carácter. Es un aroma para mujeres que saben lo que quieren.\n\nLo disfrutarás en la noche, en citas y celebraciones, y en clima fresco. Es un regalo con impacto para quien ama los perfumes con personalidad y un toque de glamour. Su icónico frasco en forma de zapato de tacón la convierte además en un objeto de colección muy vistoso.\n\nIdeal para: Noches, citas, celebraciones, clima fresco.\n\nEau de Parfum · 80 ml · para dama.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
    "brand": "Carolina Herrera",
    "gender": "Dama",
    "size": "80 ml",
@@ -723,7 +1431,7 @@
   {
    "slug": "prada-paradoxe-intense-edp-90ml",
    "title": "Prada Paradoxe Intense",
-   "description": "Prada Paradoxe Intense, de Prada. Eau de Parfum · 90 ml · para dama. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "description": "Paradoxe Intense lleva el jazmín a un nivel más profundo y luminoso. Es una fragancia femenina y moderna donde lo floral se mezcla con un fondo ambarado y sensual que se queda en la piel.\n\nSu estela es envolvente y elegante, con un aire sofisticado que no necesita exagerar. Se siente como un traje a la medida.\n\nBrilla en eventos, cenas y noches especiales, pero también puede acompañarte a la oficina si te gusta destacar con clase. Un regalo de lujo para una mujer segura de sí misma. Su frasco recargable, de líneas limpias, completa un conjunto pensado para quien valora el diseño y la elegancia moderna.\n\nIdeal para: Eventos, cenas, noches, oficina elegante.\n\nEau de Parfum · 90 ml · para dama.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
    "brand": "Prada",
    "gender": "Dama",
    "size": "90 ml",
@@ -740,7 +1448,7 @@
   {
    "slug": "hugo-boss-bottled-unlimited-edt-100ml",
    "title": "Hugo Boss Bottled Unlimited",
-   "description": "Hugo Boss Bottled Unlimited, de Hugo Boss. Eau de Toilette · 100 ml · para hombre. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "description": "Boss Bottled Unlimited tiene el espíritu deportivo y soleado de un día de verano. La menta y el pomelo le dan un inicio muy vivo, y la piña con la canela aportan un corazón jugoso y distinto.\n\nSobre la piel se siente enérgico, limpio y masculino, con un fondo suave de almizcle y sándalo.\n\nEs ideal para el calor, el gimnasio, la oficina y las salidas de día. Un regalo alegre para el hombre activo que quiere un aroma fresco con un detalle diferente. Es un aroma optimista que levanta el ánimo con solo olerlo.\n\nIdeal para: Verano, deporte, oficina, salidas de día.\n\nEau de Toilette · 100 ml · para hombre.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
    "brand": "Hugo Boss",
    "gender": "Hombre",
    "size": "100 ml",
@@ -757,7 +1465,7 @@
   {
    "slug": "nautica-voyage-100ml",
    "title": "Nautica Voyage",
-   "description": "Nautica Voyage, de Nautica. Eau de Toilette · 100 ml · para hombre. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "description": "Nautica Voyage es pura frescura marina y limpia. La manzana verde le da un inicio jugoso, y el fondo suave de cedro y almizcle lo mantiene ligero y agradable durante el día.\n\nEs un perfume fácil, sin pretensiones, que huele a ropa limpia y mar abierto. Va muy bien en clima caluroso, en la oficina o en actividades al aire libre.\n\nUna opción clásica y económica para quien prefiere los aromas acuáticos discretos, y un regalo práctico para el uso diario. Es una fragancia ligera, pensada para sentirse cómodo y fresco en cualquier momento del día. Su sencillez es justo su mayor virtud.\n\nIdeal para: Día a día, oficina, clima cálido, aire libre.\n\nEau de Toilette · 100 ml · para hombre.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
    "brand": "Nautica",
    "gender": "Hombre",
    "size": "100 ml",
@@ -774,7 +1482,7 @@
   {
    "slug": "guess-dare-edt-100ml",
    "title": "Guess Dare",
-   "description": "Guess Dare, de Guess. Eau de Toilette · 100 ml · para hombre. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "description": "Guess Dare es un perfume joven y desenfadado, con un inicio fresco y especiado y un fondo amaderado cálido que se siente moderno y accesible.\n\nTiene la energía de una salida de fin de semana: seguro, simpático y fácil de llevar. Se adapta a planes casuales, universidad, oficina informal y noches con amigos.\n\nSi buscas un aroma agradable y bien construido a un precio amable, es una excelente opción. También funciona como regalo para quien está empezando a armar su colección. Es una alternativa fresca y alegre para quienes quieren verse y sentirse bien sin complicarse.\n\nIdeal para: Planes casuales, universidad, salidas con amigos.\n\nEau de Toilette · 100 ml · para hombre.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
    "brand": "Guess",
    "gender": "Hombre",
    "size": "100 ml",
@@ -791,7 +1499,7 @@
   {
    "slug": "lacoste-l-12-12-blanc-edt-100ml",
    "title": "Lacoste L.12.12 Blanc",
-   "description": "Lacoste L.12.12 Blanc, de Lacoste. Eau de Toilette · 100 ml · para hombre. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "description": "L.12.12 Blanc es la frescura deportiva de Lacoste en su versión más limpia: un inicio cítrico y especiado, un corazón floral discreto y un fondo suave de vetiver y gamuza.\n\nSe siente impecable, como una camisa blanca recién planchada. Su elegancia sencilla lo vuelve perfecto para el trabajo, el deporte ligero y el uso diario.\n\nEs especialmente agradable en clima cálido y húmedo. Un regalo muy seguro para el hombre que aprecia el estilo clásico y los aromas limpios. Su estela es limpia y sin exceso, ideal si prefieres un perfume que acompañe sin llamar demasiado la atención.\n\nIdeal para: Oficina, deporte, día a día, clima cálido.\n\nEau de Toilette · 100 ml · para hombre.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
    "brand": "Lacoste",
    "gender": "Hombre",
    "size": "100 ml",
@@ -808,7 +1516,7 @@
   {
    "slug": "calvin-klein-ck-be-100ml",
    "title": "CK Be Calvin Klein",
-   "description": "CK Be Calvin Klein, de Calvin Klein. Eau de Toilette · 100 ml · unisex. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "description": "CK Be es un clásico de los noventa pensado para todos: fresco y cálido a la vez. Empieza con lavanda, menta y cítricos, y termina en un fondo de almizcle y maderas muy suave y limpio.\n\nEs el tipo de perfume que se siente como una segunda piel. Lo pueden usar ella y él, y no cansa ni invade, así que funciona en la oficina, en clases o en el día a día.\n\nUn regalo versátil y sencillo para quien aprecia lo atemporal y lo discreto. Al ser unisex, es una compra inteligente si quieres compartirlo o regalarlo sin dudar. Ofrece un aroma amable, limpio y muy fácil de querer.\n\nIdeal para: Día a día, oficina, estudio, unisex.\n\nEau de Toilette · 100 ml · unisex.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
    "brand": "Calvin Klein",
    "gender": "Unisex",
    "size": "100 ml",
@@ -825,7 +1533,7 @@
   {
    "slug": "calvin-klein-euphoria-edp-100ml",
    "title": "Calvin Klein Euphoria",
-   "description": "Calvin Klein Euphoria, de Calvin Klein. Eau de Parfum · 100 ml · para hombre. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "description": "Euphoria Men es una fragancia moderna y sensual. Empieza fresca y especiada, con un aire de lluvia fría, y se vuelve cálida y envolvente con maderas y un toque de gamuza.\n\nEs un perfume con carácter para el hombre que prefiere algo distinto de los frescos de siempre. En la piel se siente elegante y un poco misterioso.\n\nLo lucirás en noches, citas y reuniones, sobre todo en clima fresco. Es una elección acertada si buscas llamar la atención con buen gusto. Es una propuesta distinta, más cálida que los frescos habituales, y fácil de lucir con camisa o con una chaqueta ligera.\n\nIdeal para: Noches, citas, clima fresco.\n\nEau de Parfum · 100 ml · para hombre.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
    "brand": "Calvin Klein",
    "gender": "Hombre",
    "size": "100 ml",
@@ -842,7 +1550,7 @@
   {
    "slug": "dolce-gabbana-light-blue-hombre-100ml",
    "title": "Dolce & Gabbana Light Blue Pour Homme",
-   "description": "Dolce & Gabbana Light Blue Pour Homme, de Dolce & Gabbana. Eau de Toilette · 100 ml · para hombre. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "description": "Light Blue Pour Homme es el Mediterráneo en un frasco: cítricos soleados, un toque aromático y una base amaderada y limpia. Es fresco sin ser simple.\n\nSe siente vital, masculino y relajado, con una estela agradable que no invade. Funciona de maravilla en clima caluroso, vacaciones y días de playa o ciudad.\n\nTambién queda muy bien en la oficina si buscas un aroma discreto y bien cuidado. Un regalo sencillo de acertar para quien disfruta de la frescura y el verano. Es un perfume honesto y luminoso: se siente bien desde la primera aplicación.\n\nIdeal para: Verano, playa, oficina, clima cálido.\n\nEau de Toilette · 100 ml · para hombre.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
    "brand": "Dolce & Gabbana",
    "gender": "Hombre",
    "size": "100 ml",
@@ -859,7 +1567,7 @@
   {
    "slug": "valentino-born-in-roma-set-travel",
    "title": "Valentino Born in Roma Set Travel",
-   "description": "Valentino Born in Roma Set Travel, de Valentino. Eau de Toilette · 100 ml + 10 ml · para hombre. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "description": "Born in Roma Uomo es moderno, urbano y con un toque mineral. La hoja de violeta y la salvia le dan un inicio verde y fresco, mientras el vetiver y el acorde salino lo hacen elegante y distinto.\n\nEste set trae el perfume de 100 ml y un travel spray de 10 ml para que lo lleves siempre contigo y retoques tu aroma donde estés.\n\nEs un perfume para el hombre que quiere destacar con estilo: va bien en la oficina, en una cena o en un fin de semana en la ciudad. Un regalo sofisticado y actual. Su diseño en frasco azul y dorado también lo hace un detalle de regalo muy vistoso.\n\nIdeal para: Oficina, cenas, ciudad, viajes, regalo.\n\nEau de Toilette · 100 ml + 10 ml · para hombre.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
    "brand": "Valentino",
    "gender": "Hombre",
    "size": "100 ml + 10 ml",
@@ -876,7 +1584,7 @@
   {
    "slug": "carolina-herrera-212-vip-black-nyc-elixir-100ml",
    "title": "Carolina Herrera 212 VIP Black NYC Elixir",
-   "description": "Carolina Herrera 212 VIP Black NYC Elixir, de Carolina Herrera. Elixir · 100 ml · para hombre. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "description": "212 VIP Black Elixir es la versión más profunda y oscura de la familia. Abre con una lavanda aromática y fresca, y evoluciona hacia un corazón de regaliz y azafrán con un guiño goloso.\n\nEn la piel termina en un fondo de vainilla negra y maderas que se siente cálido, sensual y nocturno.\n\nEs perfecto para fiestas, citas y salidas de noche, cuando quieres un aroma con intensidad y elegancia. Un regalo para el hombre que ama los perfumes con carácter. Su intensidad se aprecia mejor con pocas aplicaciones: deja una estela elegante que se nota sin abrumar.\n\nIdeal para: Noches, fiestas, citas, clima fresco.\n\nElixir · 100 ml · para hombre.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
    "brand": "Carolina Herrera",
    "gender": "Hombre",
    "size": "100 ml",
@@ -893,7 +1601,7 @@
   {
    "slug": "rabanne-1-million-edt-100ml",
    "title": "Rabanne 1 Million",
-   "description": "Rabanne 1 Million, de Rabanne. Eau de Toilette · 100 ml · para hombre. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "description": "1 Million es sinónimo de confianza: un inicio chispeante de cítricos y menta que se transforma en un corazón especiado y un fondo de cuero y ámbar.\n\nEs un aroma festivo, cálido y llamativo, con esa personalidad que se nota cuando entras a una sala. La botella en forma de lingote ya cuenta parte de la historia.\n\nLo disfrutarás en noches, celebraciones y salidas en las que quieres verte y oler impecable. Va muy bien en clima fresco y es un regalo que siempre acierta. Es un clásico moderno que aún sigue enamorando a quienes lo prueban.\n\nIdeal para: Noches, fiestas, celebraciones, regalo para hombre.\n\nEau de Toilette · 100 ml · para hombre.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
    "brand": "Rabanne",
    "gender": "Hombre",
    "size": "100 ml",
@@ -910,7 +1618,7 @@
   {
    "slug": "giorgio-armani-acqua-di-gio-edp-50ml",
    "title": "Giorgio Armani Acqua di Giò",
-   "description": "Giorgio Armani Acqua di Giò, de Giorgio Armani. Eau de Parfum · 50 ml · para hombre. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "description": "Acqua di Giò en concentración Eau de Parfum conserva el aire del mar y le suma profundidad. Su frescura salina se siente limpia y elegante, y se apoya en un fondo amaderado y mineral que le da más permanencia.\n\nEs un perfume sobrio, versátil y de buen gusto, de esos que no se equivocan. Sienta bien en el trabajo, en reuniones y en el fin de semana.\n\nPor su carácter fresco es una excelente elección para el clima cálido, y un regalo seguro para el hombre que prefiere la elegancia discreta. Su tamaño de 50 ml es práctico para llevar y renovar tu aroma cuando lo necesites.\n\nIdeal para: Oficina, día a día, clima cálido, regalo clásico.\n\nEau de Parfum · 50 ml · para hombre.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
    "brand": "Giorgio Armani",
    "gender": "Hombre",
    "size": "50 ml",
@@ -927,7 +1635,7 @@
   {
    "slug": "jean-paul-gaultier-scandal-travel-set",
    "title": "Jean Paul Gaultier Scandal Travel Exclusive Set",
-   "description": "Jean Paul Gaultier Scandal Travel Exclusive Set, de Jean Paul Gaultier. Eau de Toilette · Set de viaje · para hombre. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "description": "Scandal Pour Homme es dulce, provocador y muy adictivo. Un inicio fresco da paso a un corazón de caramelo y tonka que se siente cálido, y se asienta en un vetiver ahumado y elegante.\n\nEs una fragancia con actitud, hecha para llamar la atención sin esforzarse. Se mueve bien en la noche y se siente cómoda en clima fresco.\n\nEn su formato de set de viaje es práctica y fácil de regalar: ideal para llevar en la maleta o en el bolso y mantener tu aroma contigo en cada plan. Es una elección memorable para quien disfruta de los aromas dulces con un toque ahumado.\n\nIdeal para: Noches, citas, viajes, regalo para hombre.\n\nEau de Toilette · Set de viaje · para hombre.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
    "brand": "Jean Paul Gaultier",
    "gender": "Hombre",
    "size": "Set de viaje",
@@ -944,7 +1652,7 @@
   {
    "slug": "jean-paul-gaultier-le-male-75ml",
    "title": "Jean Paul Gaultier Le Male",
-   "description": "Jean Paul Gaultier Le Male, de Jean Paul Gaultier. Eau de Toilette · 75 ml · para hombre. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "description": "Le Male es el clásico del torso en la botella: fresco al inicio, con menta y lavanda, y sensual al secarse, con una vainilla suave que se queda en la piel.\n\nHa seducido a generaciones por su equilibrio entre lo limpio y lo cálido. Es un perfume reconocible, con una personalidad atrevida pero amable.\n\nLo lucirás en el día a día, en salidas casuales y en citas. Es un buen punto de partida para quien quiere entrar al mundo de Jean Paul Gaultier con un aroma que nunca pasa de moda. Su frescura inicial lo hace cómodo incluso en días cálidos, mientras que el fondo lo vuelve acogedor al caer la tarde.\n\nIdeal para: Día a día, salidas, citas, uso en cualquier época.\n\nEau de Toilette · 75 ml · para hombre.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
    "brand": "Jean Paul Gaultier",
    "gender": "Hombre",
    "size": "75 ml",
@@ -961,7 +1669,7 @@
   {
    "slug": "jean-paul-gaultier-le-male-elixir-75ml",
    "title": "Jean Paul Gaultier Le Male Elixir",
-   "description": "Jean Paul Gaultier Le Male Elixir, de Jean Paul Gaultier. Eau de Parfum · 75 ml · para hombre. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "description": "Le Male Elixir es la versión más intensa y sensual de un ícono. Mantiene la frescura de la lavanda y la menta, pero la lleva hacia un fondo dorado de miel, tonka y tabaco que se siente cálido y adictivo.\n\nEs un perfume de mucha presencia, pensado para dejar estela sin ser pesado. Evoluciona con el calor del cuerpo y gana profundidad a medida que pasan las horas.\n\nBrilla en noches, citas y eventos especiales, y es un gran regalo para el hombre que quiere un aroma seductor y memorable. Una pequeña cantidad basta para notarlo.\n\nIdeal para: Noches, citas, eventos, clima fresco.\n\nEau de Parfum · 75 ml · para hombre.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
    "brand": "Jean Paul Gaultier",
    "gender": "Hombre",
    "size": "75 ml",
@@ -978,7 +1686,7 @@
   {
    "slug": "set-khamrah-fragrance-gift-set",
    "title": "Fragrance Gift Set Khamrah",
-   "description": "Fragrance Gift Set Khamrah, de Lattafa. Eau de Parfum · Set de regalo · unisex. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "description": "Khamrah es una de esas fragancias que hacen voltear cabezas: especiada y golosa, con un corazón de dátiles y praliné que se siente cálido, envolvente y muy sofisticado.\n\nEn la piel evoluciona despacio hacia un fondo de vainilla y maderas ambaradas que deja una estela agradable durante horas.\n\nEste set de regalo es una forma elegante de descubrir la perfumería árabe moderna. Lo disfrutarás en noches frescas, cenas y reuniones especiales, y funciona tanto para ella como para él. Su dulzura nunca se siente pesada: es cálida, redonda y muy agradable, de esas que te piden otro cumplido. Una apuesta segura si quieres un aroma distinto y con personalidad.\n\nIdeal para: Noches, cenas, clima fresco, regalo unisex.\n\nEau de Parfum · Set de regalo · unisex.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
    "brand": "Lattafa",
    "gender": "Unisex",
    "size": "Set de regalo",
@@ -999,7 +1707,7 @@
   {
    "slug": "set-odyssey-mandarin-sky-4-piezas",
    "title": "Set Odyssey Mandarin Sky (4 piezas)",
-   "description": "Set Odyssey Mandarin Sky (4 piezas), de Armaf. Eau de Parfum · Set de 4 piezas · para hombre. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "description": "Odyssey Mandarin Sky es dulce, cítrico y con carácter. Abre brillante y especiado y se vuelve cálido y golosito, con un fondo amaderado que lo hace elegante y duradero en la piel.\n\nViene en un set de 4 piezas pensado para regalar o para tener tu rutina completa de aroma en casa.\n\nEs un perfume para noches de salida, citas y reuniones donde quieres dejar huella. Ideal para el hombre que se atreve con aromas con personalidad. Su dulzura cítrica se siente moderna y seductora, y deja una estela amable que invita a acercarse. Es una forma accesible de estrenar un perfume con presencia y regalar algo memorable.\n\nIdeal para: Noches, citas, salidas, regalo para hombre.\n\nEau de Parfum · Set de 4 piezas · para hombre.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
    "brand": "Armaf",
    "gender": "Hombre",
    "size": "Set de 4 piezas",
@@ -1020,7 +1728,7 @@
   {
    "slug": "set-invictus-eau-de-toilette",
    "title": "Set Invictus Eau de Toilette",
-   "description": "Set Invictus Eau de Toilette, de Rabanne. Eau de Toilette · 100 ml + desodorante 150 ml + travel spray 10 ml · para hombre. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "description": "Invictus es energía deportiva con porte de campeón: arranca fresco y marino y se asienta en un fondo amaderado y masculino. Es seguro, directo y fácil de usar.\n\nEste set trae tres piezas: el perfume de 100 ml, un desodorante de 150 ml y un travel spray de 10 ml para llevar en el bolso o el morral y retocar durante el día.\n\nLo disfrutarás en el gimnasio, en la oficina o en una salida entre amigos. Es un regalo muy acertado para quien busca un aroma fresco con presencia. Es una compra práctica: un aroma para casa y otro para llevar contigo.\n\nIdeal para: Deporte, oficina, día a día, regalo para hombre.\n\nEau de Toilette · 100 ml + desodorante 150 ml + travel spray 10 ml · para hombre.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
    "brand": "Rabanne",
    "gender": "Hombre",
    "size": "100 ml + desodorante 150 ml + travel spray 10 ml",
@@ -1041,7 +1749,7 @@
   {
    "slug": "set-ck-one-calvin-klein",
    "title": "Set CK One Calvin Klein",
-   "description": "Set CK One Calvin Klein, de Calvin Klein. Eau de Toilette · Set de regalo · unisex. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "description": "CK One es un clásico unisex que cambió la perfumería de los noventa: limpio, cítrico y fácil de llevar. Se abre con frutas frescas y se transforma en un fondo suave de maderas y almizcle.\n\nSu encanto está en la sencillez: no pretende impresionar, simplemente se siente bien. Lo pueden compartir ella y él, y va con casi cualquier ocasión, del trabajo a una tarde de paseo.\n\nEn set de regalo es una opción segura y elegante para quien aprecia lo fresco y atemporal. Su carácter ligero y luminoso lo hace muy fácil de combinar con cualquier estilo.\n\nIdeal para: Uso diario, oficina, climas cálidos, regalo unisex.\n\nEau de Toilette · Set de regalo · unisex.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
    "brand": "Calvin Klein",
    "gender": "Unisex",
    "size": "Set de regalo",
@@ -1062,7 +1770,7 @@
   {
    "slug": "set-moschino-toy-2-pearl",
    "title": "Set Moschino Toy 2 Pearl",
-   "description": "Set Moschino Toy 2 Pearl, de Moschino. Eau de Parfum · Set de regalo · para dama. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "description": "Toy 2 Pearl es fresco, luminoso y con un toque travieso. Abre con un cítrico chispeante y se va suavizando en un corazón floral limpio, para terminar en un fondo amaderado y almizclado que se queda cerca de la piel.\n\nEs una fragancia alegre y moderna, de esas que se sienten recién salidas de la ducha pero con más carácter. Se adapta bien a climas cálidos como el de Colombia.\n\nEn formato de set de regalo es una forma elegante de sorprender a alguien que disfruta de lo diferente. Funciona para la oficina, el día a día y los planes al aire libre.\n\nIdeal para: Día a día, oficina, clima cálido, regalos.\n\nEau de Parfum · Set de regalo · para dama.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
    "brand": "Moschino",
    "gender": "Dama",
    "size": "Set de regalo",
@@ -1083,7 +1791,7 @@
   {
    "slug": "set-sweet-like-candy-ariana-grande",
    "title": "Set Sweet Like Candy by Ariana Grande",
-   "description": "Set Sweet Like Candy by Ariana Grande, de Ariana Grande. Eau de Parfum · 100 ml + gel 100 ml + body soufflé 100 ml · para dama. Perfumería original importada, seleccionada con amor por Vella Perfumería.",
+   "description": "Sweet Like Candy es un abrazo dulce y juguetón: empieza con una nota frutal y luminosa que se vuelve suave y cremosa sobre la piel, como un postre que no empalaga.\n\nEste set reúne tres piezas del mismo universo: el perfume de 100 ml, el gel de baño de 100 ml y el body soufflé de 100 ml. Con ellos puedes crear una rutina completa, de la ducha a la hidratación, y dejar tu piel perfumada con una capa más duradera.\n\nEs perfecto para quien ama los aromas golosos y femeninos. Brilla en el día a día, en planes casuales y como regalo para alguien con alma dulce.\n\nIdeal para: Regalos, día a día, planes casuales.\n\nEau de Parfum · 100 ml + gel 100 ml + body soufflé 100 ml · para dama.\n\nPerfumería original importada, seleccionada con amor por Vella Perfumería.",
    "brand": "Ariana Grande",
    "gender": "Dama",
    "size": "100 ml + gel 100 ml + body soufflé 100 ml",
@@ -1094,6 +1802,10 @@
     {
      "src": "img/set-sweet-like-candy-ariana-grande-1.webp",
      "alt": "Set Sweet Like Candy by Ariana Grande"
+    },
+    {
+     "src": "img/set-sweet-like-candy-ariana-grande-2.webp",
+     "alt": "Set Sweet Like Candy by Ariana Grande — contenido del set"
     }
    ]
   }

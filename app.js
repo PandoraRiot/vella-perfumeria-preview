@@ -117,27 +117,28 @@ function renderHome() {
   const cats = DATA.categories
     .map((c) => `<li><a href="#/catalogo/${encodeURIComponent(c.slug)}"><strong>${esc(c.name)}</strong>${c.description ? `<span>${esc(c.description)}</span>` : ""}</a></li>`)
     .join("");
-  const latest = DATA.products.slice(0, 8).map((p, i) => card(p, i < 4)).join("");
+  // Novedades: la lista que la clienta elige en el panel (/api/new-arrivals), en su orden; vacía = no se muestra.
+  const bySlug = new Map(DATA.products.map((p) => [p.slug, p]));
+  const news = (DATA.novedades || []).map((sl) => bySlug.get(sl)).filter(Boolean);
+  const latest = news.map((p, i) => card(p, i < 4)).join("");
   return {
     html: `
     <section class="hero bg-vella"><div class="container hero__grid">
-      <div class="hero__text">
-        <p class="kicker">Perfumería original importada</p>
-        <h1>Fragancias que dejan huella</h1>
-        <p class="lead">Lo más lindo de la perfumería de diseñador y árabe, seleccionado con mucho amor. Fragancias originales, al detal y por mayor, con envíos en Colombia.</p>
-        <div class="btns">
-          <a class="btn btn--gold" href="#/catalogo">Ver catálogo</a>
-          <a class="btn btn--line" href="#/catalogo/sets-de-regalo">Sets de regalo</a>
-        </div>
+      <h1><img class="hero__logo" src="brand/vella-lockup-dark.png" alt="Vella Perfumería" width="627" height="502" /></h1>
+      <p class="hero__lead">Amamos los perfumes y creemos en el poder que tiene un aroma para dejar huella. <span aria-hidden="true">✨</span></p>
+      <p class="hero__text2">En VELLA encontrarás una selección exclusiva de perfumería de diseñador y árabe, elegida minuciosamente para ofrecerte fragancias que enamoran y permanecen en la memoria.</p>
+      <p class="hero__tag">Venta al detal y al por mayor. Envíos a toda Colombia.</p>
+      <div class="btns">
+        <a class="btn btn--gold" href="#/catalogo">Ver catálogo</a>
+        <a class="btn btn--line" href="#/catalogo/sets-de-regalo">Sets de regalo</a>
       </div>
-      <img class="hero__logo" src="brand/vella-lockup-dark.png" alt="Vella Perfumería" width="627" height="502" />
     </div></section>
     <div class="container">
       <ul class="cats">${cats}</ul>
-      <div class="home-latest">
+      ${news.length ? `<div class="home-latest">
         <div class="section-head"><h2>Novedades</h2><a href="#/catalogo">Ver todo</a></div>
         <ul class="grid grid--wide">${latest}</ul>
-      </div>
+      </div>` : '<div class="home-latest"></div>'}
     </div>
     <section class="story">
       <p class="kicker">Nuestra historia</p>
@@ -181,7 +182,7 @@ function renderCatalog(state) {
   const items = applyFilters(state);
   const f = facets(state);
   const title = state.q ? `Resultados para “${state.q}”` : category ? category.name : "Todos los perfumes";
-  const desc = state.q ? "" : category ? category.description : "Lo más lindo de la perfumería de diseñador y árabe, seleccionado con mucho amor.";
+  const desc = state.q ? "" : category ? category.description : "selección exclusiva de perfumería de diseñador y árabe, elegida minuciosamente para ofrecerte fragancias que enamoran y permanecen en la memoria.";
   const available = new Set(f.genders.map((g) => g.value));
 
   const shortcuts = GENDER_SHORTCUTS.filter((g) => available.has(g.value))

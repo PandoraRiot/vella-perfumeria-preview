@@ -102,6 +102,8 @@ function route() {
 }
 
 /* ─── Piezas ─── */
+// Perfumes recién llegados (lista «nuevos» del catálogo): llevan la etiqueta «Nuevo».
+const isNew = (slug) => (DATA.nuevos || []).includes(slug);
 function card(p, eager) {
   const gender = p.gender ? (p.gender === "Unisex" ? "Unisex" : `Para ${p.gender.toLowerCase()}`) : "";
   const img = p.images[0];
@@ -109,6 +111,7 @@ function card(p, eager) {
     <div class="card__img">
       ${img ? `<img src="${esc(img.src)}" alt="${esc(img.alt)}" ${eager ? "" : 'loading="lazy"'} width="400" height="400" />` : ""}
       ${p.category === "sets-de-regalo" ? '<span class="badge">Set de regalo</span>' : ""}
+      ${isNew(p.slug) ? '<span class="badge-new"><span aria-hidden="true">✦</span> Nuevo</span>' : ""}
     </div>
     <div class="card__body">
       ${p.brand ? `<p class="card__brand">${esc(p.brand)}</p>` : ""}

@@ -308,7 +308,11 @@ function renderProduct(slug) {
   const p = DATA.products.find((x) => x.slug === slug);
   if (!p) return renderNotFound();
   const category = categoryBySlug(p.category);
-  const rows = [["Marca", p.brand], ["Género", p.gender], ["Presentación", p.size]].filter((r) => r[1]);
+  const rows = [["Marca", p.brand], ["Género", p.gender], ["Presentación", p.size], ["Concentración", p.concentration]].filter((r) => r[1]);
+  // Perfil olfativo (notas verificadas): la sección no se muestra si el perfume no las tiene.
+  const n = p.notes || {};
+  const profile = [["Familia olfativa", n.familia], ["Notas de salida", n.salida], ["Notas de corazón", n.corazon], ["Notas de fondo", n.fondo]].filter((r) => r[1]);
+  const paragraphs = (p.description || "").split(/\n\s*\n/).map((t) => t.trim()).filter(Boolean);
   const thumbs = p.images.length > 1
     ? `<ul class="thumbs">${p.images.map((im, i) => `<li><button type="button" data-i="${i}" aria-label="Ver imagen ${i + 1} de ${p.images.length}" aria-pressed="${i === 0}"><img src="${esc(im.src)}" alt="" /></button></li>`).join("")}</ul>`
     : "";
@@ -324,8 +328,10 @@ function renderProduct(slug) {
         <div>
           ${p.brand ? `<p class="product__brand">${esc(p.brand)}</p>` : ""}
           <h1>${esc(p.title)}</h1>
-          ${p.description ? `<p class="product__desc">${esc(p.description)}</p>` : ""}
+          ${paragraphs.map((t) => `<p class="product__desc">${esc(t)}</p>`).join("")}
           ${rows.length ? `<dl class="details">${rows.map(([k, v]) => `<dt>${k}</dt><dd>${esc(v)}</dd>`).join("")}</dl>` : ""}
+          ${profile.length ? `<section class="profile" aria-labelledby="perfil-olfativo"><h2 id="perfil-olfativo" class="profile__title">Perfil olfativo</h2>
+            <dl class="details">${profile.map(([k, v]) => `<dt>${k}</dt><dd>${esc(v)}</dd>`).join("")}</dl></section>` : ""}
           ${p.priceCents != null ? `<p class="product__price">${formatPrice(p.priceCents)}</p>` : ""}
           <a class="btn btn--wa" target="_blank" rel="noopener noreferrer" href="${whatsappHref(productMessage(p))}">${WA_ICON} Asesórame por WhatsApp</a>
           <p class="product__note">En esta vista previa los pedidos se hacen por WhatsApp. El carrito y el pago en línea se activan en la versión completa de la tienda.</p>

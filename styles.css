@@ -222,3 +222,8 @@ button, input, select { font: inherit; color: inherit; }
 /* Etiqueta «Nuevo»: discreta y elegante, en la esquina opuesta a «Set de regalo». */
 .badge-new { position: absolute; right: .5rem; top: .5rem; display: inline-flex; align-items: center; gap: .3rem; padding: .2rem .65rem .2rem .55rem; border: 1px solid var(--gold); border-radius: 999px; background: rgb(250 244 236 / .92); color: var(--gold-dark); font-family: var(--serif); font-style: italic; font-size: .85rem; font-weight: 600; letter-spacing: .06em; line-height: 1.2; box-shadow: 0 2px 8px -3px rgb(138 113 72 / .35); }
 .badge-new span { font-style: normal; font-size: .65rem; color: var(--gold); }
+
+/* Perfil olfativo de la ficha (como la tienda): título dorado y la misma caja de detalles. */
+.profile { margin-top: 1.5rem; }
+.profile__title { margin: 0; font-size: .75rem; font-weight: 500; letter-spacing: .2em; text-transform: uppercase; color: var(--gold-dark); }
+.profile .details { margin-top: .5rem; }

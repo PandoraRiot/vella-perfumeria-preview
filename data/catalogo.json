@@ -1,5 +1,5 @@
 {
- "exportado": "2026-10-23T00:37:59.387Z",
+ "exportado": "2026-10-23T01:21:32.887Z",
  "categories": [
   {
    "slug": "sets-de-regalo",
@@ -30,6 +30,13 @@
    "brand": "Rasasi",
    "gender": "Dama",
    "size": "100 ml",
+   "concentration": "Eau de Parfum",
+   "notes": {
+    "familia": "Gourmand especiado floral",
+    "salida": "Neroli egipcio, canela, nuez moscada",
+    "corazon": "Azahar, tuberosa, malvavisco dorado",
+    "fondo": "Algodón de azúcar, vainilla, haba tonka absoluta"
+   },
    "category": "perfumeria-arabe",
    "priceCents": 23000000,
    "inStock": true,
@@ -47,6 +54,13 @@
    "brand": "Rasasi",
    "gender": "Hombre",
    "size": "100 ml",
+   "concentration": "Eau de Parfum",
+   "notes": {
+    "familia": "Frutal aromático acuático",
+    "salida": "Piña, naranja, toronja",
+    "corazon": "Iris, ámbar gris, lavanda",
+    "fondo": "Haba tonka, almizcle, pachulí, cashmeran"
+   },
    "category": "perfumeria-arabe",
    "priceCents": 23000000,
    "inStock": true,
@@ -64,6 +78,13 @@
    "brand": "Versace",
    "gender": "Dama",
    "size": "90 ml",
+   "concentration": "Eau de Toilette",
+   "notes": {
+    "familia": "Floral frutal fresco",
+    "salida": "Yuzu, acorde de hielo, granada",
+    "corazon": "Peonía, magnolia, flor de loto",
+    "fondo": "Caoba, ámbar vegetal, almizcle"
+   },
    "category": "disenador-dama",
    "priceCents": 32000000,
    "inStock": true,
@@ -81,6 +102,13 @@
    "brand": "Rasasi",
    "gender": "Hombre",
    "size": "Perfume 100 ml + mini 8 ml",
+   "concentration": "Eau de Parfum",
+   "notes": {
+    "familia": "Aromático acuático frutal",
+    "salida": "Manzana, bergamota, limón, canela",
+    "corazon": "Azahar, cardamomo, ciruela",
+    "fondo": "Pachulí, ámbar gris, madera flotante, almizcle"
+   },
    "category": "sets-de-regalo",
    "priceCents": 23000000,
    "inStock": true,
@@ -102,6 +130,13 @@
    "brand": "Orientica",
    "gender": "Unisex",
    "size": "150 ml",
+   "concentration": "Eau de Parfum",
+   "notes": {
+    "familia": "Ámbar amaderado",
+    "salida": "Azafrán, jazmín",
+    "corazon": "Madera ámbar, ámbar gris",
+    "fondo": "Cedro, resina de abeto"
+   },
    "category": "perfumeria-arabe",
    "priceCents": 31000000,
    "inStock": true,
@@ -119,6 +154,13 @@
    "brand": "Moschino",
    "gender": "Dama",
    "size": "100 ml",
+   "concentration": "Eau de Toilette",
+   "notes": {
+    "familia": "Frutal floral gourmand",
+    "salida": "Limón italiano, naranja, cítricos confitados",
+    "corazon": "Acorde de chicle, canela, arándanos, jengibre, rosa búlgara, durazno",
+    "fondo": "Cedro, ambrofix, almizcle"
+   },
    "category": "disenador-dama",
    "priceCents": 22900000,
    "inStock": true,
@@ -136,6 +178,13 @@
    "brand": "Lattafa",
    "gender": "Hombre",
    "size": "Perfume 100 ml + spray perfumado 200 ml + bruma para el cabello 50 ml",
+   "concentration": "Eau de Parfum",
+   "notes": {
+    "familia": "Oriental especiado",
+    "salida": "Pimienta negra, piña, tabaco",
+    "corazon": "Café, pachulí, iris",
+    "fondo": "Ámbar, vainilla, maderas secas, benjuí, ládano"
+   },
    "category": "sets-de-regalo",
    "priceCents": 18900000,
    "inStock": true,
@@ -157,6 +206,13 @@
    "brand": "Lattafa",
    "gender": "Unisex",
    "size": "100 ml",
+   "concentration": "Eau de Parfum",
+   "notes": {
+    "familia": "Cítrico oriental floral",
+    "salida": "Bergamota, naranja, especias",
+    "corazon": "Coco, ylang-ylang, ambroxan, mahonial",
+    "fondo": "Sándalo, benjuí, almizcle"
+   },
    "category": "perfumeria-arabe",
    "priceCents": 23500000,
    "inStock": true,
@@ -174,6 +230,13 @@
    "brand": "Lattafa",
    "gender": "Unisex",
    "size": "100 ml",
+   "concentration": "Eau de Parfum",
+   "notes": {
+    "familia": "Ámbar especiado",
+    "salida": "Bergamota, canela, nuez moscada",
+    "corazon": "Dátiles, praliné, tuberosa, lirio de los valles",
+    "fondo": "Haba tonka, benjuí de Laos, mirra, akigalawood, vainilla, ámbar"
+   },
    "category": "perfumeria-arabe",
    "priceCents": 17000000,
    "inStock": true,
@@ -191,6 +254,13 @@
    "brand": "Lattafa",
    "gender": "Unisex",
    "size": "100 ml",
+   "concentration": "Eau de Parfum",
+   "notes": {
+    "familia": "Gourmand especiado",
+    "salida": "Canela, cardamomo, jengibre",
+    "corazon": "Praliné, naranja confitada, flores blancas",
+    "fondo": "Café, vainilla, benjuí, almizcle, haba tonka"
+   },
    "category": "perfumeria-arabe",
    "priceCents": 17200000,
    "inStock": true,
@@ -208,6 +278,13 @@
    "brand": "Lattafa",
    "gender": "Dama",
    "size": "100 ml",
+   "concentration": "Eau de Parfum",
+   "notes": {
+    "familia": "Floral especiado gourmand",
+    "salida": "Acorde místico, canela",
+    "corazon": "Tuberosa, jazmín, incienso, mahonial",
+    "fondo": "Vainilla, haba tonka, almizcle"
+   },
    "category": "perfumeria-arabe",
    "priceCents": 18500000,
    "inStock": true,
@@ -225,6 +302,13 @@
    "brand": "Lattafa",
    "gender": "Hombre",
    "size": "100 ml",
+   "concentration": "Eau de Parfum",
+   "notes": {
+    "familia": "Ámbar amaderado especiado",
+    "salida": "Canela, lavanda, mandarina",
+    "corazon": "Iris, benjuí, ciprés, mahonial",
+    "fondo": "Vainilla, haba tonka, ámbar, incienso, cedro, pachulí"
+   },
    "category": "perfumeria-arabe",
    "priceCents": 17000000,
    "inStock": true,
@@ -242,6 +326,13 @@
    "brand": "Lattafa",
    "gender": "Unisex",
    "size": "100 ml",
+   "concentration": "Eau de Parfum",
+   "notes": {
+    "familia": "Oriental gourmand",
+    "salida": "Piña, crème brûlée",
+    "corazon": "Canela, benjuí, cúrcuma, pimienta negra",
+    "fondo": "Vainilla, cashmeran, sándalo, musgo"
+   },
    "category": "perfumeria-arabe",
    "priceCents": 16500000,
    "inStock": true,
@@ -259,6 +350,13 @@
    "brand": "Lancôme",
    "gender": "Dama",
    "size": "100 ml",
+   "concentration": "Eau de Parfum",
+   "notes": {
+    "familia": "Floral gourmand",
+    "salida": "Grosella negra, pera",
+    "corazon": "Iris, jazmín, azahar",
+    "fondo": "Praliné, pachulí, haba tonka, vainilla"
+   },
    "category": "disenador-dama",
    "priceCents": 44000000,
    "inStock": true,
@@ -276,6 +374,13 @@
    "brand": "Jo Milano",
    "gender": "Unisex",
    "size": "100 ml",
+   "concentration": "Eau de Parfum",
+   "notes": {
+    "familia": "Ámbar amaderado",
+    "salida": null,
+    "corazon": null,
+    "fondo": "Ámbar gris, notas amaderadas"
+   },
    "category": "perfumeria-arabe",
    "priceCents": 32500000,
    "inStock": true,
@@ -293,6 +398,13 @@
    "brand": "Jean Paul Gaultier",
    "gender": "Hombre",
    "size": "4 miniaturas de 7 ml",
+   "concentration": "Eau de Toilette",
+   "notes": {
+    "familia": "Aromático vainilla y ámbar",
+    "salida": "Artemisa, menta, cardamomo, bergamota, salvia, mandarina",
+    "corazon": "Lavanda, azahar, caramelo, haba tonka",
+    "fondo": "Sándalo, vainilla, vetiver, benjuí"
+   },
    "category": "sets-de-regalo",
    "priceCents": 35000000,
    "inStock": true,
@@ -310,6 +422,13 @@
    "brand": "Hugo Boss",
    "gender": "Hombre",
    "size": "75 ml",
+   "concentration": "Eau de Toilette",
+   "notes": {
+    "familia": "Aromático verde",
+    "salida": "Manzana verde, toronja, albahaca",
+    "corazon": "Salvia, jazmín",
+    "fondo": "Bálsamo de abeto, cedro, pachulí"
+   },
    "category": "disenador-hombre",
    "priceCents": 19700000,
    "inStock": true,
@@ -327,6 +446,13 @@
    "brand": "Hugo Boss",
    "gender": "Hombre",
    "size": "100 ml",
+   "concentration": "Eau de Toilette",
+   "notes": {
+    "familia": "Fresco amaderado",
+    "salida": "Hoja de pera, cedro, bergamota",
+    "corazon": "Menta, albahaca, acorde de hielo",
+    "fondo": "Cedro, almizcle, pachulí"
+   },
    "category": "disenador-hombre",
    "priceCents": 17000000,
    "inStock": true,
@@ -344,6 +470,13 @@
    "brand": "Hugo Boss",
    "gender": "Dama",
    "size": "80 ml",
+   "concentration": "Eau de Parfum",
+   "notes": {
+    "familia": "Floral amaderado frutal",
+    "salida": "Manzana, ciruela",
+    "corazon": "Jazmín sambac",
+    "fondo": "Cedro, sándalo, vainilla absoluta"
+   },
    "category": "disenador-dama",
    "priceCents": 29000000,
    "inStock": true,
@@ -361,6 +494,13 @@
    "brand": "Hugo Boss",
    "gender": "Hombre",
    "size": "100 ml",
+   "concentration": "Eau de Toilette",
+   "notes": {
+    "familia": "Amaderado especiado",
+    "salida": "Manzana, cítricos",
+    "corazon": "Geranio, canela, clavo",
+    "fondo": "Vainilla, sándalo, vetiver, cedro, olivo, ámbar, almizcle"
+   },
    "category": "disenador-hombre",
    "priceCents": 25800000,
    "inStock": true,
@@ -378,6 +518,13 @@
    "brand": "Guess",
    "gender": "Dama",
    "size": "75 ml",
+   "concentration": "Eau de Toilette",
+   "notes": {
+    "familia": "Floral frutal gourmand",
+    "salida": "Cereza, almendra, pimienta rosa",
+    "corazon": "Flor de cerezo, magnolia, violeta",
+    "fondo": "Vainilla, haba tonka, sándalo"
+   },
    "category": "disenador-dama",
    "priceCents": 20000000,
    "inStock": true,
@@ -395,6 +542,13 @@
    "brand": "French Avenue",
    "gender": "Unisex",
    "size": "2 perfumes de 100 ml",
+   "concentration": "Eau de Parfum",
+   "notes": {
+    "familia": "Gourmand ámbar especiado",
+    "salida": "Bergamota, azahar, canela, cardamomo, jengibre, limón, mango, ruibarbo",
+    "corazon": "Elemí, vainilla bourbon, jazmín, praliné, violeta, pimienta rosa",
+    "fondo": "Praliné, guayaco, ambroxan, almizcle, ámbar gris, cedro, haba tonka, musgo"
+   },
    "category": "sets-de-regalo",
    "priceCents": 31500000,
    "inStock": true,
@@ -416,6 +570,13 @@
    "brand": "Emper",
    "gender": "Unisex",
    "size": "4 perfumes de 30 ml",
+   "concentration": "Eau de Parfum",
+   "notes": {
+    "familia": "Variada: amaderada, ámbar, floral",
+    "salida": "Violeta, cardamomo, higo, hoja de laurel, bergamota, mandarina, azahar, pachulí, ylang-ylang",
+    "corazon": "Iris, ámbar, cedro, vetiver, almizcle, jazmín, rosa, gardenia tahitiana",
+    "fondo": "Sándalo, cuero, papiro, tabaco, heno, vainilla, haba tonka, benjuí"
+   },
    "category": "sets-de-regalo",
    "priceCents": 17000000,
    "inStock": true,
@@ -437,6 +598,13 @@
    "brand": "Dumont",
    "gender": "Hombre",
    "size": "100 ml",
+   "concentration": "Eau de Parfum",
+   "notes": {
+    "familia": "Aromático frutal amaderado",
+    "salida": "Manzana, lavanda, bergamota",
+    "corazon": "Sandía, cedro, cálamo",
+    "fondo": "Ámbar, sándalo, pachulí"
+   },
    "category": "perfumeria-arabe",
    "priceCents": 18000000,
    "inStock": true,
@@ -454,6 +622,13 @@
    "brand": "Carolina Herrera",
    "gender": "Dama",
    "size": "80 ml",
+   "concentration": "Eau de Parfum",
+   "notes": {
+    "familia": "Floral frutal ambarado",
+    "salida": "Pitaya",
+    "corazon": "Peonía de cereza, frangipani rojo",
+    "fondo": "Vainilla solar"
+   },
    "category": "disenador-dama",
    "priceCents": 51000000,
    "inStock": true,
@@ -471,6 +646,13 @@
    "brand": "Coach",
    "gender": "Dama",
    "size": "90 ml",
+   "concentration": "Eau de Parfum",
+   "notes": {
+    "familia": "Floral frutal",
+    "salida": "Sorbete de piña, cítricos, pimienta rosa",
+    "corazon": "Té de rosa, jazmín sambac, gardenia",
+    "fondo": "Almizcles cristalinos, madera cremosa, pachulí"
+   },
    "category": "disenador-dama",
    "priceCents": 27000000,
    "inStock": true,
@@ -488,6 +670,13 @@
    "brand": "Carolina Herrera",
    "gender": "Hombre",
    "size": "100 ml",
+   "concentration": "Eau de Toilette",
+   "notes": {
+    "familia": "Fresco acuático aromático",
+    "salida": "Bergamota, toronja, salvia",
+    "corazon": "Pimienta de Sichuan, enebro, notas marinas",
+    "fondo": "Sándalo, vetiver, musgo de roble"
+   },
    "category": "disenador-hombre",
    "priceCents": 26500000,
    "inStock": true,
@@ -505,6 +694,13 @@
    "brand": "Carolina Herrera",
    "gender": "Dama",
    "size": "125 ml",
+   "concentration": "Eau de Parfum",
+   "notes": {
+    "familia": "Floral frutal burbujeante",
+    "salida": "Champán rosado, pimienta rosa",
+    "corazon": "Flor de duraznero, ramo de rosas",
+    "fondo": "Madera Queenwood, almizcle"
+   },
    "category": "disenador-dama",
    "priceCents": 36700000,
    "inStock": true,
@@ -522,6 +718,13 @@
    "brand": "Burberry",
    "gender": "Dama",
    "size": "100 ml",
+   "concentration": "Eau de Parfum",
+   "notes": {
+    "familia": "Floral frutal gourmand",
+    "salida": "Grosella negra, arándano, frambuesa",
+    "corazon": "Acorde de jazmín, acorde de violeta",
+    "fondo": "Maderas blancas, almizcle, ámbar seco"
+   },
    "category": "disenador-dama",
    "priceCents": 33000000,
    "inStock": true,
@@ -539,6 +742,13 @@
    "brand": "Bharara",
    "gender": "Hombre",
    "size": "100 ml",
+   "concentration": "Eau de Parfum",
+   "notes": {
+    "familia": "Ámbar dulce",
+    "salida": "Bergamota, limón, naranja",
+    "corazon": null,
+    "fondo": "Ámbar, almizcle, vainilla"
+   },
    "category": "disenador-hombre",
    "priceCents": 24500000,
    "inStock": true,
@@ -556,6 +766,13 @@
    "brand": "Armaf",
    "gender": "Dama",
    "size": "Perfume 100 ml + atomizador de viaje 10 ml + bruma corporal 250 ml",
+   "concentration": "Eau de Parfum",
+   "notes": {
+    "familia": "Floral frutal gourmand",
+    "salida": "Bergamota, naranja, cereza, frutos silvestres",
+    "corazon": "Rosa, flores blancas, vainilla",
+    "fondo": "Almizcle, ámbar, notas empolvadas"
+   },
    "category": "sets-de-regalo",
    "priceCents": 22900000,
    "inStock": true,
@@ -568,6 +785,13 @@
    "brand": "Armaf",
    "gender": "Hombre",
    "size": "100 ml",
+   "concentration": "Eau de Parfum",
+   "notes": {
+    "familia": "Ámbar especiado cítrico",
+    "salida": "Mandarina, naranja, lavanda, cardamomo, pimienta negra",
+    "corazon": "Caramelo, haba tonka, incienso, pachulí",
+    "fondo": "Vainilla, vetiver"
+   },
    "category": "perfumeria-arabe",
    "priceCents": 21000000,
    "inStock": true,
@@ -585,6 +809,13 @@
    "brand": "Armaf",
    "gender": "Hombre",
    "size": "100 ml",
+   "concentration": "Eau de Parfum",
+   "notes": {
+    "familia": "Cítrico especiado ámbar",
+    "salida": "Salvia, mandarina, naranja, azafrán",
+    "corazon": "Caramelo, caléndula, haba tonka",
+    "fondo": "Vetiver, cedro, ambroxan"
+   },
    "category": "perfumeria-arabe",
    "priceCents": 17500000,
    "inStock": true,
@@ -602,6 +833,13 @@
    "brand": "Ariana Grande",
    "gender": "Dama",
    "size": "100 ml",
+   "concentration": "Eau de Parfum",
+   "notes": {
+    "familia": "Gourmand floral",
+    "salida": "Flor de lavanda, pera jugosa, bergamota",
+    "corazon": "Crema de coco, praliné, orquídea de vainilla",
+    "fondo": "Almizcles, maderas cremosas"
+   },
    "category": "disenador-dama",
    "priceCents": 25500000,
    "inStock": true,
@@ -619,6 +857,13 @@
    "brand": "Afnan",
    "gender": "Unisex",
    "size": "100 ml",
+   "concentration": "Eau de Parfum",
+   "notes": {
+    "familia": "Aromático acuático",
+    "salida": "Limón, pimienta rosa, menta, grosella negra",
+    "corazon": "Manzana, incienso, cedro",
+    "fondo": "Pachulí, jazmín, jengibre, sándalo"
+   },
    "category": "perfumeria-arabe",
    "priceCents": 19500000,
    "inStock": true,
@@ -636,6 +881,13 @@
    "brand": "Antonio Banderas",
    "gender": "Hombre",
    "size": "200 ml",
+   "concentration": "Eau de Toilette",
+   "notes": {
+    "familia": "Aromático acuático",
+    "salida": "Bergamota, melón, menta, grosella negra",
+    "corazon": "Manzana verde, capuchino, cardamomo, agua de mar",
+    "fondo": "Ámbar, maderas"
+   },
    "category": "disenador-hombre",
    "priceCents": 17500000,
    "inStock": true,
@@ -653,6 +905,13 @@
    "brand": "Riiffs",
    "gender": "Unisex",
    "size": "100 ml",
+   "concentration": "Extrait de Parfum",
+   "notes": {
+    "familia": "Fresco acuático amaderado",
+    "salida": "Acorde de copos de nieve, bergamota de Calabria, toronja, ralladura de limón, hierbabuena",
+    "corazon": "Jengibre, salvia, té",
+    "fondo": "Cedro, peonía, Ambermax"
+   },
    "category": "perfumeria-arabe",
    "priceCents": 22000000,
    "inStock": true,
@@ -670,6 +929,13 @@
    "brand": "Rayhaan",
    "gender": "Hombre",
    "size": "100 ml",
+   "concentration": "Eau de Parfum",
+   "notes": {
+    "familia": "Amaderado con iris y cuero",
+    "salida": "Bergamota, pimienta rosa, elemí",
+    "corazon": "Cedro del Atlas, madera cachemira, pachulí",
+    "fondo": "Vetiver de Haití, almizcle blanco"
+   },
    "category": "perfumeria-arabe",
    "priceCents": 20000000,
    "inStock": true,
@@ -687,6 +953,13 @@
    "brand": "Perry Ellis",
    "gender": "Dama",
    "size": "Perfume 100 ml + bruma corporal 118 ml + gel de ducha 89 ml + mini perfume 7 ml",
+   "concentration": "Eau de Toilette",
+   "notes": {
+    "familia": "Floral frutal",
+    "salida": "Mandarina, melón",
+    "corazon": "Nenúfar, lavanda, salvia",
+    "fondo": "Ámbar, almizcle, vainilla"
+   },
    "category": "sets-de-regalo",
    "priceCents": 21300000,
    "inStock": true,
@@ -704,6 +977,13 @@
    "brand": "Rabanne",
    "gender": "Dama",
    "size": null,
+   "concentration": "Eau de Parfum",
+   "notes": {
+    "familia": "Floral ambarado",
+    "salida": "Neroli, naranja amarga, frambuesa",
+    "corazon": "Jazmín absoluto, azahar",
+    "fondo": "Miel, pachulí, ámbar"
+   },
    "category": "disenador-dama",
    "priceCents": 33000000,
    "inStock": true,
@@ -721,6 +1001,13 @@
    "brand": "Lattafa",
    "gender": "Unisex",
    "size": "100 ml",
+   "concentration": "Eau de Parfum",
+   "notes": {
+    "familia": "Cítrico aromático",
+    "salida": "Bergamota, mandarina, jengibre, menta",
+    "corazon": "Pera, azahar",
+    "fondo": "Cedro, ámbar, almizcle"
+   },
    "category": "perfumeria-arabe",
    "priceCents": 22000000,
    "inStock": true,
@@ -738,6 +1025,13 @@
    "brand": "Lattafa",
    "gender": "Unisex",
    "size": "100 ml",
+   "concentration": "Eau de Parfum",
+   "notes": {
+    "familia": "Amaderado aromático",
+    "salida": "Manzana, lichi, rosa",
+    "corazon": "Ciruela, jazmín",
+    "fondo": "Vainilla, musgo, pachulí"
+   },
    "category": "perfumeria-arabe",
    "priceCents": 17000000,
    "inStock": true,
@@ -755,6 +1049,13 @@
    "brand": "Lattafa",
    "gender": "Unisex",
    "size": null,
+   "concentration": "Eau de Parfum",
+   "notes": {
+    "familia": "Oud ahumado",
+    "salida": "Azafrán, nuez moscada, lavanda",
+    "corazon": "Oud, pachulí",
+    "fondo": "Oud, pachulí, almizcle"
+   },
    "category": "perfumeria-arabe",
    "priceCents": 17000000,
    "inStock": true,
@@ -772,6 +1073,13 @@
    "brand": "Rasasi",
    "gender": "Hombre",
    "size": "100 ml",
+   "concentration": "Eau de Parfum",
+   "notes": {
+    "familia": "Oriental especiado",
+    "salida": "Cannabis, davana, notas verdes, azafrán, tomillo",
+    "corazon": "Tabaco, canela, café, frambuesa, violeta",
+    "fondo": "Haba tonka, almizcle, bálsamo de gurjun"
+   },
    "category": "perfumeria-arabe",
    "priceCents": 23000000,
    "inStock": true,
@@ -789,6 +1097,13 @@
    "brand": "Rasasi",
    "gender": "Hombre",
    "size": "100 ml",
+   "concentration": "Eau de Parfum",
+   "notes": {
+    "familia": "Cítrico amaderado",
+    "salida": "Bergamota, piña, toronja",
+    "corazon": "Cedro, pachulí, jazmín",
+    "fondo": "Musgo de roble, ámbar, notas amaderadas"
+   },
    "category": "perfumeria-arabe",
    "priceCents": 21500000,
    "inStock": true,
@@ -806,6 +1121,13 @@
    "brand": "Rasasi",
    "gender": "Hombre",
    "size": "100 ml",
+   "concentration": "Eau de Parfum",
+   "notes": {
+    "familia": "Acuático frutal",
+    "salida": "Manzana, bergamota, canela, limón",
+    "corazon": "Cardamomo, flor de naranjo, ciruela, notas acuáticas",
+    "fondo": "Ámbar, almizcle, pachulí, madera"
+   },
    "category": "perfumeria-arabe",
    "priceCents": 23000000,
    "inStock": true,
@@ -823,6 +1145,13 @@
    "brand": "Rasasi",
    "gender": "Hombre",
    "size": "100 ml",
+   "concentration": "Eau de Parfum",
+   "notes": {
+    "familia": "Frutal acuático fresco",
+    "salida": "Manzana helada, bergamota italiana, limón italiano, anís estrellado",
+    "corazon": "Flor de naranjo, ciruela, cardamomo",
+    "fondo": "Musgo, madera de deriva, ámbar, almizcle"
+   },
    "category": "perfumeria-arabe",
    "priceCents": 23500000,
    "inStock": true,
@@ -840,6 +1169,13 @@
    "brand": "Rasasi",
    "gender": "Hombre",
    "size": "100 ml",
+   "concentration": "Eau de Parfum",
+   "notes": {
+    "familia": "Acuático aromático",
+    "salida": "Salvia esclarea",
+    "corazon": "Jazmín egipcio, notas marinas",
+    "fondo": "Ámbar, notas minerales"
+   },
    "category": "perfumeria-arabe",
    "priceCents": 24500000,
    "inStock": true,
@@ -857,6 +1193,13 @@
    "brand": "Armaf",
    "gender": "Dama",
    "size": "100 ml",
+   "concentration": "Eau de Parfum",
+   "notes": {
+    "familia": "Oriental floral especiado",
+    "salida": "Rosa, azafrán, geranio",
+    "corazon": "Nuez moscada, pimienta, violeta, alcaravea",
+    "fondo": "Pachulí, oud, vainilla, ámbar"
+   },
    "category": "perfumeria-arabe",
    "priceCents": 18000000,
    "inStock": true,
@@ -874,6 +1217,13 @@
    "brand": "Armaf",
    "gender": "Dama",
    "size": "100 ml",
+   "concentration": "Eau de Parfum",
+   "notes": {
+    "familia": "Floral frutal",
+    "salida": "Bergamota, toronja, durazno, naranja",
+    "corazon": "Rosa, jazmín, geranio, lichi",
+    "fondo": "Pachulí, vainilla, vetiver, almizcle"
+   },
    "category": "perfumeria-arabe",
    "priceCents": 18000000,
    "inStock": true,
@@ -891,6 +1241,13 @@
    "brand": "Armaf",
    "gender": "Hombre",
    "size": "100 ml",
+   "concentration": "Eau de Parfum",
+   "notes": {
+    "familia": "Cítrico amaderado",
+    "salida": "Bergamota, grosella negra, limón, lima, hoja de violeta, jengibre",
+    "corazon": "Rosa, iris, jazmín",
+    "fondo": "Ambroxan, almizcle, sándalo, cedro"
+   },
    "category": "perfumeria-arabe",
    "priceCents": 20500000,
    "inStock": true,
@@ -908,6 +1265,13 @@
    "brand": "Armaf",
    "gender": "Unisex",
    "size": "100 ml",
+   "concentration": "Eau de Parfum",
+   "notes": {
+    "familia": "Acuático frutal",
+    "salida": "Notas marinas, frutos rojos, bergamota",
+    "corazon": "Violeta, maderas blancas, sándalo",
+    "fondo": "Almizcle, ambroxan, vetiver"
+   },
    "category": "perfumeria-arabe",
    "priceCents": 19200000,
    "inStock": true,
@@ -925,6 +1289,13 @@
    "brand": "Armaf",
    "gender": "Hombre",
    "size": "100 ml",
+   "concentration": "Eau de Toilette",
+   "notes": {
+    "familia": "Amaderado frutal",
+    "salida": "Limón, bergamota, grosella negra, piña, manzana",
+    "corazon": "Jazmín, rosa, abedul",
+    "fondo": "Almizcle, ámbar gris, pachulí, vainilla"
+   },
    "category": "perfumeria-arabe",
    "priceCents": 19200000,
    "inStock": true,
@@ -942,6 +1313,13 @@
    "brand": "Lattafa",
    "gender": "Unisex",
    "size": null,
+   "concentration": "Eau de Parfum",
+   "notes": {
+    "familia": "Gourmand cremoso",
+    "salida": "Crema de pistacho, pistacho tostado",
+    "corazon": "Coco, cacao, crema batida",
+    "fondo": "Vainilla, leche, almizcle"
+   },
    "category": "perfumeria-arabe",
    "priceCents": 14500000,
    "inStock": true,
@@ -959,6 +1337,13 @@
    "brand": "Afnan",
    "gender": "Unisex",
    "size": "100 ml",
+   "concentration": "Parfum",
+   "notes": {
+    "familia": "Ámbar especiado",
+    "salida": "Cardamomo, nuez moscada, elemí",
+    "corazon": "Pimienta de Jamaica, cuero, lavanda",
+    "fondo": "Vainilla, pachulí, ládano, cisto"
+   },
    "category": "perfumeria-arabe",
    "priceCents": 20500000,
    "inStock": true,
@@ -976,6 +1361,13 @@
    "brand": "Lattafa",
    "gender": "Unisex",
    "size": "100 ml",
+   "concentration": "Eau de Parfum",
+   "notes": {
+    "familia": "Aromático cítrico",
+    "salida": "Bergamota, yuzu, enebro, jengibre",
+    "corazon": "Extracto de pepino, salvia, sal marina, iris",
+    "fondo": "Haba tonka, almizcle, akigalawood, ambrofix, vainilla"
+   },
    "category": "perfumeria-arabe",
    "priceCents": 21500000,
    "inStock": true,
@@ -993,6 +1385,13 @@
    "brand": "Armaf",
    "gender": "Hombre",
    "size": "100 ml",
+   "concentration": "Eau de Parfum",
+   "notes": {
+    "familia": "Cítrico ámbar",
+    "salida": "Mandarina, cítricos",
+    "corazon": "Especias, jazmín, madreselva",
+    "fondo": "Ámbar, maderas preciosas, vainilla"
+   },
    "category": "perfumeria-arabe",
    "priceCents": 19500000,
    "inStock": true,
@@ -1010,6 +1409,13 @@
    "brand": "Armaf",
    "gender": "Unisex",
    "size": null,
+   "concentration": "Eau de Parfum",
+   "notes": {
+    "familia": "Frutal especiado",
+    "salida": "Jengibre, limón, pimienta rosa, flores blancas",
+    "corazon": "Mango, haba tonka, madera seca",
+    "fondo": "Ámbar, madera de guayaco, almizcle, notas de frutos secos, vainilla"
+   },
    "category": "perfumeria-arabe",
    "priceCents": 19000000,
    "inStock": true,
@@ -1027,6 +1433,13 @@
    "brand": "Lattafa",
    "gender": "Dama",
    "size": "100 ml",
+   "concentration": "Eau de Parfum",
+   "notes": {
+    "familia": "Floral frutal gourmand",
+    "salida": "Orquídea, heliotropo, mandarina",
+    "corazon": "Acorde gourmand, frutas tropicales, flores",
+    "fondo": "Vainilla, sándalo, almizcle"
+   },
    "category": "perfumeria-arabe",
    "priceCents": 15000000,
    "inStock": true,
@@ -1044,6 +1457,13 @@
    "brand": "Lattafa",
    "gender": "Hombre",
    "size": "100 ml",
+   "concentration": "Eau de Parfum",
+   "notes": {
+    "familia": "Ámbar especiado",
+    "salida": "Pimienta rosa, azafrán, toronja",
+    "corazon": "Tabaco, cedro, vainilla",
+    "fondo": "Pachulí, olíbano, cashmeran, ámbar seco"
+   },
    "category": "perfumeria-arabe",
    "priceCents": 19000000,
    "inStock": true,
@@ -1061,6 +1481,13 @@
    "brand": "Lattafa",
    "gender": "Hombre",
    "size": "100 ml",
+   "concentration": "Eau de Parfum",
+   "notes": {
+    "familia": "Ámbar especiado",
+    "salida": "Pimienta negra, piña, hoja de tabaco",
+    "corazon": "Café, iris, pachulí",
+    "fondo": "Vainilla, ámbar, maderas secas, benjuí, ládano"
+   },
    "category": "perfumeria-arabe",
    "priceCents": 15000000,
    "inStock": true,
@@ -1078,6 +1505,13 @@
    "brand": "Armaf",
    "gender": "Dama",
    "size": "100 ml",
+   "concentration": "Eau de Parfum",
+   "notes": {
+    "familia": "Floral frutal gourmand",
+    "salida": "Frutos silvestres, cereza, naranja, bergamota",
+    "corazon": "Vainilla, flores blancas, rosa",
+    "fondo": "Notas polvosas, almizcle, ámbar"
+   },
    "category": "perfumeria-arabe",
    "priceCents": 20500000,
    "inStock": true,
@@ -1095,6 +1529,13 @@
    "brand": "Lattafa",
    "gender": "Dama",
    "size": "100 ml",
+   "concentration": "Eau de Parfum",
+   "notes": {
+    "familia": "Floral frutal",
+    "salida": "Frambuesa, lichi, hoja de violeta",
+    "corazon": "Peonía, rosa blanca, jazmín",
+    "fondo": "Almizcle, vainilla"
+   },
    "category": "perfumeria-arabe",
    "priceCents": 16000000,
    "inStock": true,
@@ -1112,6 +1553,13 @@
    "brand": "Lattafa",
    "gender": "Unisex",
    "size": "5 piezas de 5 ml",
+   "concentration": "Eau de Parfum",
+   "notes": {
+    "familia": "Oud amaderado",
+    "salida": "Azafrán, nuez moscada, lavanda",
+    "corazon": "Oud, pachulí",
+    "fondo": "Oud, pachulí, almizcle"
+   },
    "category": "sets-de-regalo",
    "priceCents": 15500000,
    "inStock": true,
@@ -1129,6 +1577,13 @@
    "brand": "Rayhaan",
    "gender": "Hombre",
    "size": "100 ml",
+   "concentration": "Eau de Parfum",
+   "notes": {
+    "familia": "Aromático oriental",
+    "salida": "Bergamota, artemisa",
+    "corazon": "Lavanda, benjuí",
+    "fondo": "Vainilla, haba tonka"
+   },
    "category": "perfumeria-arabe",
    "priceCents": 20000000,
    "inStock": true,
@@ -1146,6 +1601,13 @@
    "brand": "Al Haramain",
    "gender": "Unisex",
    "size": "120 ml",
+   "concentration": "Eau de Parfum",
+   "notes": {
+    "familia": "Ámbar especiado",
+    "salida": "Azafrán",
+    "corazon": "Jazmín",
+    "fondo": "Ámbar gris, almizcle, extracto de cedro blanco"
+   },
    "category": "perfumeria-arabe",
    "priceCents": 29000000,
    "inStock": true,
@@ -1163,6 +1625,13 @@
    "brand": "Al Haramain",
    "gender": "Unisex",
    "size": "120 ml",
+   "concentration": "Eau de Parfum",
+   "notes": {
+    "familia": "Ámbar floral especiado",
+    "salida": "Almendra amarga, azafrán",
+    "corazon": "Jazmín egipcio, cedro",
+    "fondo": "Ámbar gris, notas amaderadas, almizcle"
+   },
    "category": "perfumeria-arabe",
    "priceCents": 24500000,
    "inStock": true,
@@ -1180,6 +1649,13 @@
    "brand": "Al Haramain",
    "gender": "Unisex",
    "size": "60 ml",
+   "concentration": "Eau de Parfum",
+   "notes": {
+    "familia": "Ámbar vainilla",
+    "salida": "Bergamota, notas verdes",
+    "corazon": "Melón, piña, notas dulces, ámbar",
+    "fondo": "Vainilla, almizcle, notas amaderadas"
+   },
    "category": "perfumeria-arabe",
    "priceCents": 22000000,
    "inStock": true,
@@ -1197,6 +1673,13 @@
    "brand": "The Scent of Karol",
    "gender": "Dama",
    "size": null,
+   "concentration": "Eau de Parfum",
+   "notes": {
+    "familia": "Amaderado frutal",
+    "salida": "Grosella negra, hoja de violeta, toronja, arándano, tomillo",
+    "corazon": "Jazmín, lirio de los valles, canela, cedro de Virginia",
+    "fondo": "Pachulí, vainilla, musgo de roble, caramelo, ámbar, ante, almizcle"
+   },
    "category": "disenador-dama",
    "priceCents": 17000000,
    "inStock": true,
@@ -1214,6 +1697,13 @@
    "brand": "Emper",
    "gender": "Unisex",
    "size": "100 ml",
+   "concentration": "Eau de Parfum",
+   "notes": {
+    "familia": "Amaderado aromático",
+    "salida": "Violeta, cardamomo",
+    "corazon": "Iris, ámbar",
+    "fondo": "Sándalo, cuero, papiro, ámbar"
+   },
    "category": "disenador-dama",
    "priceCents": 17500000,
    "inStock": true,
@@ -1231,6 +1721,13 @@
    "brand": "Perry Ellis",
    "gender": "Dama",
    "size": "100 ml",
+   "concentration": "Eau de Toilette",
+   "notes": {
+    "familia": "Floral acuático",
+    "salida": "Melón, mandarina, osmanto, rosa",
+    "corazon": "Lirio de los valles, nenúfar, lavanda, salvia",
+    "fondo": "Sándalo, ámbar, almizcle, vainilla, vetiver"
+   },
    "category": "disenador-dama",
    "priceCents": 17000000,
    "inStock": true,
@@ -1248,6 +1745,13 @@
    "brand": "Paris Hilton",
    "gender": "Dama",
    "size": "100 ml",
+   "concentration": "Eau de Parfum",
+   "notes": {
+    "familia": "Floral frutal",
+    "salida": "Manzana helada, néctar de durazno",
+    "corazon": "Muguet, mimosa, fresia, jazmín, nardos",
+    "fondo": "Sándalo, musgo de roble, ylang-ylang, almizcle"
+   },
    "category": "disenador-dama",
    "priceCents": 15000000,
    "inStock": true,
@@ -1265,6 +1769,13 @@
    "brand": "Zakat",
    "gender": "Dama",
    "size": "100 ml",
+   "concentration": "Eau de Parfum",
+   "notes": {
+    "familia": "Floral frutal gourmand",
+    "salida": "Orquídea, heliotropo, mandarina",
+    "corazon": "Acorde gourmand, frutas tropicales",
+    "fondo": "Vainilla, almizcle, sándalo"
+   },
    "category": "disenador-dama",
    "priceCents": 16000000,
    "inStock": true,
@@ -1282,6 +1793,13 @@
    "brand": "Tommy Hilfiger",
    "gender": "Dama",
    "size": "100 ml",
+   "concentration": "Eau de Toilette",
+   "notes": {
+    "familia": "Floral fresco",
+    "salida": null,
+    "corazon": null,
+    "fondo": null
+   },
    "category": "disenador-dama",
    "priceCents": 15500000,
    "inStock": true,
@@ -1299,6 +1817,13 @@
    "brand": "Calvin Klein",
    "gender": "Dama",
    "size": "100 ml",
+   "concentration": "Eau de Toilette",
+   "notes": {
+    "familia": "Floral oriental fresco",
+    "salida": "Pomelo rosado, bergamota siciliana, hojas de grosella",
+    "corazon": "Orquídea de azúcar, cactus blanco",
+    "fondo": "Cedro rojo, ámbar, vainilla"
+   },
    "category": "disenador-dama",
    "priceCents": 15500000,
    "inStock": true,
@@ -1316,6 +1841,13 @@
    "brand": "Guess",
    "gender": "Dama",
    "size": "75 ml",
+   "concentration": "Eau de Toilette",
+   "notes": {
+    "familia": "Floral frutal",
+    "salida": "Bergamota, grosella negra, pera",
+    "corazon": "Jazmín, flor de naranjo, raíz de iris",
+    "fondo": "Incienso, vainilla"
+   },
    "category": "disenador-dama",
    "priceCents": 17000000,
    "inStock": true,
@@ -1333,6 +1865,13 @@
    "brand": "Lacoste",
    "gender": "Dama",
    "size": "100 ml",
+   "concentration": "Eau de Toilette",
+   "notes": {
+    "familia": "Ambarado frutal",
+    "salida": "Mandarina, manzana",
+    "corazon": "Macaron, algodón de azúcar, lirio de los valles",
+    "fondo": "Pachulí, vetiver"
+   },
    "category": "disenador-dama",
    "priceCents": 23500000,
    "inStock": true,
@@ -1350,6 +1889,13 @@
    "brand": "Guess",
    "gender": "Dama",
    "size": "75 ml",
+   "concentration": "Eau de Toilette",
+   "notes": {
+    "familia": "Floral frutal fresco",
+    "salida": "Pera, bergamota",
+    "corazon": "Agua de rosas, peonía, fresia, ciclamen",
+    "fondo": "Ámbar, ciruela, pachulí, almizcle"
+   },
    "category": "disenador-dama",
    "priceCents": 17000000,
    "inStock": true,
@@ -1367,6 +1913,13 @@
    "brand": "Dolce & Gabbana",
    "gender": "Dama",
    "size": null,
+   "concentration": "Eau de Toilette",
+   "notes": {
+    "familia": "Floral cítrico amaderado",
+    "salida": "Limón siciliano, manzana verde, campanilla",
+    "corazon": "Bambú, jazmín, rosa blanca",
+    "fondo": "Cedro, ámbar, almizcle"
+   },
    "category": "disenador-dama",
    "priceCents": 29000000,
    "inStock": true,
@@ -1384,6 +1937,13 @@
    "brand": "Ariana Grande",
    "gender": "Dama",
    "size": "100 ml",
+   "concentration": "Eau de Parfum",
+   "notes": {
+    "familia": "Floral gourmand",
+    "salida": "Pera blanca, frambuesa silvestre",
+    "corazon": "Crema de coco, pétalos de rosa",
+    "fondo": "Azúcar de macarrón, almizcle aterciopelado"
+   },
    "category": "disenador-dama",
    "priceCents": 24500000,
    "inStock": true,
@@ -1401,6 +1961,13 @@
    "brand": "Bvlgari",
    "gender": "Dama",
    "size": "100 ml",
+   "concentration": "Eau de Parfum",
+   "notes": {
+    "familia": "Floral acuático amaderado",
+    "salida": "Pera nashi, mandarina verde",
+    "corazon": "Té verde, loto, jazmín absoluto",
+    "fondo": "Almizcle, sándalo"
+   },
    "category": "disenador-dama",
    "priceCents": 38500000,
    "inStock": true,
@@ -1418,6 +1985,13 @@
    "brand": "Carolina Herrera",
    "gender": "Dama",
    "size": "80 ml",
+   "concentration": "Eau de Parfum",
+   "notes": {
+    "familia": "Floral ambarado gourmand",
+    "salida": "Almendra",
+    "corazon": "Tuberosa, jazmín sambac",
+    "fondo": "Haba tonka, cacao"
+   },
    "category": "disenador-dama",
    "priceCents": 39500000,
    "inStock": true,
@@ -1435,6 +2009,13 @@
    "brand": "Prada",
    "gender": "Dama",
    "size": "90 ml",
+   "concentration": "Eau de Parfum",
+   "notes": {
+    "familia": "Floral ambarado amaderado",
+    "salida": "Bergamota, pera",
+    "corazon": "Jazmín sambac, neroli",
+    "fondo": "Ambrofix, musgo, pachulí"
+   },
    "category": "disenador-dama",
    "priceCents": 47500000,
    "inStock": true,
@@ -1452,6 +2033,13 @@
    "brand": "Hugo Boss",
    "gender": "Hombre",
    "size": "100 ml",
+   "concentration": "Eau de Toilette",
+   "notes": {
+    "familia": "Aromático fresco",
+    "salida": "Menta, pomelo, hoja de violeta",
+    "corazon": "Piña, rosa, canela",
+    "fondo": "Almizcle blanco, sándalo, ládano"
+   },
    "category": "disenador-hombre",
    "priceCents": 21500000,
    "inStock": true,
@@ -1469,6 +2057,13 @@
    "brand": "Nautica",
    "gender": "Hombre",
    "size": "100 ml",
+   "concentration": "Eau de Toilette",
+   "notes": {
+    "familia": "Acuático fresco",
+    "salida": "Manzana, hojas verdes",
+    "corazon": "Loto, mimosa",
+    "fondo": "Ámbar, cedro, musgo de roble, almizcle"
+   },
    "category": "disenador-hombre",
    "priceCents": 14500000,
    "inStock": true,
@@ -1486,6 +2081,13 @@
    "brand": "Guess",
    "gender": "Hombre",
    "size": "100 ml",
+   "concentration": "Eau de Toilette",
+   "notes": {
+    "familia": "Amaderado especiado",
+    "salida": "Bergamota, pimienta blanca, bayas de enebro",
+    "corazon": "Jazmín, geranio, madera de cachemira",
+    "fondo": "Cedro, almizcle, pachulí"
+   },
    "category": "disenador-hombre",
    "priceCents": 16000000,
    "inStock": true,
@@ -1503,6 +2105,13 @@
    "brand": "Lacoste",
    "gender": "Hombre",
    "size": "100 ml",
+   "concentration": "Eau de Toilette",
+   "notes": {
+    "familia": "Amaderado aromático",
+    "salida": "Pomelo, cardamomo",
+    "corazon": "Tuberosa, ylang-ylang",
+    "fondo": "Vetiver, gamuza"
+   },
    "category": "disenador-hombre",
    "priceCents": 23500000,
    "inStock": true,
@@ -1520,6 +2129,13 @@
    "brand": "Calvin Klein",
    "gender": "Unisex",
    "size": "100 ml",
+   "concentration": "Eau de Toilette",
+   "notes": {
+    "familia": "Aromático floral almizclado",
+    "salida": "Lavanda, menta, mandarina, bergamota, enebro",
+    "corazon": "Magnolia, orquídea, fresia, jazmín, durazno",
+    "fondo": "Almizcle, sándalo, cedro, ámbar, opopónax, vainilla"
+   },
    "category": "disenador-hombre",
    "priceCents": 17500000,
    "inStock": true,
@@ -1537,6 +2153,13 @@
    "brand": "Calvin Klein",
    "gender": "Hombre",
    "size": "100 ml",
+   "concentration": "Eau de Parfum",
+   "notes": {
+    "familia": "Amaderado especiado",
+    "salida": "Jengibre, pimienta, sudachi, acorde de lluvia",
+    "corazon": "Salvia, albahaca negra, hoja de cedro",
+    "fondo": "Acorde de gamuza cremosa, pachulí, palo de rosa brasileño, ámbar"
+   },
    "category": "disenador-hombre",
    "priceCents": 19500000,
    "inStock": true,
@@ -1554,6 +2177,13 @@
    "brand": "Dolce & Gabbana",
    "gender": "Hombre",
    "size": "100 ml",
+   "concentration": "Eau de Toilette",
+   "notes": {
+    "familia": "Aromático cítrico amaderado",
+    "salida": "Bergamota, mandarina siciliana, pomelo, enebro",
+    "corazon": "Romero, pimienta de Sichuan, palo de rosa",
+    "fondo": "Incienso, musgo de roble, madera almizclada"
+   },
    "category": "disenador-hombre",
    "priceCents": 26000000,
    "inStock": true,
@@ -1571,6 +2201,13 @@
    "brand": "Valentino",
    "gender": "Hombre",
    "size": "100 ml + 10 ml",
+   "concentration": "Eau de Toilette",
+   "notes": {
+    "familia": "Aromático amaderado",
+    "salida": "Hoja de violeta, salvia aromática",
+    "corazon": "Vetiver",
+    "fondo": "Acorde de jengibre, acorde salino"
+   },
    "category": "disenador-hombre",
    "priceCents": 43000000,
    "inStock": true,
@@ -1588,6 +2225,13 @@
    "brand": "Carolina Herrera",
    "gender": "Hombre",
    "size": "100 ml",
+   "concentration": "Elixir",
+   "notes": {
+    "familia": "Ámbar aromático gourmand",
+    "salida": "Lavanda negra, pomelo, enebro amargo",
+    "corazon": "Regaliz negro, azafrán, flor de naranjo",
+    "fondo": "Vainilla negra, madera de roble, vetiver"
+   },
    "category": "disenador-hombre",
    "priceCents": 37000000,
    "inStock": true,
@@ -1605,6 +2249,13 @@
    "brand": "Rabanne",
    "gender": "Hombre",
    "size": "100 ml",
+   "concentration": "Eau de Toilette",
+   "notes": {
+    "familia": "Cuero especiado",
+    "salida": "Mandarina sanguina, pomelo, menta",
+    "corazon": "Canela, notas especiadas, rosa",
+    "fondo": "Ámbar, cuero, notas amaderadas, pachulí de la India"
+   },
    "category": "disenador-hombre",
    "priceCents": 32000000,
    "inStock": true,
@@ -1622,6 +2273,13 @@
    "brand": "Giorgio Armani",
    "gender": "Hombre",
    "size": "50 ml",
+   "concentration": "Eau de Parfum",
+   "notes": {
+    "familia": "Aromático acuático",
+    "salida": "Mandarina verde, notas marinas",
+    "corazon": "Salvia esclarea, lavandín, geranio",
+    "fondo": "Pachulí, notas minerales, vetiver"
+   },
    "category": "disenador-hombre",
    "priceCents": 30000000,
    "inStock": true,
@@ -1639,6 +2297,13 @@
    "brand": "Jean Paul Gaultier",
    "gender": "Hombre",
    "size": "Set de viaje",
+   "concentration": "Eau de Toilette",
+   "notes": {
+    "familia": "Oriental amaderado",
+    "salida": "Salvia esclarea, mandarina",
+    "corazon": "Caramelo, haba tonka",
+    "fondo": "Vetiver"
+   },
    "category": "disenador-hombre",
    "priceCents": 37500000,
    "inStock": true,
@@ -1656,6 +2321,13 @@
    "brand": "Jean Paul Gaultier",
    "gender": "Hombre",
    "size": "75 ml",
+   "concentration": "Eau de Toilette",
+   "notes": {
+    "familia": "Oriental fougère",
+    "salida": "Menta, artemisa, cardamomo, bergamota",
+    "corazon": "Lavanda, flor de naranjo, canela, comino",
+    "fondo": "Sándalo, vainilla, cedro, haba tonka, ámbar"
+   },
    "category": "disenador-hombre",
    "priceCents": 27500000,
    "inStock": true,
@@ -1673,6 +2345,13 @@
    "brand": "Jean Paul Gaultier",
    "gender": "Hombre",
    "size": "75 ml",
+   "concentration": "Eau de Parfum",
+   "notes": {
+    "familia": "Aromático especiado dulce",
+    "salida": "Lavanda, menta",
+    "corazon": "Vainilla, benjuí",
+    "fondo": "Miel, haba tonka, tabaco"
+   },
    "category": "disenador-hombre",
    "priceCents": 35000000,
    "inStock": true,
@@ -1690,6 +2369,13 @@
    "brand": "Lattafa",
    "gender": "Unisex",
    "size": "Set de regalo",
+   "concentration": "Eau de Parfum",
+   "notes": {
+    "familia": "Ámbar especiado gourmand",
+    "salida": "Canela, nuez moscada, bergamota",
+    "corazon": "Dátiles, praliné, tuberosa, mahonial",
+    "fondo": "Vainilla, haba tonka, benjuí, mirra, amberwood, akigalawood"
+   },
    "category": "sets-de-regalo",
    "priceCents": 20500000,
    "inStock": true,
@@ -1711,6 +2397,13 @@
    "brand": "Armaf",
    "gender": "Hombre",
    "size": "Set de 4 piezas",
+   "concentration": "Eau de Parfum",
+   "notes": {
+    "familia": "Ámbar especiado",
+    "salida": "Salvia, mandarina, naranja, azafrán",
+    "corazon": "Caramelo, haba tonka, tagetes",
+    "fondo": "Vetiver, cedro, ambroxán"
+   },
    "category": "sets-de-regalo",
    "priceCents": 23500000,
    "inStock": true,
@@ -1732,6 +2425,13 @@
    "brand": "Rabanne",
    "gender": "Hombre",
    "size": "100 ml + desodorante 150 ml + travel spray 10 ml",
+   "concentration": "Eau de Toilette",
+   "notes": {
+    "familia": "Aromático acuático amaderado",
+    "salida": "Pomelo, notas marinas, mandarina",
+    "corazon": "Hoja de laurel, jazmín",
+    "fondo": "Ámbar gris, madera de guayaco, musgo de roble, pachulí"
+   },
    "category": "sets-de-regalo",
    "priceCents": 37000000,
    "inStock": true,
@@ -1753,6 +2453,13 @@
    "brand": "Calvin Klein",
    "gender": "Unisex",
    "size": "Set de regalo",
+   "concentration": "Eau de Toilette",
+   "notes": {
+    "familia": "Cítrico aromático",
+    "salida": "Piña, mandarina, papaya, bergamota, cardamomo, limón, notas verdes",
+    "corazon": "Nuez moscada, violeta, raíz de iris, jazmín, lirio de los valles, rosa",
+    "fondo": "Sándalo, ámbar, almizcle, cedro, musgo de roble"
+   },
    "category": "sets-de-regalo",
    "priceCents": 25000000,
    "inStock": true,
@@ -1774,6 +2481,13 @@
    "brand": "Moschino",
    "gender": "Dama",
    "size": "Set de regalo",
+   "concentration": "Eau de Parfum",
+   "notes": {
+    "familia": "Cítrico amaderado",
+    "salida": "Limón, sorbete de limón, orégano",
+    "corazon": "Jazmín, fresia, arena",
+    "fondo": "Ciprés, almizcle, vetiver"
+   },
    "category": "sets-de-regalo",
    "priceCents": 29000000,
    "inStock": true,
@@ -1795,6 +2509,13 @@
    "brand": "Ariana Grande",
    "gender": "Dama",
    "size": "100 ml + gel 100 ml + body soufflé 100 ml",
+   "concentration": "Eau de Parfum",
+   "notes": {
+    "familia": "Floral gourmand",
+    "salida": "Mora, bergamota, pera",
+    "corazon": "Grosella negra, crema batida, malvavisco, jazmín, frangipani, madreselva",
+    "fondo": "Vainilla, madera de cachemira"
+   },
    "category": "sets-de-regalo",
    "priceCents": 24500000,
    "inStock": true,

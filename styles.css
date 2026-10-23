@@ -202,3 +202,18 @@ button, input, select { font: inherit; color: inherit; }
 .wa-float { position: fixed; right: 1.25rem; bottom: 1.25rem; z-index: 40; width: 3.5rem; height: 3.5rem; border-radius: 999px; background: var(--wa); color: #fff; display: flex; align-items: center; justify-content: center; box-shadow: 0 10px 15px -3px rgba(0,0,0,.2); transition: transform .2s; }
 .wa-float:hover { transform: scale(1.05); }
 .wa-float svg { width: 1.75rem; height: 1.75rem; fill: currentColor; }
+
+/* Cinta de marcas: bucle continuo con bordes difuminados, igual que en la tienda. */
+.brands { padding-top: 3rem; text-align: center; }
+@keyframes vella-marquee { to { transform: translateX(-50%); } }
+.brand-marquee { overflow: hidden; margin-top: 1rem; mask-image: linear-gradient(90deg, transparent, #000 8%, #000 92%, transparent); }
+.brand-marquee__track { display: flex; width: max-content; animation: vella-marquee var(--marquee-duration, 40s) linear infinite; }
+.brand-marquee:hover .brand-marquee__track, .brand-marquee:focus-within .brand-marquee__track, .brand-marquee:active .brand-marquee__track { animation-play-state: paused; }
+.brand-marquee ul { display: flex; flex-shrink: 0; gap: .75rem; padding: 0 .75rem 0 0; margin: 0; list-style: none; }
+.brand-marquee a { display: inline-flex; white-space: nowrap; border-radius: 9999px; border: 1px solid rgb(189 163 111 / .3); background: rgb(255 255 255 / .7); padding: .375rem 1rem; font-size: .75rem; font-weight: 500; text-transform: uppercase; letter-spacing: .05em; color: rgb(52 36 26 / .75); text-decoration: none; transition: border-color .2s, color .2s; }
+.brand-marquee a:hover { border-color: var(--gold); color: var(--ink); }
+@media (prefers-reduced-motion: reduce) {
+  .brand-marquee { overflow-x: auto; mask-image: none; scrollbar-width: thin; }
+  .brand-marquee__track { animation: none; }
+  .brand-marquee [data-clone] { display: none; }
+}

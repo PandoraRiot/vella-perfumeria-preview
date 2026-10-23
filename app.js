@@ -63,6 +63,18 @@ function catalogState(params, category) {
     sort: SORTS[params.get("orden")] ? params.get("orden") : "recientes",
   };
 }
+// Cinta de marcas en movimiento continuo (como la tienda): cada marca abre el catálogo filtrado.
+// La lista va dos veces para que el bucle no tenga saltos; la copia es invisible para lectores.
+function brandStrip() {
+  const brands = [...new Set(DATA.products.map((p) => p.brand).filter(Boolean))].sort((a, b) => a.localeCompare(b, "es", { sensitivity: "base" }));
+  if (!brands.length) return "";
+  const list = (clone) => `<ul${clone ? ' aria-hidden="true" data-clone' : ""}>${brands.map((b) => `<li><a href="${catalogHref(EMPTY, { brands: [b] })}"${clone ? ' tabindex="-1"' : ""}>${esc(b)}</a></li>`).join("")}</ul>`;
+  return `<section class="brands container" aria-labelledby="marcas">
+      <h2 id="marcas" class="kicker">Nuestras marcas</h2>
+      <div class="brand-marquee" style="--marquee-duration:${Math.max(20, brands.length * 3)}s"><div class="brand-marquee__track">${list(false)}${list(true)}</div></div>
+    </section>`;
+}
+
 function catalogHref(state, changes = {}) {
   const s = { ...state, ...changes };
   const params = new URLSearchParams();
@@ -133,6 +145,7 @@ function renderHome() {
         <a class="btn btn--line" href="#/catalogo/sets-de-regalo">Sets de regalo</a>
       </div>
     </div></section>
+    ${brandStrip()}
     <div class="container">
       <ul class="cats">${cats}</ul>
       ${news.length ? `<div class="home-latest">
@@ -182,7 +195,7 @@ function renderCatalog(state) {
   const items = applyFilters(state);
   const f = facets(state);
   const title = state.q ? `Resultados para “${state.q}”` : category ? category.name : "Todos los perfumes";
-  const desc = state.q ? "" : category ? category.description : "selección exclusiva de perfumería de diseñador y árabe, elegida minuciosamente para ofrecerte fragancias que enamoran y permanecen en la memoria.";
+  const desc = state.q ? "" : category ? category.description : "Selección exclusiva de perfumería de diseñador y árabe, elegida minuciosamente para ofrecerte fragancias que enamoran y permanecen en la memoria.";
   const available = new Set(f.genders.map((g) => g.value));
 
   const shortcuts = GENDER_SHORTCUTS.filter((g) => available.has(g.value))

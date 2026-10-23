@@ -59,6 +59,7 @@ function catalogState(params, category) {
     q: (params.get("q") || "").trim().slice(0, 100),
     genders: params.getAll("genero"),
     brands: params.getAll("marca"),
+    nuevos: params.get("nuevo") === "1",
     price: PRICE_RANGES.some((r) => r.key === price) ? price : null,
     sort: SORTS[params.get("orden")] ? params.get("orden") : "recientes",
   };
@@ -75,18 +76,33 @@ function brandStrip() {
     </section>`;
 }
 
+// Banner de temporada (en la tienda lo maneja Juliana desde el panel; aquí es fijo). Sin descuentos.
+const PROMO = {
+  title: "Temporada de regalos",
+  body: "Encuentra el detalle perfecto para esta temporada en nuestros sets de regalo.",
+  cta: { label: "Ver sets de regalo", href: "#/catalogo/sets-de-regalo" },
+};
+function promoBanner() {
+  if (!PROMO) return "";
+  return `<section class="promo bg-vella" aria-label="Promoción de temporada"><div class="container promo__inner">
+      <div class="promo__text"><p class="promo__title">${esc(PROMO.title)}</p><p class="promo__body">${esc(PROMO.body)}</p></div>
+      <a class="btn btn--gold promo__cta" href="${PROMO.cta.href}">${esc(PROMO.cta.label)}</a>
+    </div></section>`;
+}
+
 function catalogHref(state, changes = {}) {
   const s = { ...state, ...changes };
   const params = new URLSearchParams();
   if (s.q) params.set("q", s.q);
   s.genders.forEach((g) => params.append("genero", g));
   s.brands.forEach((b) => params.append("marca", b));
+  if (s.nuevos) params.set("nuevo", "1");
   if (s.price) params.set("precio", s.price);
   if (s.sort !== "recientes") params.set("orden", s.sort);
   const query = params.toString();
   return `#/catalogo${s.category ? "/" + encodeURIComponent(s.category) : ""}${query ? "?" + query : ""}`;
 }
-const EMPTY = { category: null, q: "", genders: [], brands: [], price: null, sort: "recientes" };
+const EMPTY = { category: null, q: "", genders: [], brands: [], nuevos: false, price: null, sort: "recientes" };
 
 function route() {
   const { parts, params } = parseHash();
@@ -138,6 +154,7 @@ function renderHome() {
   const latest = news.map((p, i) => card(p, i < 4)).join("");
   return {
     html: `
+    ${promoBanner()}
     <section class="hero bg-vella"><div class="container hero__grid">
       <h1><img class="hero__logo" src="brand/vella-lockup-dark.png" alt="Vella Perfumería" width="627" height="502" /></h1>
       <p class="hero__lead">Amamos los perfumes y creemos en el poder que tiene un aroma para dejar huella. <span aria-hidden="true">✨</span></p>
@@ -173,6 +190,7 @@ function applyFilters(state) {
     if (q && !norm(`${p.title} ${p.brand}`).includes(q)) return false;
     if (state.genders.length && !state.genders.includes(p.gender)) return false;
     if (state.brands.length && !state.brands.includes(p.brand)) return false;
+    if (state.nuevos && !isNew(p.slug)) return false;
     const pesos = (p.priceCents ?? 0) / 100;
     if (range && ((range.min != null && pesos < range.min) || (range.max != null && pesos > range.max))) return false;
     return true;
@@ -201,17 +219,20 @@ function renderCatalog(state) {
   const desc = state.q ? "" : category ? category.description : "Selección exclusiva de perfumería de diseñador y árabe, elegida minuciosamente para ofrecerte fragancias que enamoran y permanecen en la memoria.";
   const available = new Set(f.genders.map((g) => g.value));
 
+  // Cuántos nuevos hay en esta categoría o búsqueda (mismo criterio que los demás conteos).
+  const newCount = applyFilters({ ...EMPTY, category: state.category, q: state.q, nuevos: true }).length;
   const shortcuts = GENDER_SHORTCUTS.filter((g) => available.has(g.value))
     .map((g) => {
       const active = state.genders.length === 1 && state.genders[0] === g.value;
       return `<a href="${catalogHref(state, { genders: active ? [] : [g.value] })}" ${active ? 'aria-current="true"' : ""}>${g.label}</a>`;
     })
-    .join("");
+    .join("") + (newCount || state.nuevos ? `<a href="${catalogHref(state, { nuevos: !state.nuevos })}" ${state.nuevos ? 'aria-current="true"' : ""}>✦ Nuevos</a>` : "");
 
   const chips = [];
   if (state.q) chips.push({ label: `“${state.q}”`, href: catalogHref(state, { q: "" }) });
   state.genders.forEach((g) => chips.push({ label: g, href: catalogHref(state, { genders: state.genders.filter((x) => x !== g) }) }));
   state.brands.forEach((b) => chips.push({ label: b, href: catalogHref(state, { brands: state.brands.filter((x) => x !== b) }) }));
+  if (state.nuevos) chips.push({ label: "Nuevos", href: catalogHref(state, { nuevos: false }) });
   const pr = PRICE_RANGES.find((r) => r.key === state.price);
   if (pr) chips.push({ label: pr.label, href: catalogHref(state, { price: null }) });
   const clearHref = catalogHref({ ...EMPTY, category: state.category });
@@ -221,7 +242,7 @@ function renderCatalog(state) {
   const brandQ = norm(ui.brandQuery);
   const matching = f.brands.filter((b) => norm(b.value).includes(brandQ));
   const visible = ui.allBrands || brandQ ? matching : matching.filter((b, i) => i < BRANDS_SHOWN || state.brands.includes(b.value));
-  const activeCount = state.genders.length + state.brands.length + (state.price ? 1 : 0);
+  const activeCount = state.genders.length + state.brands.length + (state.nuevos ? 1 : 0) + (state.price ? 1 : 0);
 
   const panel = `
     <p class="filters-title">Filtros</p>
@@ -229,6 +250,7 @@ function renderCatalog(state) {
       <span>Filtros${activeCount ? ` (${activeCount})` : ""}</span><span aria-hidden="true">${ui.filtersOpen ? "−" : "+"}</span>
     </button>
     <form class="panel ${ui.filtersOpen ? "open" : ""}" id="panel">
+      ${newCount || state.nuevos ? `<fieldset><legend>Novedad</legend>${opt("checkbox", "nuevo", "1", "Solo nuevos", newCount, state.nuevos)}</fieldset>` : ""}
       ${f.genders.length ? `<fieldset><legend>Género</legend>${f.genders.map((g) => opt("checkbox", "genero", g.value, g.value, g.n, state.genders.includes(g.value))).join("")}</fieldset>` : ""}
       ${f.brands.length ? `<fieldset><legend>Marca</legend>
         ${f.brands.length > BRANDS_SHOWN ? `<label class="sr-only" for="brandSearch">Buscar marca</label><input class="brand-search" id="brandSearch" type="search" placeholder="Buscar marca…" value="${esc(ui.brandQuery)}" />` : ""}
@@ -276,7 +298,7 @@ function renderCatalog(state) {
         if (e.target.id === "brandSearch") return;
         const data = new FormData(form);
         const price = data.get("precio");
-        location.hash = catalogHref(state, { genders: data.getAll("genero"), brands: data.getAll("marca"), price: price || null }).slice(1);
+        location.hash = catalogHref(state, { genders: data.getAll("genero"), brands: data.getAll("marca"), nuevos: data.get("nuevo") === "1", price: price || null }).slice(1);
       });
       form.addEventListener("submit", (e) => e.preventDefault());
       document.getElementById("filtersToggle").addEventListener("click", () => {

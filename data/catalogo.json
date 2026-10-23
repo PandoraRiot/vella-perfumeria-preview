@@ -1,5 +1,5 @@
 {
- "exportado": "2026-10-23T01:21:32.887Z",
+ "exportado": "2026-10-23T03:53:28.777Z",
  "categories": [
   {
    "slug": "sets-de-regalo",
@@ -37,6 +37,12 @@
     "corazon": "Azahar, tuberosa, malvavisco dorado",
     "fondo": "Algodón de azúcar, vainilla, haba tonka absoluta"
    },
+   "acordes": [
+    "Dulces",
+    "Florales Blancas",
+    "Especiadas",
+    "Floral"
+   ],
    "category": "perfumeria-arabe",
    "priceCents": 23000000,
    "inStock": true,
@@ -61,6 +67,12 @@
     "corazon": "Iris, ámbar gris, lavanda",
     "fondo": "Haba tonka, almizcle, pachulí, cashmeran"
    },
+   "acordes": [
+    "Aromática",
+    "Marinas",
+    "Almizclados",
+    "Afrutadas"
+   ],
    "category": "perfumeria-arabe",
    "priceCents": 23000000,
    "inStock": true,
@@ -85,6 +97,10 @@
     "corazon": "Peonía, magnolia, flor de loto",
     "fondo": "Caoba, ámbar vegetal, almizcle"
    },
+   "acordes": [
+    "Afrutadas",
+    "Floral"
+   ],
    "category": "disenador-dama",
    "priceCents": 32000000,
    "inStock": true,
@@ -109,6 +125,11 @@
     "corazon": "Azahar, cardamomo, ciruela",
     "fondo": "Pachulí, ámbar gris, madera flotante, almizcle"
    },
+   "acordes": [
+    "Aromática",
+    "Marinas",
+    "Afrutadas"
+   ],
    "category": "sets-de-regalo",
    "priceCents": 23000000,
    "inStock": true,
@@ -137,6 +158,10 @@
     "corazon": "Madera ámbar, ámbar gris",
     "fondo": "Cedro, resina de abeto"
    },
+   "acordes": [
+    "Amaderadas",
+    "Cálidas"
+   ],
    "category": "perfumeria-arabe",
    "priceCents": 31000000,
    "inStock": true,
@@ -161,6 +186,11 @@
     "corazon": "Acorde de chicle, canela, arándanos, jengibre, rosa búlgara, durazno",
     "fondo": "Cedro, ambrofix, almizcle"
    },
+   "acordes": [
+    "Dulces",
+    "Afrutadas",
+    "Floral"
+   ],
    "category": "disenador-dama",
    "priceCents": 22900000,
    "inStock": true,
@@ -185,6 +215,10 @@
     "corazon": "Café, pachulí, iris",
     "fondo": "Ámbar, vainilla, maderas secas, benjuí, ládano"
    },
+   "acordes": [
+    "Especiadas",
+    "Orientales"
+   ],
    "category": "sets-de-regalo",
    "priceCents": 18900000,
    "inStock": true,
@@ -213,6 +247,12 @@
     "corazon": "Coco, ylang-ylang, ambroxan, mahonial",
     "fondo": "Sándalo, benjuí, almizcle"
    },
+   "acordes": [
+    "Cítricos",
+    "Florales Blancas",
+    "Floral",
+    "Orientales"
+   ],
    "category": "perfumeria-arabe",
    "priceCents": 23500000,
    "inStock": true,
@@ -237,6 +277,12 @@
     "corazon": "Dátiles, praliné, tuberosa, lirio de los valles",
     "fondo": "Haba tonka, benjuí de Laos, mirra, akigalawood, vainilla, ámbar"
    },
+   "acordes": [
+    "Cálidas",
+    "Florales Blancas",
+    "Especiadas",
+    "Orientales"
+   ],
    "category": "perfumeria-arabe",
    "priceCents": 17000000,
    "inStock": true,
@@ -261,6 +307,10 @@
     "corazon": "Praliné, naranja confitada, flores blancas",
     "fondo": "Café, vainilla, benjuí, almizcle, haba tonka"
    },
+   "acordes": [
+    "Dulces",
+    "Especiadas"
+   ],
    "category": "perfumeria-arabe",
    "priceCents": 17200000,
    "inStock": true,
@@ -285,6 +335,12 @@
     "corazon": "Tuberosa, jazmín, incienso, mahonial",
     "fondo": "Vainilla, haba tonka, almizcle"
    },
+   "acordes": [
+    "Dulces",
+    "Florales Blancas",
+    "Especiadas",
+    "Floral"
+   ],
    "category": "perfumeria-arabe",
    "priceCents": 18500000,
    "inStock": true,
@@ -309,6 +365,11 @@
     "corazon": "Iris, benjuí, ciprés, mahonial",
     "fondo": "Vainilla, haba tonka, ámbar, incienso, cedro, pachulí"
    },
+   "acordes": [
+    "Amaderadas",
+    "Cálidas",
+    "Especiadas"
+   ],
    "category": "perfumeria-arabe",
    "priceCents": 17000000,
    "inStock": true,
@@ -333,6 +394,10 @@
     "corazon": "Canela, benjuí, cúrcuma, pimienta negra",
     "fondo": "Vainilla, cashmeran, sándalo, musgo"
    },
+   "acordes": [
+    "Dulces",
+    "Orientales"
+   ],
    "category": "perfumeria-arabe",
    "priceCents": 16500000,
    "inStock": true,
@@ -357,6 +422,11 @@
     "corazon": "Iris, jazmín, azahar",
     "fondo": "Praliné, pachulí, haba tonka, vainilla"
    },
+   "acordes": [
+    "Dulces",
+    "Florales Blancas",
+    "Floral"
+   ],
    "category": "disenador-dama",
    "priceCents": 44000000,
    "inStock": true,
@@ -381,6 +451,10 @@
     "corazon": null,
     "fondo": "Ámbar gris, notas amaderadas"
    },
+   "acordes": [
+    "Amaderadas",
+    "Cálidas"
+   ],
    "category": "perfumeria-arabe",
    "priceCents": 32500000,
    "inStock": true,
@@ -405,6 +479,11 @@
     "corazon": "Lavanda, azahar, caramelo, haba tonka",
     "fondo": "Sándalo, vainilla, vetiver, benjuí"
    },
+   "acordes": [
+    "Dulces",
+    "Aromática",
+    "Cálidas"
+   ],
    "category": "sets-de-regalo",
    "priceCents": 35000000,
    "inStock": true,
@@ -429,6 +508,9 @@
     "corazon": "Salvia, jazmín",
     "fondo": "Bálsamo de abeto, cedro, pachulí"
    },
+   "acordes": [
+    "Aromática"
+   ],
    "category": "disenador-hombre",
    "priceCents": 19700000,
    "inStock": true,
@@ -453,6 +535,10 @@
     "corazon": "Menta, albahaca, acorde de hielo",
     "fondo": "Cedro, almizcle, pachulí"
    },
+   "acordes": [
+    "Amaderadas",
+    "Almizclados"
+   ],
    "category": "disenador-hombre",
    "priceCents": 17000000,
    "inStock": true,
@@ -477,6 +563,11 @@
     "corazon": "Jazmín sambac",
     "fondo": "Cedro, sándalo, vainilla absoluta"
    },
+   "acordes": [
+    "Amaderadas",
+    "Afrutadas",
+    "Floral"
+   ],
    "category": "disenador-dama",
    "priceCents": 29000000,
    "inStock": true,
@@ -501,6 +592,10 @@
     "corazon": "Geranio, canela, clavo",
     "fondo": "Vainilla, sándalo, vetiver, cedro, olivo, ámbar, almizcle"
    },
+   "acordes": [
+    "Amaderadas",
+    "Especiadas"
+   ],
    "category": "disenador-hombre",
    "priceCents": 25800000,
    "inStock": true,
@@ -525,6 +620,11 @@
     "corazon": "Flor de cerezo, magnolia, violeta",
     "fondo": "Vainilla, haba tonka, sándalo"
    },
+   "acordes": [
+    "Dulces",
+    "Afrutadas",
+    "Floral"
+   ],
    "category": "disenador-dama",
    "priceCents": 20000000,
    "inStock": true,
@@ -549,6 +649,13 @@
     "corazon": "Elemí, vainilla bourbon, jazmín, praliné, violeta, pimienta rosa",
     "fondo": "Praliné, guayaco, ambroxan, almizcle, ámbar gris, cedro, haba tonka, musgo"
    },
+   "acordes": [
+    "Dulces",
+    "Cálidas",
+    "Florales Blancas",
+    "Especiadas",
+    "Orientales"
+   ],
    "category": "sets-de-regalo",
    "priceCents": 31500000,
    "inStock": true,
@@ -577,6 +684,12 @@
     "corazon": "Iris, ámbar, cedro, vetiver, almizcle, jazmín, rosa, gardenia tahitiana",
     "fondo": "Sándalo, cuero, papiro, tabaco, heno, vainilla, haba tonka, benjuí"
    },
+   "acordes": [
+    "Amaderadas",
+    "Cálidas",
+    "Florales Blancas",
+    "Floral"
+   ],
    "category": "sets-de-regalo",
    "priceCents": 17000000,
    "inStock": true,
@@ -605,6 +718,11 @@
     "corazon": "Sandía, cedro, cálamo",
     "fondo": "Ámbar, sándalo, pachulí"
    },
+   "acordes": [
+    "Amaderadas",
+    "Aromática",
+    "Afrutadas"
+   ],
    "category": "perfumeria-arabe",
    "priceCents": 18000000,
    "inStock": true,
@@ -629,6 +747,11 @@
     "corazon": "Peonía de cereza, frangipani rojo",
     "fondo": "Vainilla solar"
    },
+   "acordes": [
+    "Cálidas",
+    "Afrutadas",
+    "Floral"
+   ],
    "category": "disenador-dama",
    "priceCents": 51000000,
    "inStock": true,
@@ -653,6 +776,12 @@
     "corazon": "Té de rosa, jazmín sambac, gardenia",
     "fondo": "Almizcles cristalinos, madera cremosa, pachulí"
    },
+   "acordes": [
+    "Almizclados",
+    "Florales Blancas",
+    "Afrutadas",
+    "Floral"
+   ],
    "category": "disenador-dama",
    "priceCents": 27000000,
    "inStock": true,
@@ -677,6 +806,11 @@
     "corazon": "Pimienta de Sichuan, enebro, notas marinas",
     "fondo": "Sándalo, vetiver, musgo de roble"
    },
+   "acordes": [
+    "Aromática",
+    "Marinas",
+    "Chipre"
+   ],
    "category": "disenador-hombre",
    "priceCents": 26500000,
    "inStock": true,
@@ -701,6 +835,11 @@
     "corazon": "Flor de duraznero, ramo de rosas",
     "fondo": "Madera Queenwood, almizcle"
    },
+   "acordes": [
+    "Almizclados",
+    "Afrutadas",
+    "Floral"
+   ],
    "category": "disenador-dama",
    "priceCents": 36700000,
    "inStock": true,
@@ -725,6 +864,12 @@
     "corazon": "Acorde de jazmín, acorde de violeta",
     "fondo": "Maderas blancas, almizcle, ámbar seco"
    },
+   "acordes": [
+    "Dulces",
+    "Almizclados",
+    "Afrutadas",
+    "Floral"
+   ],
    "category": "disenador-dama",
    "priceCents": 33000000,
    "inStock": true,
@@ -749,6 +894,11 @@
     "corazon": null,
     "fondo": "Ámbar, almizcle, vainilla"
    },
+   "acordes": [
+    "Dulces",
+    "Cálidas",
+    "Almizclados"
+   ],
    "category": "disenador-hombre",
    "priceCents": 24500000,
    "inStock": true,
@@ -773,6 +923,12 @@
     "corazon": "Rosa, flores blancas, vainilla",
     "fondo": "Almizcle, ámbar, notas empolvadas"
    },
+   "acordes": [
+    "Dulces",
+    "Almizclados",
+    "Afrutadas",
+    "Floral"
+   ],
    "category": "sets-de-regalo",
    "priceCents": 22900000,
    "inStock": true,
@@ -792,6 +948,12 @@
     "corazon": "Caramelo, haba tonka, incienso, pachulí",
     "fondo": "Vainilla, vetiver"
    },
+   "acordes": [
+    "Cítricos",
+    "Cálidas",
+    "Especiadas",
+    "Orientales"
+   ],
    "category": "perfumeria-arabe",
    "priceCents": 21000000,
    "inStock": true,
@@ -816,6 +978,11 @@
     "corazon": "Caramelo, caléndula, haba tonka",
     "fondo": "Vetiver, cedro, ambroxan"
    },
+   "acordes": [
+    "Cítricos",
+    "Cálidas",
+    "Especiadas"
+   ],
    "category": "perfumeria-arabe",
    "priceCents": 17500000,
    "inStock": true,
@@ -840,6 +1007,11 @@
     "corazon": "Crema de coco, praliné, orquídea de vainilla",
     "fondo": "Almizcles, maderas cremosas"
    },
+   "acordes": [
+    "Dulces",
+    "Almizclados",
+    "Floral"
+   ],
    "category": "disenador-dama",
    "priceCents": 25500000,
    "inStock": true,
@@ -864,6 +1036,10 @@
     "corazon": "Manzana, incienso, cedro",
     "fondo": "Pachulí, jazmín, jengibre, sándalo"
    },
+   "acordes": [
+    "Aromática",
+    "Marinas"
+   ],
    "category": "perfumeria-arabe",
    "priceCents": 19500000,
    "inStock": true,
@@ -888,6 +1064,10 @@
     "corazon": "Manzana verde, capuchino, cardamomo, agua de mar",
     "fondo": "Ámbar, maderas"
    },
+   "acordes": [
+    "Aromática",
+    "Marinas"
+   ],
    "category": "disenador-hombre",
    "priceCents": 17500000,
    "inStock": true,
@@ -912,6 +1092,10 @@
     "corazon": "Jengibre, salvia, té",
     "fondo": "Cedro, peonía, Ambermax"
    },
+   "acordes": [
+    "Amaderadas",
+    "Marinas"
+   ],
    "category": "perfumeria-arabe",
    "priceCents": 22000000,
    "inStock": true,
@@ -936,6 +1120,11 @@
     "corazon": "Cedro del Atlas, madera cachemira, pachulí",
     "fondo": "Vetiver de Haití, almizcle blanco"
    },
+   "acordes": [
+    "Amaderadas",
+    "Cálidas",
+    "Almizclados"
+   ],
    "category": "perfumeria-arabe",
    "priceCents": 20000000,
    "inStock": true,
@@ -960,6 +1149,11 @@
     "corazon": "Nenúfar, lavanda, salvia",
     "fondo": "Ámbar, almizcle, vainilla"
    },
+   "acordes": [
+    "Almizclados",
+    "Afrutadas",
+    "Floral"
+   ],
    "category": "sets-de-regalo",
    "priceCents": 21300000,
    "inStock": true,
@@ -984,6 +1178,11 @@
     "corazon": "Jazmín absoluto, azahar",
     "fondo": "Miel, pachulí, ámbar"
    },
+   "acordes": [
+    "Cálidas",
+    "Florales Blancas",
+    "Floral"
+   ],
    "category": "disenador-dama",
    "priceCents": 33000000,
    "inStock": true,
@@ -1008,6 +1207,10 @@
     "corazon": "Pera, azahar",
     "fondo": "Cedro, ámbar, almizcle"
    },
+   "acordes": [
+    "Cítricos",
+    "Aromática"
+   ],
    "category": "perfumeria-arabe",
    "priceCents": 22000000,
    "inStock": true,
@@ -1032,6 +1235,10 @@
     "corazon": "Ciruela, jazmín",
     "fondo": "Vainilla, musgo, pachulí"
    },
+   "acordes": [
+    "Amaderadas",
+    "Aromática"
+   ],
    "category": "perfumeria-arabe",
    "priceCents": 17000000,
    "inStock": true,
@@ -1056,6 +1263,11 @@
     "corazon": "Oud, pachulí",
     "fondo": "Oud, pachulí, almizcle"
    },
+   "acordes": [
+    "Amaderadas",
+    "Cálidas",
+    "Orientales"
+   ],
    "category": "perfumeria-arabe",
    "priceCents": 17000000,
    "inStock": true,
@@ -1080,6 +1292,11 @@
     "corazon": "Tabaco, canela, café, frambuesa, violeta",
     "fondo": "Haba tonka, almizcle, bálsamo de gurjun"
    },
+   "acordes": [
+    "Almizclados",
+    "Especiadas",
+    "Orientales"
+   ],
    "category": "perfumeria-arabe",
    "priceCents": 23000000,
    "inStock": true,
@@ -1104,6 +1321,11 @@
     "corazon": "Cedro, pachulí, jazmín",
     "fondo": "Musgo de roble, ámbar, notas amaderadas"
    },
+   "acordes": [
+    "Amaderadas",
+    "Cítricos",
+    "Chipre"
+   ],
    "category": "perfumeria-arabe",
    "priceCents": 21500000,
    "inStock": true,
@@ -1128,6 +1350,11 @@
     "corazon": "Cardamomo, flor de naranjo, ciruela, notas acuáticas",
     "fondo": "Ámbar, almizcle, pachulí, madera"
    },
+   "acordes": [
+    "Marinas",
+    "Almizclados",
+    "Afrutadas"
+   ],
    "category": "perfumeria-arabe",
    "priceCents": 23000000,
    "inStock": true,
@@ -1152,6 +1379,10 @@
     "corazon": "Flor de naranjo, ciruela, cardamomo",
     "fondo": "Musgo, madera de deriva, ámbar, almizcle"
    },
+   "acordes": [
+    "Marinas",
+    "Afrutadas"
+   ],
    "category": "perfumeria-arabe",
    "priceCents": 23500000,
    "inStock": true,
@@ -1176,6 +1407,10 @@
     "corazon": "Jazmín egipcio, notas marinas",
     "fondo": "Ámbar, notas minerales"
    },
+   "acordes": [
+    "Aromática",
+    "Marinas"
+   ],
    "category": "perfumeria-arabe",
    "priceCents": 24500000,
    "inStock": true,
@@ -1200,6 +1435,11 @@
     "corazon": "Nuez moscada, pimienta, violeta, alcaravea",
     "fondo": "Pachulí, oud, vainilla, ámbar"
    },
+   "acordes": [
+    "Especiadas",
+    "Floral",
+    "Orientales"
+   ],
    "category": "perfumeria-arabe",
    "priceCents": 18000000,
    "inStock": true,
@@ -1224,6 +1464,10 @@
     "corazon": "Rosa, jazmín, geranio, lichi",
     "fondo": "Pachulí, vainilla, vetiver, almizcle"
    },
+   "acordes": [
+    "Afrutadas",
+    "Floral"
+   ],
    "category": "perfumeria-arabe",
    "priceCents": 18000000,
    "inStock": true,
@@ -1248,6 +1492,11 @@
     "corazon": "Rosa, iris, jazmín",
     "fondo": "Ambroxan, almizcle, sándalo, cedro"
    },
+   "acordes": [
+    "Amaderadas",
+    "Cítricos",
+    "Almizclados"
+   ],
    "category": "perfumeria-arabe",
    "priceCents": 20500000,
    "inStock": true,
@@ -1272,6 +1521,11 @@
     "corazon": "Violeta, maderas blancas, sándalo",
     "fondo": "Almizcle, ambroxan, vetiver"
    },
+   "acordes": [
+    "Marinas",
+    "Almizclados",
+    "Afrutadas"
+   ],
    "category": "perfumeria-arabe",
    "priceCents": 19200000,
    "inStock": true,
@@ -1296,6 +1550,11 @@
     "corazon": "Jazmín, rosa, abedul",
     "fondo": "Almizcle, ámbar gris, pachulí, vainilla"
    },
+   "acordes": [
+    "Amaderadas",
+    "Almizclados",
+    "Afrutadas"
+   ],
    "category": "perfumeria-arabe",
    "priceCents": 19200000,
    "inStock": true,
@@ -1320,6 +1579,9 @@
     "corazon": "Coco, cacao, crema batida",
     "fondo": "Vainilla, leche, almizcle"
    },
+   "acordes": [
+    "Dulces"
+   ],
    "category": "perfumeria-arabe",
    "priceCents": 14500000,
    "inStock": true,
@@ -1344,6 +1606,11 @@
     "corazon": "Pimienta de Jamaica, cuero, lavanda",
     "fondo": "Vainilla, pachulí, ládano, cisto"
    },
+   "acordes": [
+    "Cálidas",
+    "Especiadas",
+    "Orientales"
+   ],
    "category": "perfumeria-arabe",
    "priceCents": 20500000,
    "inStock": true,
@@ -1368,6 +1635,11 @@
     "corazon": "Extracto de pepino, salvia, sal marina, iris",
     "fondo": "Haba tonka, almizcle, akigalawood, ambrofix, vainilla"
    },
+   "acordes": [
+    "Cítricos",
+    "Aromática",
+    "Almizclados"
+   ],
    "category": "perfumeria-arabe",
    "priceCents": 21500000,
    "inStock": true,
@@ -1392,6 +1664,11 @@
     "corazon": "Especias, jazmín, madreselva",
     "fondo": "Ámbar, maderas preciosas, vainilla"
    },
+   "acordes": [
+    "Cítricos",
+    "Cálidas",
+    "Florales Blancas"
+   ],
    "category": "perfumeria-arabe",
    "priceCents": 19500000,
    "inStock": true,
@@ -1416,6 +1693,10 @@
     "corazon": "Mango, haba tonka, madera seca",
     "fondo": "Ámbar, madera de guayaco, almizcle, notas de frutos secos, vainilla"
    },
+   "acordes": [
+    "Afrutadas",
+    "Especiadas"
+   ],
    "category": "perfumeria-arabe",
    "priceCents": 19000000,
    "inStock": true,
@@ -1440,6 +1721,11 @@
     "corazon": "Acorde gourmand, frutas tropicales, flores",
     "fondo": "Vainilla, sándalo, almizcle"
    },
+   "acordes": [
+    "Dulces",
+    "Afrutadas",
+    "Floral"
+   ],
    "category": "perfumeria-arabe",
    "priceCents": 15000000,
    "inStock": true,
@@ -1464,6 +1750,11 @@
     "corazon": "Tabaco, cedro, vainilla",
     "fondo": "Pachulí, olíbano, cashmeran, ámbar seco"
    },
+   "acordes": [
+    "Cálidas",
+    "Especiadas",
+    "Orientales"
+   ],
    "category": "perfumeria-arabe",
    "priceCents": 19000000,
    "inStock": true,
@@ -1488,6 +1779,11 @@
     "corazon": "Café, iris, pachulí",
     "fondo": "Vainilla, ámbar, maderas secas, benjuí, ládano"
    },
+   "acordes": [
+    "Cálidas",
+    "Especiadas",
+    "Orientales"
+   ],
    "category": "perfumeria-arabe",
    "priceCents": 15000000,
    "inStock": true,
@@ -1512,6 +1808,12 @@
     "corazon": "Vainilla, flores blancas, rosa",
     "fondo": "Notas polvosas, almizcle, ámbar"
    },
+   "acordes": [
+    "Dulces",
+    "Almizclados",
+    "Afrutadas",
+    "Floral"
+   ],
    "category": "perfumeria-arabe",
    "priceCents": 20500000,
    "inStock": true,
@@ -1536,6 +1838,11 @@
     "corazon": "Peonía, rosa blanca, jazmín",
     "fondo": "Almizcle, vainilla"
    },
+   "acordes": [
+    "Almizclados",
+    "Afrutadas",
+    "Floral"
+   ],
    "category": "perfumeria-arabe",
    "priceCents": 16000000,
    "inStock": true,
@@ -1560,6 +1867,10 @@
     "corazon": "Oud, pachulí",
     "fondo": "Oud, pachulí, almizcle"
    },
+   "acordes": [
+    "Amaderadas",
+    "Orientales"
+   ],
    "category": "sets-de-regalo",
    "priceCents": 15500000,
    "inStock": true,
@@ -1584,6 +1895,10 @@
     "corazon": "Lavanda, benjuí",
     "fondo": "Vainilla, haba tonka"
    },
+   "acordes": [
+    "Aromática",
+    "Orientales"
+   ],
    "category": "perfumeria-arabe",
    "priceCents": 20000000,
    "inStock": true,
@@ -1608,6 +1923,12 @@
     "corazon": "Jazmín",
     "fondo": "Ámbar gris, almizcle, extracto de cedro blanco"
    },
+   "acordes": [
+    "Cálidas",
+    "Almizclados",
+    "Especiadas",
+    "Orientales"
+   ],
    "category": "perfumeria-arabe",
    "priceCents": 29000000,
    "inStock": true,
@@ -1632,6 +1953,11 @@
     "corazon": "Jazmín egipcio, cedro",
     "fondo": "Ámbar gris, notas amaderadas, almizcle"
    },
+   "acordes": [
+    "Cálidas",
+    "Especiadas",
+    "Floral"
+   ],
    "category": "perfumeria-arabe",
    "priceCents": 24500000,
    "inStock": true,
@@ -1656,6 +1982,11 @@
     "corazon": "Melón, piña, notas dulces, ámbar",
     "fondo": "Vainilla, almizcle, notas amaderadas"
    },
+   "acordes": [
+    "Dulces",
+    "Cálidas",
+    "Almizclados"
+   ],
    "category": "perfumeria-arabe",
    "priceCents": 22000000,
    "inStock": true,
@@ -1680,6 +2011,12 @@
     "corazon": "Jazmín, lirio de los valles, canela, cedro de Virginia",
     "fondo": "Pachulí, vainilla, musgo de roble, caramelo, ámbar, ante, almizcle"
    },
+   "acordes": [
+    "Amaderadas",
+    "Florales Blancas",
+    "Afrutadas",
+    "Chipre"
+   ],
    "category": "disenador-dama",
    "priceCents": 17000000,
    "inStock": true,
@@ -1704,6 +2041,10 @@
     "corazon": "Iris, ámbar",
     "fondo": "Sándalo, cuero, papiro, ámbar"
    },
+   "acordes": [
+    "Amaderadas",
+    "Aromática"
+   ],
    "category": "disenador-dama",
    "priceCents": 17500000,
    "inStock": true,
@@ -1728,6 +2069,11 @@
     "corazon": "Lirio de los valles, nenúfar, lavanda, salvia",
     "fondo": "Sándalo, ámbar, almizcle, vainilla, vetiver"
    },
+   "acordes": [
+    "Marinas",
+    "Florales Blancas",
+    "Floral"
+   ],
    "category": "disenador-dama",
    "priceCents": 17000000,
    "inStock": true,
@@ -1752,6 +2098,12 @@
     "corazon": "Muguet, mimosa, fresia, jazmín, nardos",
     "fondo": "Sándalo, musgo de roble, ylang-ylang, almizcle"
    },
+   "acordes": [
+    "Florales Blancas",
+    "Afrutadas",
+    "Chipre",
+    "Floral"
+   ],
    "category": "disenador-dama",
    "priceCents": 15000000,
    "inStock": true,
@@ -1776,6 +2128,12 @@
     "corazon": "Acorde gourmand, frutas tropicales",
     "fondo": "Vainilla, almizcle, sándalo"
    },
+   "acordes": [
+    "Dulces",
+    "Almizclados",
+    "Afrutadas",
+    "Floral"
+   ],
    "category": "disenador-dama",
    "priceCents": 16000000,
    "inStock": true,
@@ -1800,6 +2158,9 @@
     "corazon": null,
     "fondo": null
    },
+   "acordes": [
+    "Floral"
+   ],
    "category": "disenador-dama",
    "priceCents": 15500000,
    "inStock": true,
@@ -1824,6 +2185,10 @@
     "corazon": "Orquídea de azúcar, cactus blanco",
     "fondo": "Cedro rojo, ámbar, vainilla"
    },
+   "acordes": [
+    "Floral",
+    "Orientales"
+   ],
    "category": "disenador-dama",
    "priceCents": 15500000,
    "inStock": true,
@@ -1848,6 +2213,11 @@
     "corazon": "Jazmín, flor de naranjo, raíz de iris",
     "fondo": "Incienso, vainilla"
    },
+   "acordes": [
+    "Florales Blancas",
+    "Afrutadas",
+    "Floral"
+   ],
    "category": "disenador-dama",
    "priceCents": 17000000,
    "inStock": true,
@@ -1872,6 +2242,10 @@
     "corazon": "Macaron, algodón de azúcar, lirio de los valles",
     "fondo": "Pachulí, vetiver"
    },
+   "acordes": [
+    "Cálidas",
+    "Afrutadas"
+   ],
    "category": "disenador-dama",
    "priceCents": 23500000,
    "inStock": true,
@@ -1896,6 +2270,10 @@
     "corazon": "Agua de rosas, peonía, fresia, ciclamen",
     "fondo": "Ámbar, ciruela, pachulí, almizcle"
    },
+   "acordes": [
+    "Afrutadas",
+    "Floral"
+   ],
    "category": "disenador-dama",
    "priceCents": 17000000,
    "inStock": true,
@@ -1920,6 +2298,11 @@
     "corazon": "Bambú, jazmín, rosa blanca",
     "fondo": "Cedro, ámbar, almizcle"
    },
+   "acordes": [
+    "Amaderadas",
+    "Cítricos",
+    "Floral"
+   ],
    "category": "disenador-dama",
    "priceCents": 29000000,
    "inStock": true,
@@ -1944,6 +2327,11 @@
     "corazon": "Crema de coco, pétalos de rosa",
     "fondo": "Azúcar de macarrón, almizcle aterciopelado"
    },
+   "acordes": [
+    "Dulces",
+    "Almizclados",
+    "Floral"
+   ],
    "category": "disenador-dama",
    "priceCents": 24500000,
    "inStock": true,
@@ -1968,6 +2356,12 @@
     "corazon": "Té verde, loto, jazmín absoluto",
     "fondo": "Almizcle, sándalo"
    },
+   "acordes": [
+    "Amaderadas",
+    "Marinas",
+    "Almizclados",
+    "Floral"
+   ],
    "category": "disenador-dama",
    "priceCents": 38500000,
    "inStock": true,
@@ -1992,6 +2386,12 @@
     "corazon": "Tuberosa, jazmín sambac",
     "fondo": "Haba tonka, cacao"
    },
+   "acordes": [
+    "Dulces",
+    "Cálidas",
+    "Florales Blancas",
+    "Floral"
+   ],
    "category": "disenador-dama",
    "priceCents": 39500000,
    "inStock": true,
@@ -2016,6 +2416,11 @@
     "corazon": "Jazmín sambac, neroli",
     "fondo": "Ambrofix, musgo, pachulí"
    },
+   "acordes": [
+    "Amaderadas",
+    "Cálidas",
+    "Floral"
+   ],
    "category": "disenador-dama",
    "priceCents": 47500000,
    "inStock": true,
@@ -2040,6 +2445,10 @@
     "corazon": "Piña, rosa, canela",
     "fondo": "Almizcle blanco, sándalo, ládano"
    },
+   "acordes": [
+    "Aromática",
+    "Almizclados"
+   ],
    "category": "disenador-hombre",
    "priceCents": 21500000,
    "inStock": true,
@@ -2064,6 +2473,10 @@
     "corazon": "Loto, mimosa",
     "fondo": "Ámbar, cedro, musgo de roble, almizcle"
    },
+   "acordes": [
+    "Marinas",
+    "Chipre"
+   ],
    "category": "disenador-hombre",
    "priceCents": 14500000,
    "inStock": true,
@@ -2088,6 +2501,11 @@
     "corazon": "Jazmín, geranio, madera de cachemira",
     "fondo": "Cedro, almizcle, pachulí"
    },
+   "acordes": [
+    "Amaderadas",
+    "Almizclados",
+    "Especiadas"
+   ],
    "category": "disenador-hombre",
    "priceCents": 16000000,
    "inStock": true,
@@ -2112,6 +2530,11 @@
     "corazon": "Tuberosa, ylang-ylang",
     "fondo": "Vetiver, gamuza"
    },
+   "acordes": [
+    "Amaderadas",
+    "Aromática",
+    "Florales Blancas"
+   ],
    "category": "disenador-hombre",
    "priceCents": 23500000,
    "inStock": true,
@@ -2136,6 +2559,12 @@
     "corazon": "Magnolia, orquídea, fresia, jazmín, durazno",
     "fondo": "Almizcle, sándalo, cedro, ámbar, opopónax, vainilla"
    },
+   "acordes": [
+    "Aromática",
+    "Almizclados",
+    "Florales Blancas",
+    "Floral"
+   ],
    "category": "disenador-hombre",
    "priceCents": 17500000,
    "inStock": true,
@@ -2160,6 +2589,10 @@
     "corazon": "Salvia, albahaca negra, hoja de cedro",
     "fondo": "Acorde de gamuza cremosa, pachulí, palo de rosa brasileño, ámbar"
    },
+   "acordes": [
+    "Amaderadas",
+    "Especiadas"
+   ],
    "category": "disenador-hombre",
    "priceCents": 19500000,
    "inStock": true,
@@ -2184,6 +2617,12 @@
     "corazon": "Romero, pimienta de Sichuan, palo de rosa",
     "fondo": "Incienso, musgo de roble, madera almizclada"
    },
+   "acordes": [
+    "Amaderadas",
+    "Cítricos",
+    "Aromática",
+    "Chipre"
+   ],
    "category": "disenador-hombre",
    "priceCents": 26000000,
    "inStock": true,
@@ -2208,6 +2647,10 @@
     "corazon": "Vetiver",
     "fondo": "Acorde de jengibre, acorde salino"
    },
+   "acordes": [
+    "Amaderadas",
+    "Aromática"
+   ],
    "category": "disenador-hombre",
    "priceCents": 43000000,
    "inStock": true,
@@ -2232,6 +2675,11 @@
     "corazon": "Regaliz negro, azafrán, flor de naranjo",
     "fondo": "Vainilla negra, madera de roble, vetiver"
    },
+   "acordes": [
+    "Dulces",
+    "Aromática",
+    "Cálidas"
+   ],
    "category": "disenador-hombre",
    "priceCents": 37000000,
    "inStock": true,
@@ -2256,6 +2704,11 @@
     "corazon": "Canela, notas especiadas, rosa",
     "fondo": "Ámbar, cuero, notas amaderadas, pachulí de la India"
    },
+   "acordes": [
+    "Amaderadas",
+    "Cálidas",
+    "Especiadas"
+   ],
    "category": "disenador-hombre",
    "priceCents": 32000000,
    "inStock": true,
@@ -2280,6 +2733,10 @@
     "corazon": "Salvia esclarea, lavandín, geranio",
     "fondo": "Pachulí, notas minerales, vetiver"
    },
+   "acordes": [
+    "Aromática",
+    "Marinas"
+   ],
    "category": "disenador-hombre",
    "priceCents": 30000000,
    "inStock": true,
@@ -2304,6 +2761,10 @@
     "corazon": "Caramelo, haba tonka",
     "fondo": "Vetiver"
    },
+   "acordes": [
+    "Amaderadas",
+    "Orientales"
+   ],
    "category": "disenador-hombre",
    "priceCents": 37500000,
    "inStock": true,
@@ -2328,6 +2789,10 @@
     "corazon": "Lavanda, flor de naranjo, canela, comino",
     "fondo": "Sándalo, vainilla, cedro, haba tonka, ámbar"
    },
+   "acordes": [
+    "Aromática",
+    "Orientales"
+   ],
    "category": "disenador-hombre",
    "priceCents": 27500000,
    "inStock": true,
@@ -2352,6 +2817,11 @@
     "corazon": "Vainilla, benjuí",
     "fondo": "Miel, haba tonka, tabaco"
    },
+   "acordes": [
+    "Dulces",
+    "Aromática",
+    "Especiadas"
+   ],
    "category": "disenador-hombre",
    "priceCents": 35000000,
    "inStock": true,
@@ -2376,6 +2846,12 @@
     "corazon": "Dátiles, praliné, tuberosa, mahonial",
     "fondo": "Vainilla, haba tonka, benjuí, mirra, amberwood, akigalawood"
    },
+   "acordes": [
+    "Dulces",
+    "Cálidas",
+    "Especiadas",
+    "Orientales"
+   ],
    "category": "sets-de-regalo",
    "priceCents": 20500000,
    "inStock": true,
@@ -2404,6 +2880,11 @@
     "corazon": "Caramelo, haba tonka, tagetes",
     "fondo": "Vetiver, cedro, ambroxán"
    },
+   "acordes": [
+    "Cálidas",
+    "Especiadas",
+    "Orientales"
+   ],
    "category": "sets-de-regalo",
    "priceCents": 23500000,
    "inStock": true,
@@ -2432,6 +2913,12 @@
     "corazon": "Hoja de laurel, jazmín",
     "fondo": "Ámbar gris, madera de guayaco, musgo de roble, pachulí"
    },
+   "acordes": [
+    "Amaderadas",
+    "Aromática",
+    "Marinas",
+    "Chipre"
+   ],
    "category": "sets-de-regalo",
    "priceCents": 37000000,
    "inStock": true,
@@ -2460,6 +2947,12 @@
     "corazon": "Nuez moscada, violeta, raíz de iris, jazmín, lirio de los valles, rosa",
     "fondo": "Sándalo, ámbar, almizcle, cedro, musgo de roble"
    },
+   "acordes": [
+    "Cítricos",
+    "Aromática",
+    "Florales Blancas",
+    "Chipre"
+   ],
    "category": "sets-de-regalo",
    "priceCents": 25000000,
    "inStock": true,
@@ -2488,6 +2981,11 @@
     "corazon": "Jazmín, fresia, arena",
     "fondo": "Ciprés, almizcle, vetiver"
    },
+   "acordes": [
+    "Amaderadas",
+    "Cítricos",
+    "Almizclados"
+   ],
    "category": "sets-de-regalo",
    "priceCents": 29000000,
    "inStock": true,
@@ -2516,6 +3014,11 @@
     "corazon": "Grosella negra, crema batida, malvavisco, jazmín, frangipani, madreselva",
     "fondo": "Vainilla, madera de cachemira"
    },
+   "acordes": [
+    "Dulces",
+    "Florales Blancas",
+    "Floral"
+   ],
    "category": "sets-de-regalo",
    "priceCents": 24500000,
    "inStock": true,
@@ -2584,5 +3087,20 @@
   "versace-bright-crystal-90ml",
   "rasasi-hawas-malibu-edp-100ml",
   "rasasi-hawas-pink-edp-100ml"
+ ],
+ "acordes": [
+  "Amaderadas",
+  "Cítricos",
+  "Dulces",
+  "Aromática",
+  "Marinas",
+  "Cálidas",
+  "Almizclados",
+  "Florales Blancas",
+  "Afrutadas",
+  "Especiadas",
+  "Chipre",
+  "Floral",
+  "Orientales"
  ]
 }

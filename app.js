@@ -60,6 +60,7 @@ function catalogState(params, category) {
     genders: params.getAll("genero"),
     brands: params.getAll("marca"),
     nuevos: params.get("nuevo") === "1",
+    notas: params.getAll("nota"),
     price: PRICE_RANGES.some((r) => r.key === price) ? price : null,
     sort: SORTS[params.get("orden")] ? params.get("orden") : "recientes",
   };
@@ -97,12 +98,13 @@ function catalogHref(state, changes = {}) {
   s.genders.forEach((g) => params.append("genero", g));
   s.brands.forEach((b) => params.append("marca", b));
   if (s.nuevos) params.set("nuevo", "1");
+  s.notas.forEach((n) => params.append("nota", n));
   if (s.price) params.set("precio", s.price);
   if (s.sort !== "recientes") params.set("orden", s.sort);
   const query = params.toString();
   return `#/catalogo${s.category ? "/" + encodeURIComponent(s.category) : ""}${query ? "?" + query : ""}`;
 }
-const EMPTY = { category: null, q: "", genders: [], brands: [], nuevos: false, price: null, sort: "recientes" };
+const EMPTY = { category: null, q: "", genders: [], brands: [], nuevos: false, notas: [], price: null, sort: "recientes" };
 
 function route() {
   const { parts, params } = parseHash();
@@ -192,6 +194,7 @@ function applyFilters(state) {
     if (state.genders.length && !state.genders.includes(p.gender)) return false;
     if (state.brands.length && !state.brands.includes(p.brand)) return false;
     if (state.nuevos && !isNew(p.slug)) return false;
+    if (state.notas.length && !state.notas.some((n) => (p.acordes || []).includes(n))) return false;
     const pesos = (p.priceCents ?? 0) / 100;
     if (range && ((range.min != null && pesos < range.min) || (range.max != null && pesos > range.max))) return false;
     return true;
@@ -208,7 +211,9 @@ function facets(state) {
     base.forEach((p) => p[key] && m.set(p[key], (m.get(p[key]) || 0) + 1));
     return [...m].sort((a, b) => a[0].localeCompare(b[0], "es")).map(([value, n]) => ({ value, n }));
   };
-  return { genders: count("gender"), brands: count("brand") };
+  // Notas: en el orden que pidió la clienta, solo las que tienen perfumes.
+  const notas = (DATA.acordes || []).map((value) => ({ value, n: base.filter((p) => (p.acordes || []).includes(value)).length })).filter((x) => x.n);
+  return { genders: count("gender"), brands: count("brand"), notas };
 }
 
 function renderCatalog(state) {
@@ -234,6 +239,7 @@ function renderCatalog(state) {
   state.genders.forEach((g) => chips.push({ label: g, href: catalogHref(state, { genders: state.genders.filter((x) => x !== g) }) }));
   state.brands.forEach((b) => chips.push({ label: b, href: catalogHref(state, { brands: state.brands.filter((x) => x !== b) }) }));
   if (state.nuevos) chips.push({ label: "Nuevos", href: catalogHref(state, { nuevos: false }) });
+  state.notas.forEach((n) => chips.push({ label: n, href: catalogHref(state, { notas: state.notas.filter((x) => x !== n) }) }));
   const pr = PRICE_RANGES.find((r) => r.key === state.price);
   if (pr) chips.push({ label: pr.label, href: catalogHref(state, { price: null }) });
   const clearHref = catalogHref({ ...EMPTY, category: state.category });
@@ -243,7 +249,7 @@ function renderCatalog(state) {
   const brandQ = norm(ui.brandQuery);
   const matching = f.brands.filter((b) => norm(b.value).includes(brandQ));
   const visible = ui.allBrands || brandQ ? matching : matching.filter((b, i) => i < BRANDS_SHOWN || state.brands.includes(b.value));
-  const activeCount = state.genders.length + state.brands.length + (state.nuevos ? 1 : 0) + (state.price ? 1 : 0);
+  const activeCount = state.genders.length + state.brands.length + (state.nuevos ? 1 : 0) + state.notas.length + (state.price ? 1 : 0);
 
   const panel = `
     <p class="filters-title">Filtros</p>
@@ -252,6 +258,7 @@ function renderCatalog(state) {
     </button>
     <form class="panel ${ui.filtersOpen ? "open" : ""}" id="panel">
       ${newCount || state.nuevos ? `<fieldset><legend>Novedad</legend>${opt("checkbox", "nuevo", "1", "Solo nuevos", newCount, state.nuevos)}</fieldset>` : ""}
+      ${f.notas.length ? `<fieldset><legend>Notas</legend>${f.notas.map((x) => opt("checkbox", "nota", x.value, x.value, x.n, state.notas.includes(x.value))).join("")}</fieldset>` : ""}
       ${f.genders.length ? `<fieldset><legend>Género</legend>${f.genders.map((g) => opt("checkbox", "genero", g.value, g.value, g.n, state.genders.includes(g.value))).join("")}</fieldset>` : ""}
       ${f.brands.length ? `<fieldset><legend>Marca</legend>
         ${f.brands.length > BRANDS_SHOWN ? `<label class="sr-only" for="brandSearch">Buscar marca</label><input class="brand-search" id="brandSearch" type="search" placeholder="Buscar marca…" value="${esc(ui.brandQuery)}" />` : ""}
@@ -299,7 +306,7 @@ function renderCatalog(state) {
         if (e.target.id === "brandSearch") return;
         const data = new FormData(form);
         const price = data.get("precio");
-        location.hash = catalogHref(state, { genders: data.getAll("genero"), brands: data.getAll("marca"), nuevos: data.get("nuevo") === "1", price: price || null }).slice(1);
+        location.hash = catalogHref(state, { genders: data.getAll("genero"), brands: data.getAll("marca"), nuevos: data.get("nuevo") === "1", notas: data.getAll("nota"), price: price || null }).slice(1);
       });
       form.addEventListener("submit", (e) => e.preventDefault());
       document.getElementById("filtersToggle").addEventListener("click", () => {

@@ -412,7 +412,8 @@ window.addEventListener("hashchange", () => {
   route();
 });
 
-fetch("data/catalogo.json")
+// Sin caché: el catálogo cambia con cada exportación y el navegador no debe mostrar uno viejo.
+fetch("data/catalogo.json", { cache: "no-cache" })
   .then((r) => {
     if (!r.ok) throw new Error(r.status);
     return r.json();

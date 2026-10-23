@@ -133,6 +133,7 @@ function card(p, eager) {
       ${p.brand ? `<p class="card__brand">${esc(p.brand)}</p>` : ""}
       <h3 class="card__title">${esc(p.title)}</h3>
       ${gender ? `<p class="card__gender">${gender}</p>` : ""}
+      ${p.notes?.familia ? `<p class="card__family">${esc(p.notes.familia)}</p>` : ""}
       ${p.priceCents != null ? `<p class="card__price">${formatPrice(p.priceCents)}</p>` : ""}
     </div>
   </a></li>`;
